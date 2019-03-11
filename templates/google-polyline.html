@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>SMAFramework - Google Polylines</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      String.prototype.hashCode = function() {
+        var hash = 0, i, chr;
+        if (this.length === 0) return hash;
+        for (i = 0; i < this.length; i++) {
+          chr   = this.charCodeAt(i);
+          hash  = ((hash << 5) - hash) + chr;
+          hash |= 0; // Convert to 32bit integer
+        }
+        return hash > 0 ? hash : -1 * hash;
+      };
+
+      // This example creates a 2-pixel-wide red polyline showing the path of William
+      // Kingsford Smith's first trans-Pacific flight between Oakland, CA, and
+      // Brisbane, Australia.
+
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 13,
+          center: {lat: 40.745330, lng: -73.940273},
+          mapTypeId: 'satellite'
+        });
+
+        var traces = <?=LIST?>;
+
+        var colors = ['#e54629', '#a70fa1', '#56cc64', '#626ec7', '#e1d029', '#dfdfdf', '#ff7fd4', '#fff500', '#3e96b8', '#ffa12d', '#ff0000','#fff400','#2fff00','#001eff','#6f00ff'];
+
+        var shape = {
+          coords: [1, 1, 1, 20, 18, 20, 18, 1],
+          type: 'poly'
+        };
+
+        var icons = [
+          '1496172142_Radiation.png',
+          '1496172159_Warning.png',
+          '1496172143_Boss.png',
+          '1496172163_Lock.png',
+          '1496172147_Apply.png',
+          '1496172164_New.png',
+          '1496172147_Delete.png',
+          '1496172166_Stop_sign.png',
+          '1496172149_In-yang.png',
+          '1496172169_Person.png',
+          '1496172152_Alien.png',
+          '1496172170_Bee.png',
+          '1496172153_Male.png',
+          'b100004483ac5d0d94d489caed0069cd364be9b.png',
+          '1496172154_Heart.png',
+          'b100039483ac5d0d94d489caed0069cd364be9b.png',
+          '1496172158_Modify.png',
+          'b100044483ac5d0d94d489caed0069cd364be9b.png',
+        ];
+
+        for (var i = traces.length - 1; i >= 0; i--) {
+          var trace = new google.maps.Polyline({
+            path: traces[i],
+            geodesic: true,
+            strokeColor: colors[Math.round(traces[i][0].timestamp / 60 / 60) % colors.length],
+            strokeOpacity: 1.0,
+            strokeWeight: 2
+          });
+
+          trace.setMap(map);
+
+          var marker = new google.maps.Marker({
+            position: {lat: traces[i][0].lat, lng:traces[i][0].lng},
+            map: map,
+            icon: {
+              url: '../../templates/img/' + icons[traces[i][0].twitter_uid.hashCode() % icons.length],
+              // size: new google.maps.Size(20, 32),
+              // origin: new google.maps.Point(0, 0),
+              // anchor: new google.maps.Point(0, 32)
+            },
+            shape: shape,
+            title: traces[i][0].twitter_uid
+          });
+
+          var marker = new google.maps.Marker({
+            position: {lat: traces[i][1].lat, lng:traces[i][1].lng},
+            map: map,
+            icon: {
+              url: '../../templates/img/' + icons[traces[i][0].twitter_uid.hashCode() % icons.length],
+              // size: new google.maps.Size(20, 32),
+              // origin: new google.maps.Point(0, 0),
+              // anchor: new google.maps.Point(0, 32)
+            },
+            shape: shape,
+            title: traces[i][1].twitter_uid
+          });
+        }
+      }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=<?=KEY?>&libraries=visualization&callback=initMap">
+    </script>
+  </body>
+</html>

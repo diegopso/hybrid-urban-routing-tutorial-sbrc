@@ -1,4 +1,16 @@
-# Configure Tutorial
+# Hybrid Urban Routing Tutorial SBRC
+
+This tutorial was produced as a suplementary material for the short course "Computação Urbana da Teoria à Prática: Fundamentos, Aplicações e Desafios" presented at the [SBRC'19](http://sbrc2019.sbc.org.br/en/). The aim is to familiarize the audience with the Urban Computing framework by usan urban mobility data to identify and analyse mobility flows.
+
+## Requirements
+
+You may use a GIT client to download this tutorial from Github. Windows OS usually do not come with GIT out of the box, so you may need to install it. Also, if you do not have Python 3 on your machine you have to install.
+
+## Configure Tutorial
+
+Download the tutorial from Github using GIT.
+
+    git clone https://github.com/diegopso/hybrid-urban-routing-tutorial-sbrc.git
 
 Create venv:
 

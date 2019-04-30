@@ -1,0 +1,290 @@
+[
+  {
+    "summary": "Av. Presidente Wilson",
+    "legs": [
+      {
+        "distance": {
+          "value": 11661,
+          "text": "11.7 km"
+        },
+        "duration": {
+          "value": 1682,
+          "text": "28 mins"
+        },
+        "end_address": "Mooca-Juventus - Mooca, S\u00e3o Paulo - SP, 03162-010, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 95,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 15,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Alameda S\u00e3o Caetano</b> toward <b>R. Solim\u00f5es</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.5550684,
+              "lat": -23.6279255
+            },
+            "end_location": {
+              "lng": -46.554621,
+              "lat": -23.6286716
+            },
+            "polyline": {
+              "points": "pyeoCdxc{GrCyA"
+            }
+          },
+          {
+            "distance": {
+              "value": 222,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 48,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> at the 1st cross street onto <b>R. Solim\u00f5es</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.554621,
+              "lat": -23.6286716
+            },
+            "end_location": {
+              "lng": -46.5565126,
+              "lat": -23.6296691
+            },
+            "polyline": {
+              "points": "d~eoCjuc{GhAlCXl@^x@Zv@f@jA"
+            }
+          },
+          {
+            "distance": {
+              "value": 45,
+              "text": "45 m"
+            },
+            "duration": {
+              "value": 9,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Alameda Conde de Porto Alegre</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.5565126,
+              "lat": -23.6296691
+            },
+            "end_location": {
+              "lng": -46.55673849999999,
+              "lat": -23.6293172
+            },
+            "polyline": {
+              "points": "ldfoCdad{GeAl@"
+            }
+          },
+          {
+            "distance": {
+              "value": 1091,
+              "text": "1.1 km"
+            },
+            "duration": {
+              "value": 163,
+              "text": "3 mins"
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Av. Pres. Kennedy</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-slight-right",
+            "start_location": {
+              "lng": -46.55673849999999,
+              "lat": -23.6293172
+            },
+            "end_location": {
+              "lng": -46.5560962,
+              "lat": -23.6199724
+            },
+            "polyline": {
+              "points": "fbfoCrbd{G}@Jw@H[BaBTeBNw@Jw@Li@J{@JC?_AN_ANO@G?UAM?MAs@?WAI?A?o@As@C}CCGAG?GAE?AAGAGAGAAAGAGCCAEAGCGEMGWMGCAAEAEEGCEEGG]a@UW]YUS]U]SCC_@Oa@MOCICe@GG?OAMAGAG?E?G?O?E?O?E@K?K@I?K@K@I?K@YFO@k@H"
+            }
+          },
+          {
+            "distance": {
+              "value": 392,
+              "text": "0.4 km"
+            },
+            "duration": {
+              "value": 75,
+              "text": "1 min"
+            },
+            "html_instructions": "At the roundabout, take the <b>2nd</b> exit and stay on <b>Av. Pres. Kennedy</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "roundabout-right",
+            "start_location": {
+              "lng": -46.5560962,
+              "lat": -23.6199724
+            },
+            "end_location": {
+              "lng": -46.5558225,
+              "lat": -23.6164767
+            },
+            "polyline": {
+              "points": "xgdoCr~c{GAAA?C?I?Y@A@A?C@A?AACAA?AAC?AAC?A?mECG?iAAs@Ak@AG?I?GAG?I?GAGAKAgAMe@Iw@I"
+            }
+          },
+          {
+            "distance": {
+              "value": 2557,
+              "text": "2.6 km"
+            },
+            "duration": {
+              "value": 452,
+              "text": "8 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Av. Goi\u00e1s</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.5558225,
+              "lat": -23.6164767
+            },
+            "end_location": {
+              "lng": -46.5805864,
+              "lat": -23.6151012
+            },
+            "polyline": {
+              "points": "~qcoCz|c{G?jA?lA?P@@?~@ChEAzCCfD?X?jAAjA?J@`@AdA@f@Av@AzACrC?\\CbDCbDA|A?hAC\\?rFAz@Az@?v@Av@?l@?tA?NAjAAlA?zAAzA?PAPAjB?h@AlBAf@?JAFAHAHMf@IXGTGR?BEJCFCFGHEFKNEDcAjAILEJEJCJEJALAH?F?RAtAArCAPApCC|AE`E?~@G~FCb@?|AAz@@bB"
+            }
+          },
+          {
+            "distance": {
+              "value": 829,
+              "text": "0.8 km"
+            },
+            "duration": {
+              "value": 114,
+              "text": "2 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Av. Guido Aliberti</b> (signs for <b>Av. Pres. Wilson</b>)",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.5805864,
+              "lat": -23.6151012
+            },
+            "end_location": {
+              "lng": -46.5795233,
+              "lat": -23.607882
+            },
+            "polyline": {
+              "points": "jicoCtwh{GqFm@{BUSCECEAAACAEEGEi@c@YSKCEAIA[Gw@Iy@IQCI?I?G@I@YHGBQDQDODQD_@DSBSBSBS?U@KAsI_A_@GOCQAc@ESAS@"
+            }
+          },
+          {
+            "distance": {
+              "value": 36,
+              "text": "36 m"
+            },
+            "duration": {
+              "value": 11,
+              "text": "1 min"
+            },
+            "html_instructions": "Continue straight to stay on <b>Av. Guido Aliberti</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "straight",
+            "start_location": {
+              "lng": -46.5795233,
+              "lat": -23.607882
+            },
+            "end_location": {
+              "lng": -46.5795359,
+              "lat": -23.6075693
+            },
+            "polyline": {
+              "points": "f|aoC~ph{GMBIBA?I@IAGAGA"
+            }
+          },
+          {
+            "distance": {
+              "value": 6293,
+              "text": "6.3 km"
+            },
+            "duration": {
+              "value": 757,
+              "text": "13 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Av. Presidente Wilson</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.5795359,
+              "lat": -23.6075693
+            },
+            "end_location": {
+              "lng": -46.6093885,
+              "lat": -23.5584628
+            },
+            "polyline": {
+              "points": "hzaoCbqh{GKBOJQHaAd@ULq@`@_@N{GpDc@V_@TG@E@CBGBGDq@`@[P}@l@qAx@i@^aAl@q@b@GFi@`@cAv@ABABCDABQN}FtEqB`By@p@y@n@qB`BuBdB_At@gCrBuHdGsAfAcCpByAjAc@\\YTg@`@UPED_At@EDy@l@o@j@_@ZeAx@{BhBoAbAk@d@cF`Ec@XUN{@h@kDnBm@f@OJSNWPOJSHKDsEdBuGfCyEjBaFlBgA`@}Al@IBMFSHC@IDMD{FxBeHnCwAj@OFgLjEeG~BeG~ByB|@QHiI|CIBqHtCIDqAf@sCfA_Bl@SH_A^w@VA@WDE@GB_@LGDIFCDwBz@KDEBGFYJWJ{@Z]Ns@XQFC@C?E?C?sAh@u@TI@k@TQHGBADGBc@PaDjAGBqGbCE@C@uFtBsAf@}Bx@IBcC|@QH"
+            }
+          },
+          {
+            "distance": {
+              "value": 101,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 38,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Esta\u00e7\u00e3o Mooca</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6093885,
+              "lat": -23.5584628
+            },
+            "end_location": {
+              "lng": -46.6084792,
+              "lat": -23.5581178
+            },
+            "polyline": {
+              "points": "jgxnCtkn{GW_AO{@K]EOACEEAA"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "duration_in_traffic": {
+          "value": 1551,
+          "text": "26 mins"
+        },
+        "start_location": {
+          "lng": -46.5550684,
+          "lat": -23.6279255
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6084792,
+          "lat": -23.5581178
+        },
+        "start_address": "Alameda S\u00e3o Caetano, 1112 - Santa Paula, S\u00e3o Caetano do Sul - SP, 09560-051, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "pyeoCdxc{GrCyAhAlCx@fBbAbCeAl@}@JsALgEd@uEp@sC`@y@CaJMq@KoAi@UMs@s@s@q@s@i@a@WaA]gAOm@EqABk@BaBTQAa@DUGsKIa@CSCmBWw@I?jA?~ACfLExI@zCQtXCpGCvBArFIpNCjESbAYfAUd@{AhBYp@Ij@C|FYd[?~CmJcAa@K{@q@e@WOC_D_@e@BeAXuATqAHoKmAu@Gg@?c@HQCGAKBa@TwAr@qAp@_IhEg@VID}A|@{FtDgDdCIP{LxJaJlHuYtUqHbG{MtKy@h@gFxC}@r@k@`@c@T_FjByWbKiCbAeTjImTjI_K|DwS`I}MfF]Fg@PQLCDwBz@QHa@ReDpA_@HwAh@_AV}@^IHuEdBqZ`LQHW_A[yAO["
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6093885,
+        "lat": -23.6296691
+      },
+      "northeast": {
+        "lng": -46.554621,
+        "lat": -23.5581178
+      }
+    },
+    "warnings": [],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+]

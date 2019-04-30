@@ -1,0 +1,575 @@
+[
+  {
+    "summary": "BR-050",
+    "legs": [
+      {
+        "distance": {
+          "value": 23227,
+          "text": "23.2 km"
+        },
+        "duration": {
+          "value": 3166,
+          "text": "53 mins"
+        },
+        "end_address": "R. Silvia, 927 - Osvaldo Cruz, S\u00e3o Caetano do Sul - SP, 09571-300, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 239,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 44,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>east</b> toward <b>R. Arnaldo Jos\u00e9 Pac\u00edfico</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.6807871,
+              "lat": -23.520107
+            },
+            "end_location": {
+              "lng": -46.680966,
+              "lat": -23.5184285
+            },
+            "polyline": {
+              "points": "twpnC|i|{GA[?SCUCGIEGAI?KBI@[L_@JICA@IBKDMHQTUJk@NYJSFODE?MCA?"
+            }
+          },
+          {
+            "distance": {
+              "value": 14,
+              "text": "14 m"
+            },
+            "duration": {
+              "value": 3,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>R. Joseph Nigri</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.680966,
+              "lat": -23.5184285
+            },
+            "end_location": {
+              "lng": -46.680845,
+              "lat": -23.5183776
+            },
+            "polyline": {
+              "points": "dmpnC`k|{GEGCQ"
+            }
+          },
+          {
+            "distance": {
+              "value": 94,
+              "text": "94 m"
+            },
+            "duration": {
+              "value": 18,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Joseph Nigri</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.680845,
+              "lat": -23.5183776
+            },
+            "end_location": {
+              "lng": -46.6810971,
+              "lat": -23.5176626
+            },
+            "polyline": {
+              "points": "zlpnCfj|{GEBu@h@UPEDQ?E?C?CACAAACAECGE"
+            }
+          },
+          {
+            "distance": {
+              "value": 1384,
+              "text": "1.4 km"
+            },
+            "duration": {
+              "value": 262,
+              "text": "4 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Av. Marqu\u00eas de S\u00e3o Vicente</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6810971,
+              "lat": -23.5176626
+            },
+            "end_location": {
+              "lng": -46.6682725,
+              "lat": -23.5213546
+            },
+            "polyline": {
+              "points": "jhpnCzk|{GFYHc@?CDQFU?CDKFOLWJSDIR]Ra@FORc@DIDKDKDIHc@D[Hg@?c@A[CyAAQ?S?ABe@DUDY^iBZgBN{@?Af@oCFa@`@yBRmAn@qDN}@l@{Cb@aCXaB\\iB`@}Bj@qCDYBQBKJa@FMLSLSLa@"
+            }
+          },
+          {
+            "distance": {
+              "value": 492,
+              "text": "0.5 km"
+            },
+            "duration": {
+              "value": 85,
+              "text": "1 min"
+            },
+            "html_instructions": "At the roundabout, take the <b>4th</b> exit onto <b>Av. Ordem e Progresso</b> heading to <b>Casa Verde</b>/<b>BR-116</b>/<b>Dutra</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "roundabout-right",
+            "start_location": {
+              "lng": -46.6682725,
+              "lat": -23.5213546
+            },
+            "end_location": {
+              "lng": -46.6671021,
+              "lat": -23.5181584
+            },
+            "polyline": {
+              "points": "l_qnCt{y{GBABA@ABA@CBA@CBA@ADEDGBEDEBEDG?ABCBG?A?A@A?A?A?A?A?A?A?A?A?A?A?A?C?AAA?A?A?CCICI?AAA?AAAAA?AAACECECCEEECECEAECA?A?CAA?A?A?A?E?A?C?A?A?C?A@A?A?C?A@A?A?A@A?A@KEGCEAEAI?K?K@QBYBMBK@I@G@I?I@K?k@EcAGWCG?MA{@Gc@EIAIAsAMA?YCQA"
+            }
+          },
+          {
+            "distance": {
+              "value": 291,
+              "text": "0.3 km"
+            },
+            "duration": {
+              "value": 30,
+              "text": "1 min"
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>R. H\u00e9lio de Barros</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-slight-right",
+            "start_location": {
+              "lng": -46.6671021,
+              "lat": -23.5181584
+            },
+            "end_location": {
+              "lng": -46.6652439,
+              "lat": -23.5162544
+            },
+            "polyline": {
+              "points": "nkpnCjty{Gg@_@e@WAAc@Yq@e@wAeA]WIGGGGGGGIKIKEGEGAECEEKAIG]IS"
+            }
+          },
+          {
+            "distance": {
+              "value": 1804,
+              "text": "1.8 km"
+            },
+            "duration": {
+              "value": 157,
+              "text": "3 mins"
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Av. Pres. Castelo Branco</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-slight-right",
+            "start_location": {
+              "lng": -46.6652439,
+              "lat": -23.5162544
+            },
+            "end_location": {
+              "lng": -46.6477408,
+              "lat": -23.5184647
+            },
+            "polyline": {
+              "points": "p_pnCvhy{GB_@PuBFq@L_AB]BY@K@OB[BSBe@Dk@@WV_EDs@Dm@Bk@HoAFeA@g@Z_FJkBPiCFw@FgAPeCDq@D{@Dy@@[@AByA@MBQDSLa@DQ@I@KBUTcDJqBFyC@a@BsA?S@e@@U?a@HoAr@yIBWHmARqB"
+            }
+          },
+          {
+            "distance": {
+              "value": 80,
+              "text": "80 m"
+            },
+            "duration": {
+              "value": 7,
+              "text": "1 min"
+            },
+            "html_instructions": "Take the exit toward <b>BR-050</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "ramp-right",
+            "start_location": {
+              "lng": -46.6477408,
+              "lat": -23.5184647
+            },
+            "end_location": {
+              "lng": -46.64698629999999,
+              "lat": -23.518625
+            },
+            "polyline": {
+              "points": "jmpnCj{u{GDE@EDG@GBOF{@Dm@"
+            }
+          },
+          {
+            "distance": {
+              "value": 955,
+              "text": "1.0 km"
+            },
+            "duration": {
+              "value": 117,
+              "text": "2 mins"
+            },
+            "html_instructions": "Continue onto <b>BR-050</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.64698629999999,
+              "lat": -23.518625
+            },
+            "end_location": {
+              "lng": -46.6384886,
+              "lat": -23.521595
+            },
+            "polyline": {
+              "points": "lnpnCtvu{GBa@DY@KBMDQBMBKBIBKDOHSLYDIFKFKHMPUJKTY^a@`@g@X[h@m@BEJKHMFGT[JMFKFMFMFMBKDKDOJ]Jy@ZgCJaAJy@d@kDNcANsAB[HaADe@BYJs@@S@O@I@W@U?Q@[AU?K"
+            }
+          },
+          {
+            "distance": {
+              "value": 2005,
+              "text": "2.0 km"
+            },
+            "duration": {
+              "value": 358,
+              "text": "6 mins"
+            },
+            "html_instructions": "Slight <b>right</b> to stay on <b>BR-050</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-slight-right",
+            "start_location": {
+              "lng": -46.6384886,
+              "lat": -23.521595
+            },
+            "end_location": {
+              "lng": -46.6254783,
+              "lat": -23.5333369
+            },
+            "polyline": {
+              "points": "~`qnCpat{G@Q?C?C@C?I?SCkB?oA?m@@uA?m@@Y@M@O@K@K@C@KBO@MBKBODM@KBIDMDIBGDIZk@JQR_@JO|BcEp@oAz@{AZk@d@y@h@_AJQ^o@fAkBHOHOHQHQFMDKTc@LUNWR[PWJMLKFG~@y@LMRUJMJKRSPQx@]x@]f@UpAi@~Ao@p@Y\\Or@[bAa@TITKnCiAd@UnAe@TKfAe@bCcAdBo@XOXKh@UXMj@QXIREXGHA"
+            }
+          },
+          {
+            "distance": {
+              "value": 1811,
+              "text": "1.8 km"
+            },
+            "duration": {
+              "value": 292,
+              "text": "5 mins"
+            },
+            "html_instructions": "Continue straight to stay on <b>BR-050</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "straight",
+            "start_location": {
+              "lng": -46.6254783,
+              "lat": -23.5333369
+            },
+            "end_location": {
+              "lng": -46.6286026,
+              "lat": -23.5482757
+            },
+            "polyline": {
+              "points": "jjsnCfpq{GLCXCVAN?V?T?`@@R@J?N@`@DP@PDJBF@TH`@LfBp@f@R|Bv@FB|Ah@`Bj@\\LrC~@|CdATHfBn@VJd@NVH`ErAXLTH@?NFZJxBp@XJt@THBVH`@Lb@Nf@THBF@ZBXB`@DXDh@NFBPHJDFDNNd@\\`@XNHPHNFPDD@XBR?J@FAF?JAJAHAFAj@ITMb@STO^Ul@]p@a@z@k@p@g@FELInA}@RQ"
+            }
+          },
+          {
+            "distance": {
+              "value": 3240,
+              "text": "3.2 km"
+            },
+            "duration": {
+              "value": 275,
+              "text": "5 mins"
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>BR-050</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-slight-left",
+            "start_location": {
+              "lng": -46.6286026,
+              "lat": -23.5482757
+            },
+            "end_location": {
+              "lng": -46.6083651,
+              "lat": -23.5687986
+            },
+            "polyline": {
+              "points": "vgvnCvcr{G?I?C@A?A@CBC@A@CBAFEJIPK@ANIJGRMHG^QDC|@i@DA\\S\\SXO`@QZO`@O`@Oh@Sl@Un@Wn@UVIj@Of@Ml@OPCXG^MTKZMb@YROROn@e@b@WZSDEXOLKJITOXSJIXURQLKRQb@c@Z]\\a@\\c@\\e@Zc@LUJQHMP[Tc@Re@LYPa@Nc@@CNa@J]DMBKPq@H]H[DSBKLk@VkALi@Lm@H]F[Ha@Nm@Jg@Nm@Lo@Nk@Lm@H[DUF[H]H]H]H]F]J_@Jk@@AFYBKDQH]DQBKH[BODMDQDKFOPg@FOJYTe@LWNWDINUFKV_@PWJMZa@RSVWHGHKJIPOVSTQZSf@[^SHERI~@c@PILGf@UJELGZIz@Ub@M\\I\\Mh@Sh@Sd@S^QPINGDC@?PKtAo@VKTS\\SNMxBcAxAq@~CyAnDcBfBy@d@U^UHIFGJM\\a@NSNQDIN["
+            }
+          },
+          {
+            "distance": {
+              "value": 68,
+              "text": "68 m"
+            },
+            "duration": {
+              "value": 48,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Av. Teresa Cristina</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6083651,
+              "lat": -23.5687986
+            },
+            "end_location": {
+              "lng": -46.6078661,
+              "lat": -23.5685442
+            },
+            "polyline": {
+              "points": "~gznChen{G?Q?K@QAKAKq@["
+            }
+          },
+          {
+            "distance": {
+              "value": 308,
+              "text": "0.3 km"
+            },
+            "duration": {
+              "value": 56,
+              "text": "1 min"
+            },
+            "html_instructions": "Continue straight onto <b>R. Pres. Batista Pereira</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "straight",
+            "start_location": {
+              "lng": -46.6078661,
+              "lat": -23.5685442
+            },
+            "end_location": {
+              "lng": -46.6053222,
+              "lat": -23.5672689
+            },
+            "polyline": {
+              "points": "jfznCdbn{GAB]GGACCAAAAAACEACAECMmA}Ds@}Bq@sBK_@"
+            }
+          },
+          {
+            "distance": {
+              "value": 5226,
+              "text": "5.2 km"
+            },
+            "duration": {
+              "value": 613,
+              "text": "10 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Av. Presidente Wilson</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6053222,
+              "lat": -23.5672689
+            },
+            "end_location": {
+              "lng": -46.5795633,
+              "lat": -23.6075125
+            },
+            "polyline": {
+              "points": "l~ynCfrm{G?E?A?C?G@A?A@C@A@ABADAFC?ABCFE@Av@W~@_@RI~Am@rCgApAg@HEpHuCHChI}CPIxB}@dG_CdG_CfLkENGvAk@dHoCzFyBLEHEBARILGHC|Am@fAa@`FmBxEkBtGgCrEeBJERINKVQRONKl@g@jDoBz@i@TOb@YbFaEj@e@nAcAzBiBdAy@^[n@k@x@m@DE~@u@DETQf@a@XUb@]xAkAbCqBrAgAtHeGfCsB~@u@tBeBpBaBx@o@x@q@pBaB|FuEPOD?FCDCpAgAd@[tA}@nA{@`C{AJGDEFEh@[RMDC@A@?FM^Ub@WzGqD^Op@a@TM`Ae@PINK"
+            }
+          },
+          {
+            "distance": {
+              "value": 2333,
+              "text": "2.3 km"
+            },
+            "duration": {
+              "value": 300,
+              "text": "5 mins"
+            },
+            "html_instructions": "Continue onto <b>Av. Guido Aliberti</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.5795633,
+              "lat": -23.6075125
+            },
+            "end_location": {
+              "lng": -46.5813318,
+              "lat": -23.6278426
+            },
+            "polyline": {
+              "points": "|yaoCfqh{GJCF@F@H@HA@?HCLCRAR@b@DP@NB^FrI~@J@VDNBd@BTBXBv@DX@rALdAHx@JPB`AJnD\\xALlD^\\BzAPTBdAJzALlXnClCTj@FnAJlAJp@FD?lALnCVzBRxBRL@dALrARD?Z@ZA\\C`@KDAPIVKVORQLQf@k@p@{@RSLKFELILEDC"
+            }
+          },
+          {
+            "distance": {
+              "value": 542,
+              "text": "0.5 km"
+            },
+            "duration": {
+              "value": 86,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Av. Nelson Braido</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.5813318,
+              "lat": -23.6278426
+            },
+            "end_location": {
+              "lng": -46.5764028,
+              "lat": -23.6293183
+            },
+            "polyline": {
+              "points": "~xeoCh|h{GDGBC@C@C@C?IAICGAEEEE[AI?GBOH{@BUDODMx@kBBIPa@FOBKDURcADQBKDKBGBE\\u@Hq@D{@N{@Nu@TeA\\iA"
+            }
+          },
+          {
+            "distance": {
+              "value": 793,
+              "text": "0.8 km"
+            },
+            "duration": {
+              "value": 119,
+              "text": "2 mins"
+            },
+            "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Av. Fernando S\u00edmonsen</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "roundabout-right",
+            "start_location": {
+              "lng": -46.5764028,
+              "lat": -23.6293183
+            },
+            "end_location": {
+              "lng": -46.5699867,
+              "lat": -23.6322858
+            },
+            "polyline": {
+              "points": "fbfoCn}g{G@@@?B?@@@?@?@?@?DAB?BABA@ABABC@A@CBC@C?C@E?C?C?A?A?A?A?A?AAC?CACACCCACCAACA?AAA?AAA?AAC?A?Ea@AG@Q?GFi@Js@Lg@Pg@Tg@BC@CHMp@w@^a@ROJKl@[ZQ`@YJGFGBEFM@A@GBEBMDM@G@GDM|@}DT_AHYPm@@I\\oANm@Rw@Jc@La@"
+            }
+          },
+          {
+            "distance": {
+              "value": 246,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 38,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Serafim Carlos</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.5699867,
+              "lat": -23.6322858
+            },
+            "end_location": {
+              "lng": -46.5711199,
+              "lat": -23.6342296
+            },
+            "polyline": {
+              "points": "xtfoCluf{GnBp@dA`@XLTLTLf@\\~AdA"
+            }
+          },
+          {
+            "distance": {
+              "value": 385,
+              "text": "0.4 km"
+            },
+            "duration": {
+              "value": 69,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Bom Pastor</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.5711199,
+              "lat": -23.6342296
+            },
+            "end_location": {
+              "lng": -46.5673407,
+              "lat": -23.6341916
+            },
+            "polyline": {
+              "points": "|`goCn|f{G?uB?Q?_A?WAwC?_A?}@@_@A]CiA?{@Ay@"
+            }
+          },
+          {
+            "distance": {
+              "value": 235,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 39,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rua Oswaldo Cruz</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.5673407,
+              "lat": -23.6341916
+            },
+            "end_location": {
+              "lng": -46.5666042,
+              "lat": -23.6361942
+            },
+            "polyline": {
+              "points": "t`goCzdf{GFADAz@QVI~Ac@dAWd@MVGRENELELEHI"
+            }
+          },
+          {
+            "distance": {
+              "value": 682,
+              "text": "0.7 km"
+            },
+            "duration": {
+              "value": 150,
+              "text": "3 mins"
+            },
+            "html_instructions": "<b>Rua Oswaldo Cruz</b> turns slightly <b>left</b> and becomes <b>R. Silvia</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.5666042,
+              "lat": -23.6361942
+            },
+            "end_location": {
+              "lng": -46.5600603,
+              "lat": -23.6365395
+            },
+            "polyline": {
+              "points": "dmgoCf`f{GJM`@y@P]JMBC@C@E@C@G?I@MAmAAoA?e@?e@AkD@{B?E?EAkCAQAqA?MAk@?eB?MAa@Ac@?c@Ao@A_@"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "duration_in_traffic": {
+          "value": 3015,
+          "text": "50 mins"
+        },
+        "start_location": {
+          "lng": -46.6807871,
+          "lat": -23.520107
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.5600603,
+          "lat": -23.6365395
+        },
+        "start_address": "R. Marc Chagall, 330 - Jardim das Perdizes, S\u00e3o Paulo - SP, 05036-040, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "twpnC|i|{GAo@G]QGUBe@N_@JICKDYNQTUJeAZc@LSCGGCQEBkAz@EDQ?I?GCSMVsATu@r@sAt@_BJWNm@NcAA_AEaCH{@d@cCrAuHlB{KzB}LpBsKF]Ro@Zg@Pc@JIJIb@m@DS?IAQK_@GKSSSIIAS?SBC@MCMEOAcAHk@HS@w@EqBMuFe@mAw@e@[qDkCa@c@Wa@Sy@ISB_@XgDVcCLeB`AgPz@}Nf@wHNsCDgBHe@ViAXyDJqBFyCDuB@y@@w@|@iLLeBRqBDEFMDWVeDNy@Pq@d@cAn@{@pB_CbAmAp@}@Zu@J[VwAf@iEp@eF^wCL}ATsBFeA@yA@e@AmC@aGFcAHk@Nw@Pm@`GsKdH_M~A_Dd@s@XYfAaA`@c@|@_AlF{BbNwFrEmB|GoCbAc@dA[dASp@Ef@?vABtANjA\\tG`CpJbDrHjCxGzBvGtBx@VjAd@PDt@Fz@Jp@R\\NVTfAv@`@R`@L^Dn@?h@Gj@ITMx@c@zDaCvCuBRQ?I@EFKXUrBkA~BsAz@a@|@_@hDqAfA_@rA]xBi@p@Yv@i@bAu@~@k@x@k@tAcAxAsAx@_Az@iA~@yAhA_Cr@kBTw@j@_C`BwHfB_I`CoKT{@l@aBx@_B`AyArA{Ap@m@pBuA|BgArAm@hCu@z@WrAg@fBw@nB_Al@_@l@a@bPsHlCoAh@_@`AkAT[N[?Q@]CWq@[ABe@IIIK]_EoM?SDIRILMjFoB`_@uNjO_GvLsEfS{H~EmBd\\gM^Of@]b@[l@g@jDoBpAy@fG{E|HmGnC{B~KaJl\\aXnJwHVOLGvBcBrH}EjAu@PSbAm@zHaEzC_BZONBR?JC`@Ev@FtKlAb@Ft@F`CNxCVjANxNvAtEd@zALlXnCxD\\tE^rMlAlDb@v@?~@OVKn@[`@c@xAgB`@_@TORIHKDUEQGKGe@BWLqAJ]vAgDb@wBPe@\\u@Hq@D{@N{@d@{B^gAH@JALEJKFQ?KCSKMGEICGa@?YFq@X{Af@oADGz@eAr@q@x@g@|@k@ROJSJ]Nk@nBeIbA_EXeAtDrAn@Z|@j@~AdA?gCAoH@}AEgBAuBLCxFwA`Ba@ZKTWbAiBFUAuD?sJG{KGgE"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6811932,
+        "lat": -23.6366298
+      },
+      "northeast": {
+        "lng": -46.5600603,
+        "lat": -23.5162544
+      }
+    },
+    "warnings": [],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+]

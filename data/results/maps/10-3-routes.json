@@ -1,0 +1,691 @@
+[
+  {
+    "summary": "R. Vit\u00f3rio Emanuel and R. P\u00edres da Mota",
+    "legs": [
+      {
+        "distance": {
+          "value": 593,
+          "text": "0.6 km"
+        },
+        "duration": {
+          "value": 456,
+          "text": "8 mins"
+        },
+        "end_address": "R. Bueno De Andrade, 615 - Aclima\u00e7\u00e3o, S\u00e3o Paulo - SP, 03216-050, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 310,
+              "text": "0.3 km"
+            },
+            "duration": {
+              "value": 246,
+              "text": "4 mins"
+            },
+            "html_instructions": "Head <b>west</b> on <b>R. Vit\u00f3rio Emanuel</b> toward <b>R. Joaquim Piza</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.62662340000001,
+              "lat": -23.5652042
+            },
+            "end_location": {
+              "lng": -46.6293195,
+              "lat": -23.5641633
+            },
+            "polyline": {
+              "points": "nqynCjwq{GCPOn@ENOt@aAnEWtAELB@EDCDCJGPEVIDGBIHIDG@"
+            }
+          },
+          {
+            "distance": {
+              "value": 33,
+              "text": "33 m"
+            },
+            "duration": {
+              "value": 28,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Largo Nossa Sra. da Concei\u00e7\u00e3o</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6293195,
+              "lat": -23.5641633
+            },
+            "end_location": {
+              "lng": -46.6296855,
+              "lat": -23.5641733
+            },
+            "polyline": {
+              "points": "~jynCfhr{G?R?V?F?D@N"
+            }
+          },
+          {
+            "distance": {
+              "value": 221,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 161,
+              "text": "3 mins"
+            },
+            "html_instructions": "Continue onto <b>R. P\u00edres da Mota</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6296855,
+              "lat": -23.5641733
+            },
+            "end_location": {
+              "lng": -46.6313743,
+              "lat": -23.5653835
+            },
+            "polyline": {
+              "points": "`kynCpjr{G@B@D@BFHJPV^Zd@V^bCrDFJ"
+            }
+          },
+          {
+            "distance": {
+              "value": 29,
+              "text": "29 m"
+            },
+            "duration": {
+              "value": 21,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Bueno de Andrade</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6313743,
+              "lat": -23.5653835
+            },
+            "end_location": {
+              "lng": -46.6312254,
+              "lat": -23.5655641
+            },
+            "polyline": {
+              "points": "rrynC`ur{Gb@["
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.62662340000001,
+          "lat": -23.5652042
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6312254,
+          "lat": -23.5655641
+        },
+        "start_address": "R. Vit\u00f3rio Emanuel, 237 - Cambuci, S\u00e3o Paulo - SP, 01528-030, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "nqynCjwq{Gi@fCyAdHELB@IJK\\EVIDQLQF?j@B`@Vd@nExGFJb@["
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6313743,
+        "lat": -23.5655641
+      },
+      "northeast": {
+        "lng": -46.62662340000001,
+        "lat": -23.5641633
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "rsynC~sr{Gi@`@QHaCJoFRqEL_Mo@g@g@Hz@^hEIz@sHRiEHiDHaHPaJXa@BUG_@O_Bi@sB{@kE_B}@_@MA[KICUAYBgALaAPE?PtCB\\?H?HCHONqBi@{Ad@a@HgA?_AHeFd@qF`@wBfAi@`@c@lA@PRRVNjC`C|DlBzE|BXLM~@kBnCmAfBy@jAOPQS}@w@HM"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6387614,
+        "lat": -23.565543
+      },
+      "northeast": {
+        "lng": -46.631195,
+        "lat": -23.5441704
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 3526,
+          "text": "3.5 km"
+        },
+        "duration": {
+          "value": 1263,
+          "text": "21 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Parada 3 - Theatro Municipal - Rep\u00fablica, S\u00e3o Paulo - SP, 01037-010, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 3526,
+              "text": "3.5 km"
+            },
+            "duration": {
+              "value": 963,
+              "text": "16 mins"
+            },
+            "html_instructions": "Bus towards P\u00e7a. Da Rep\u00fablica",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 9,
+              "headsign": "P\u00e7a. Da Rep\u00fablica",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391494,
+                "text": "3:58pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.6383052,
+                  "lat": -23.5455606
+                },
+                "name": "Parada 3 - Theatro Municipal"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556392457,
+                "text": "4:14pm"
+              },
+              "line": {
+                "color": "#da291c",
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "short_name": "4113-10",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "text_color": "#ffffff",
+                "name": "Gentil De Moura - P\u00e7a. Da Rep\u00fablica"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.631195,
+                  "lat": -23.565543
+                },
+                "name": "R. Bueno De Andrade, 615"
+              },
+              "headway": 300
+            },
+            "start_location": {
+              "lng": -46.631195,
+              "lat": -23.565543
+            },
+            "end_location": {
+              "lng": -46.6383052,
+              "lat": -23.5455606
+            },
+            "polyline": {
+              "points": "rsynC~sr{G?Ai@b@IDGBG@K@Q?{AFoAFg@@_ADw@BeADwADU@]?KAWAiBKiCMyAIO?}@Gg@g@Hz@NnANxBA\\G\\kCFgDJu@BuBD]?w@Be@@k@B_@?O@S?]@O?M@i@@cBDs@BW@mADuBFeCHa@BUGSIKEm@Sq@UQGaBs@_@O_@OwBu@SI}@_@MAUGECA?CAA?AAC?A?IAE?K?E@C?C@G?I@]DWDWDi@JE?PtC@P@J?D?B?@?B?@?@AB?@A@?@CBCBGFe@Mw@SMGA?A?A?A?A?IBw@VUHMBA@A?E@A?A?C?A@C?G?i@?Q?K?E@G?e@FM@M@iBP_BNoCRaBLkB`AKDEBWNEFEDYt@ELADAB?B?B?D@BBB@BDDFDFDD@B@DD|BrBLLJHpDbB~BfAJFTJx@`@XLM~@u@fAu@fAIJGL]f@]d@m@|@KLOPQSc@c@YSHM"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391194,
+          "text": "3:53pm"
+        },
+        "start_location": {
+          "lng": -46.631195,
+          "lat": -23.565543
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556392457,
+          "text": "4:14pm"
+        },
+        "end_location": {
+          "lng": -46.6383052,
+          "lat": -23.5455606
+        },
+        "start_address": "R. Bueno De Andrade, 615 - Aclima\u00e7\u00e3o, S\u00e3o Paulo - SP, 03216-050, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "Pra\u00e7a Ramos De Azevedo and R. Conselheiro Crispiniano",
+    "legs": [
+      {
+        "distance": {
+          "value": 332,
+          "text": "0.3 km"
+        },
+        "duration": {
+          "value": 267,
+          "text": "4 mins"
+        },
+        "end_address": "Lgo. Paissandu, 407 - Centro, S\u00e3o Paulo - SP, 01036-000, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 130,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 118,
+              "text": "2 mins"
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Pra\u00e7a Ramos De Azevedo</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6383447,
+              "lat": -23.5455332
+            },
+            "end_location": {
+              "lng": -46.638606,
+              "lat": -23.5446774
+            },
+            "polyline": {
+              "points": "pvunCr`t{Gi@a@OMCCOEK@GBEBEFQZKR]l@"
+            }
+          },
+          {
+            "distance": {
+              "value": 128,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 93,
+              "text": "2 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Conselheiro Crispiniano</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.638606,
+              "lat": -23.5446774
+            },
+            "end_location": {
+              "lng": -46.6380074,
+              "lat": -23.5436725
+            },
+            "polyline": {
+              "points": "fqunChbt{G}A}@{@e@IGGCEAEACACAC?E?"
+            }
+          },
+          {
+            "distance": {
+              "value": 74,
+              "text": "74 m"
+            },
+            "duration": {
+              "value": 56,
+              "text": "1 min"
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Av. S\u00e3o Jo\u00e3o</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-slight-left",
+            "start_location": {
+              "lng": -46.6380074,
+              "lat": -23.5436725
+            },
+            "end_location": {
+              "lng": -46.6385669,
+              "lat": -23.5432405
+            },
+            "polyline": {
+              "points": "|junCp~s{GE?C@A@GDOLYh@Wl@"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6383447,
+          "lat": -23.5455332
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6385669,
+          "lat": -23.5432405
+        },
+        "start_address": "Parada 3 - Theatro Municipal - Rep\u00fablica, S\u00e3o Paulo - SP, 01037-010, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "pvunCr`t{Gy@o@SISDKJ]n@]l@}A}@eAm@MEQEK?EBWRq@vA"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.638606,
+        "lat": -23.5455332
+      },
+      "northeast": {
+        "lng": -46.6380111,
+        "lat": -23.5432405
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "nhunCrat{Gh@iA@SEMEKQIBBBGLFLV@FAFANYh@e@fAc@DK?MIa@{@g@cAIYs@`@w@f@eDrBcFlDeCdBgEvCcDxB}AhAcBjAeAj@_CvAmD~B_KvGsBvA}GnEiJpGi@Pu@HuETu@Lm@ReGrCsAl@aAd@M@_Ad@_HbDHrMFhGFjHEdC[jDe@`FYbEgBnSkBlT[tDI^]f@E?GBUJQPMTERAZ@PFNHNGR?THj@?Vs@bEkBnKoBbKyChPmArGOd@{@rAa@x@M`@OhAGbABlCMpAUrAMt@@?"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.681301,
+        "lat": -23.5435364
+      },
+      "northeast": {
+        "lng": -46.63782550000001,
+        "lat": -23.5174366
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "legs": [
+      {
+        "distance": {
+          "value": 6124,
+          "text": "6.1 km"
+        },
+        "duration": {
+          "value": 1887,
+          "text": "31 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Cetet - B/C - \u00c1gua Branca, S\u00e3o Paulo - SP, 02675-031, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 86,
+              "text": "86 m"
+            },
+            "duration": {
+              "value": 63,
+              "text": "1 min"
+            },
+            "steps": [
+              {
+                "distance": {
+                  "value": 86,
+                  "text": "86 m"
+                },
+                "duration": {
+                  "value": 63,
+                  "text": "1 min"
+                },
+                "html_instructions": "Head <b>southeast</b> on <b>Largo do Paissand\u00fa</b>/<b>Av. S\u00e3o Jo\u00e3o</b> toward <b>Av. S\u00e3o Jo\u00e3o</b><div style=\"font-size:0.9em\">Continue to follow Largo do Paissand\u00fa</div>",
+                "travel_mode": "WALKING",
+                "start_location": {
+                  "lng": -46.6384994,
+                  "lat": -23.5432776
+                },
+                "end_location": {
+                  "lng": -46.6378469,
+                  "lat": -23.5433541
+                },
+                "polyline": {
+                  "points": "nhunCrat{GN_@Xi@@O?C?A?A?AEGCEAECAMG"
+                }
+              }
+            ],
+            "html_instructions": "Walk to Lgo. Paissandu, 62",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6384994,
+              "lat": -23.5432776
+            },
+            "end_location": {
+              "lng": -46.6378469,
+              "lat": -23.5433541
+            },
+            "polyline": {
+              "points": "nhunCrat{GN_@Xi@@O?C?A?A?AEGCEAECAMG"
+            }
+          },
+          {
+            "distance": {
+              "value": 6038,
+              "text": "6.0 km"
+            },
+            "duration": {
+              "value": 1404,
+              "text": "23 mins"
+            },
+            "html_instructions": "Bus towards Term. Pirituba",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 13,
+              "headsign": "Term. Pirituba",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391677,
+                "text": "4:01pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.681301,
+                  "lat": -23.517453
+                },
+                "name": "Cetet - B/C"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556393081,
+                "text": "4:24pm"
+              },
+              "line": {
+                "color": "#509e2f",
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "short_name": "8600-10",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "text_color": "#ffffff",
+                "name": "Term. Pirituba - Lgo. Do Paissand\u00fa"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.63786870000001,
+                  "lat": -23.5433676
+                },
+                "name": "Lgo. Paissandu, 62"
+              },
+              "headway": 420
+            },
+            "start_location": {
+              "lng": -46.63786870000001,
+              "lat": -23.5433676
+            },
+            "end_location": {
+              "lng": -46.681301,
+              "lat": -23.517453
+            },
+            "polyline": {
+              "points": "`iunCt}s{GBGHDB@BDBFBD@B?@@@?@?@?@ADANYh@Wl@MX[DG?C@C?CAA?CAAAEEAG_@s@g@cAIY]RULQJe@ZmAt@OJq@^UPWPu@h@k@^iBpAi@^mAz@KHA?uA~@KJaAl@c@\\QLqCjB_Ar@]TSNoAz@QHs@`@iAp@u@d@i@\\cC`ByA`AyBtAeCbBe@Z]T[R_@VYTa@Xe@ZQJcElCaBfAQL{@l@iAv@YTUNSLk@`@IBKDIDI@MBE@E?[Bu@Bg@BE?e@BM@W@SBQ@OBI@MBMBG@ODMFGBIBUJYN[NQHOHOF}BfAYN]NOFKDaAd@M@i@VULg@VUJeEnB[N?p@H`LDtE@r@@RB`D@jA?h@AjACx@G`AShBEb@MhA?BQnBKpAI|@AXAXCPCRC^E^k@zGGn@C^]|DSnBMxAGx@ANIdAEZi@jGEj@S|BGv@CPELGHU\\A?C?A@A?A?A@A?A@MDCBC@EDCBCDCDCBCDADABADAD?B?DAF?D?F?B@D?B?B@B@B@B@B@@?@@@?@@@?@@@@@CDAB?BAD?B?D?B?F@HBL@H@H?F@B?DAD?DADAHAHCLG^Mp@SbAi@vCG\\s@`EEVc@bC]bBUhAWpA]nBQfACHAF]lB_@lB_@lBETADY|AEVSlAI`@ERELADENCHCDADMRA@c@r@GHUb@KTEJGTEXERALAL?@ARC`@AJ?L@`@@j@?p@?LAL?@CN?DAHERG\\G\\?BERI`@CR@?"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391194,
+          "text": "3:53pm"
+        },
+        "start_location": {
+          "lng": -46.6384994,
+          "lat": -23.5432776
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556393081,
+          "text": "4:24pm"
+        },
+        "end_location": {
+          "lng": -46.681301,
+          "lat": -23.517453
+        },
+        "start_address": "Lgo. Paissandu, 407 - Centro, S\u00e3o Paulo - SP, 01036-000, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "R. Joseph Nigri",
+    "legs": [
+      {
+        "distance": {
+          "value": 359,
+          "text": "0.4 km"
+        },
+        "duration": {
+          "value": 266,
+          "text": "4 mins"
+        },
+        "end_address": "R. Marc Chagall, 339 - Jardim das Perdizes, S\u00e3o Paulo - SP, 05036-170, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 236,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 172,
+              "text": "3 mins"
+            },
+            "html_instructions": "Head <b>south</b> on <b>R. Joseph Nigri</b> toward <b>R. Arnaldo Jos\u00e9 Pac\u00edfico</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.681335,
+              "lat": -23.5175732
+            },
+            "end_location": {
+              "lng": -46.6803563,
+              "lat": -23.5195069
+            },
+            "polyline": {
+              "points": "xgpnCjm|{GVIJE@AHCTODETOt@i@DCTMXOVKZOv@Uj@OPGDADN"
+            }
+          },
+          {
+            "distance": {
+              "value": 20,
+              "text": "20 m"
+            },
+            "duration": {
+              "value": 17,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Arnaldo Jos\u00e9 Pac\u00edfico</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6803563,
+              "lat": -23.5195069
+            },
+            "end_location": {
+              "lng": -46.68054290000001,
+              "lat": -23.519553
+            },
+            "polyline": {
+              "points": "|spnCfg|{GBTBL"
+            }
+          },
+          {
+            "distance": {
+              "value": 103,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 77,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.68054290000001,
+              "lat": -23.519553
+            },
+            "end_location": {
+              "lng": -46.6807986,
+              "lat": -23.5200713
+            },
+            "polyline": {
+              "points": "dtpnCjh|{GXGZMHCHAH?D@DB@BBR@R?\\"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.681335,
+          "lat": -23.5175732
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6807986,
+          "lat": -23.5200713
+        },
+        "start_address": "Cetet - B/C - \u00c1gua Branca, S\u00e3o Paulo - SP, 02675-031, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "xgpnCjm|{Gn@UfBoAlAm@rAe@|@WDADNFb@hA[N@FFDdA"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.681335,
+        "lat": -23.5200713
+      },
+      "northeast": {
+        "lng": -46.6802822,
+        "lat": -23.5175732
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+]

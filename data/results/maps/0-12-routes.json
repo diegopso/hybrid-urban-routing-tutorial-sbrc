@@ -1,0 +1,1112 @@
+[
+  {
+    "summary": "Av. Santa In\u00eas",
+    "legs": [
+      {
+        "distance": {
+          "value": 6093,
+          "text": "6.1 km"
+        },
+        "duration": {
+          "value": 1044,
+          "text": "17 mins"
+        },
+        "end_address": "R. Volunt\u00e1rios da P\u00e1tria, 4061 - Santana, S\u00e3o Paulo - SP, 02402-000, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 125,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 20,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>southeast</b> toward <b>R. Maestro Otto Wey</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.6422609,
+              "lat": -23.4509609
+            },
+            "end_location": {
+              "lng": -46.6415346,
+              "lat": -23.4518113
+            },
+            "polyline": {
+              "points": "ngcnCbyt{GL]HMDIDEBEDCHKHINKJIJGJCJCVGNG"
+            }
+          },
+          {
+            "distance": {
+              "value": 428,
+              "text": "0.4 km"
+            },
+            "duration": {
+              "value": 79,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Maestro Otto Wey</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6415346,
+              "lat": -23.4518113
+            },
+            "end_location": {
+              "lng": -46.64504,
+              "lat": -23.4515735
+            },
+            "polyline": {
+              "points": "xlcnCptt{GBD@@DD@BBBDBB@FD@@@@BB@@?@BB?@@@?@@@@B?@@D@@?B?B?D?B?@?B?@ABEPAHGTYtAMn@G`@Id@CNCHCLELKVKVCFc@x@CHCL?LENALANAL?J?F?F@F@J@F@FBF@DBBFDDBB?B?B?B?BAB?BABC@ABC"
+            }
+          },
+          {
+            "distance": {
+              "value": 836,
+              "text": "0.8 km"
+            },
+            "duration": {
+              "value": 137,
+              "text": "2 mins"
+            },
+            "html_instructions": "<b>R. Maestro Otto Wey</b> turns slightly <b>left</b> and becomes <b>R. Itabira</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.64504,
+              "lat": -23.4515735
+            },
+            "end_location": {
+              "lng": -46.6470807,
+              "lat": -23.4571901
+            },
+            "polyline": {
+              "points": "hkcnCnju{GDEBIFMDKFI@CBCBCBCBCHEHGZUPMLKJGNMRMVMFEDCBABCLCBAJCL?D?L?H@H@JBLBJBF@FBHFFDDDBB@B@D@H?J@J@LBFBJDJBJDJDFBD@BBDDDDF@@B@FFDBDBHBJDLBRBTDfCb@d@DpBXl@JH@N@LBXBRBPDH@B@B@D@HFDBDBDF@BBBBDBHBJBJ?@@P?P?P?JAJ?HAF?B?B?D?B?B?B@D?B?@@B?B@D@BBD@B@BBB@@@@BBDBB@B@B@JB"
+            }
+          },
+          {
+            "distance": {
+              "value": 112,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 24,
+              "text": "1 min"
+            },
+            "html_instructions": "Continue onto <b>Rua Dr. Jo\u00e3o Batista Pinto</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.6470807,
+              "lat": -23.4571901
+            },
+            "end_location": {
+              "lng": -46.6471791,
+              "lat": -23.4581726
+            },
+            "polyline": {
+              "points": "lndnCfwu{G~AX^DF@H?VGB?BAPC"
+            }
+          },
+          {
+            "distance": {
+              "value": 28,
+              "text": "28 m"
+            },
+            "duration": {
+              "value": 6,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> to stay on <b>Rua Dr. Jo\u00e3o Batista Pinto</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6471791,
+              "lat": -23.4581726
+            },
+            "end_location": {
+              "lng": -46.6472583,
+              "lat": -23.4584101
+            },
+            "polyline": {
+              "points": "ptdnCzwu{GJDNDRB"
+            }
+          },
+          {
+            "distance": {
+              "value": 86,
+              "text": "86 m"
+            },
+            "duration": {
+              "value": 17,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rua Pedrol\u00e2ndia</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6472583,
+              "lat": -23.4584101
+            },
+            "end_location": {
+              "lng": -46.647835,
+              "lat": -23.4589453
+            },
+            "polyline": {
+              "points": "`vdnCjxu{GBHP^HNHJBBDDDBHDLHXN"
+            }
+          },
+          {
+            "distance": {
+              "value": 1658,
+              "text": "1.7 km"
+            },
+            "duration": {
+              "value": 209,
+              "text": "3 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Av. Santa In\u00eas</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.647835,
+              "lat": -23.4589453
+            },
+            "end_location": {
+              "lng": -46.6342311,
+              "lat": -23.4651692
+            },
+            "polyline": {
+              "points": "lydnC~{u{GJ_@DWDWL}@Lw@P_AH]Nu@PeAD]Lu@N{@H]DOJ]L_@Lc@Ja@JYL]BODQB_@Fs@De@PmCRmDLeC@GBI@G@EBEf@}@b@u@b@}@LQFKnAeB\\c@h@o@R]NYFQBG@C@E@C@ADKDMLSRSDEDCJGj@]p@[p@]zAw@nAk@`@QXQVKTGNIHEHGLMJWNc@BM@M?M?KCiAEq@EeAAa@?e@?Q?I@GBI"
+            }
+          },
+          {
+            "distance": {
+              "value": 1937,
+              "text": "1.9 km"
+            },
+            "duration": {
+              "value": 351,
+              "text": "6 mins"
+            },
+            "html_instructions": "Slight <b>left</b> to stay on <b>Av. Santa In\u00eas</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-slight-left",
+            "start_location": {
+              "lng": -46.6342311,
+              "lat": -23.4651692
+            },
+            "end_location": {
+              "lng": -46.6327717,
+              "lat": -23.4787141
+            },
+            "polyline": {
+              "points": "h`fnC|fs{GAGAMCSEc@Im@EOEUI_@COCSCM?K?M?M@KB_@DUH]HIFGDEHGDADCD?FAH?FAHANAf@Ar@CXEHAFAFCJERINKTQLMNQLSPa@Rg@Pm@XB`@E^CRC\\E|BYTC`@GPAPCTAtAOJCH?FAHAH?z@ETAD?F?DADAD?DABABADADABCBABABCJIPQNQDEDEDEDCHGRIFADAFADAD?D?F?F?F?H?PB`@Dr@JJBPFTFHBPFJD?@t@VRHPFPBJ?F?F?DAF?LCPC|A_@PENEHADADAD?D?B@B?@@B@@@B@@@B@@@@@BB@@@BBDJPJVVn@FNFJ@DBB@B@BJJFFJJv@f@BFBDHFDBPNLHLDNDB@HBHBDABAF?JBPDF@HB~@\\JDRFz@ZNHLHPLxAlAHD@@H@H@H?D?FAJAj@S@ATGHAFAF@NBTDFBVH\\X"
+            }
+          },
+          {
+            "distance": {
+              "value": 883,
+              "text": "0.9 km"
+            },
+            "duration": {
+              "value": 201,
+              "text": "3 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Volunt\u00e1rios da P\u00e1tria</b> (signs for <b>Av. Sta. Ines</b>)",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6327717,
+              "lat": -23.4787141
+            },
+            "end_location": {
+              "lng": -46.6289787,
+              "lat": -23.4853862
+            },
+            "polyline": {
+              "points": "|thnCx}r{Gb@GLGl@IdCWb@KtAi@TKJEHCLALAD?lA?P?RA`@Cp@INCJCJA\\Cl@Gt@If@GXOn@c@POXYRSDERUJMX[JMBC\\g@^g@\\i@RWr@aAbA}Al@_A"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "duration_in_traffic": {
+          "value": 980,
+          "text": "16 mins"
+        },
+        "start_location": {
+          "lng": -46.6422609,
+          "lat": -23.4509609
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6289787,
+          "lat": -23.4853862
+        },
+        "start_address": "R. Maestro Otto Wey, 135 - Jardim Itatinga, S\u00e3o Paulo - SP, 02636-100, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "ngcnCbyt{Gb@{@\\_@ZUVKb@KNGBDFFDFRLLPFX?NI`@mAjGa@dAg@bACZKz@@b@Hb@DHLHN?NGNUVg@pAaA|@o@h@Y`@Mj@@n@L`@RLRDn@Pj@P\\PTVPTH`@F|Ch@vC^tARhANVLRRN^Dp@ChAB^R^PJnCd@P@VGFAPCJDb@HTh@V^b@XXNJ_@Jo@ZuBZ}At@oEXyAPm@r@_CPm@Hq@LyAd@{HNmCDQpA_Cp@oAvAqBfAsAb@w@Nc@N_@`@g@JIzC_BfFgCfAc@VUZ{@D[?YQcF@iA@QEa@OqAKe@UqA@s@Hu@H]HILMNIJCPAPCv@ClAIPCRIb@Ub@_@\\e@d@iAPm@XB`AIp@IfEg@nD]~AGVEb@Sr@s@ZWh@OXAj@BtAP\\J|@XzAj@l@Bl@IhCm@VCXLHHPZ|@tBRRbAr@FLNJ^X\\JLDN@JA\\H|Ah@nAb@\\RjBzAJFb@BRCl@U^IN?dAV\\Xb@Gz@QdCWb@KjBu@TIZCxBAnBUlCWf@GXO`As@fAiAt@{@nBqCvB_Dl@_A"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.647835,
+        "lat": -23.4853862
+      },
+      "northeast": {
+        "lng": -46.6289787,
+        "lat": -23.4509609
+      }
+    },
+    "warnings": [],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "b~inCbgr{GCAT]fBkCf@i@dByBx@cAfBoBt@[dBW|@GfAFjABj@CpBUlAMnDIr@CjBMX?f@NvCr@r@CTEb@OnBu@\\KDzDKZQZc@|@XVVH^@JArFXtBJnAJH@VeABIBCFALFXj@VT\\LVCNIlBiBz@s@NOHSR{A\\mCt@Ex@Hv@J?a@@sAAu@`ABlBE~DFhFBx@BtC?zGFdFDtDF~DBlD@?R"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.62914,
+        "lat": -23.5091972
+      },
+      "northeast": {
+        "lng": -46.624831,
+        "lat": -23.4852816
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 3289,
+          "text": "3.3 km"
+        },
+        "duration": {
+          "value": 1520,
+          "text": "25 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Av. Cruzeiro Do Sul, 2463 - Santana, S\u00e3o Paulo - SP, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 3289,
+              "text": "3.3 km"
+            },
+            "duration": {
+              "value": 1100,
+              "text": "18 mins"
+            },
+            "html_instructions": "Bus towards Term. Amaral Gurgel",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 10,
+              "headsign": "Term. Amaral Gurgel",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391506,
+                "text": "3:58pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.6251537,
+                  "lat": -23.509196
+                },
+                "name": "Av. Cruzeiro Do Sul, 2463"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556392606,
+                "text": "4:16pm"
+              },
+              "line": {
+                "color": "#002f6c",
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "short_name": "118C-10",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "text_color": "#ffffff",
+                "name": "Jd. Pery Alto - Term. Amaral Gurgel"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.62914,
+                  "lat": -23.485295
+                },
+                "name": "R. Volunt\u00e1rios Da P\u00e1tria, 4075"
+              },
+              "headway": 420
+            },
+            "start_location": {
+              "lng": -46.62914,
+              "lat": -23.485295
+            },
+            "end_location": {
+              "lng": -46.6251537,
+              "lat": -23.509196
+            },
+            "polyline": {
+              "points": "b~inCbgr{GCAT]fBkCf@i@d@k@~@mARWd@k@Z]r@{@NOFELIFAPILENC\\EPCd@ILANANANAP@t@Dv@DRAR?VCVAxAS\\EXCPCB?b@CTAdAAn@Ap@C@?j@G~@EF?FAB?D@B@D@@?ZJLBvAZh@PF@h@AHAHAJCHCBAHCJE`Bq@LCRIHAB|B@|@EJENEHILA@?@ABADMVQZXVPDDBB?B?N@F?B?B?@?@AhCN\\@d@Dd@@\\@b@BF@j@BdAHH@H@VeA@E@C@A@A@A@?@?@?@?D@@@BB@@BFNXBFFFBBBBFDDDHBF@D@D?DAD?DADADC@A@ADCrAqAHKHGHILKPMPOFGFGDKBGF]Fk@@G@IR{A@G@ODYRCHAJ?J?H?J@D@\\Dv@J?a@@aA?QAIAG@K?WR@J?P@N?L?\\AT?j@Ch@@P?N@rBBfA@pB@H?d@?`@BV?p@?bB?h@?lDDp@@P?lBBzA@R?F?|@@l@@x@@N@~@?~BBlD@?R"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391086,
+          "text": "3:51pm"
+        },
+        "start_location": {
+          "lng": -46.62914,
+          "lat": -23.485295
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556392606,
+          "text": "4:16pm"
+        },
+        "end_location": {
+          "lng": -46.6251537,
+          "lat": -23.509196
+        },
+        "start_address": "R. Volunt\u00e1rios Da P\u00e1tria, 4075 - Santana, S\u00e3o Paulo - SP, 02406-040, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "Av. Cruzeiro do Sul",
+    "legs": [
+      {
+        "distance": {
+          "value": 200,
+          "text": "0.2 km"
+        },
+        "duration": {
+          "value": 155,
+          "text": "3 mins"
+        },
+        "end_address": "Carandiru - Santana, S\u00e3o Paulo - SP, 02030-000, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 77,
+              "text": "77 m"
+            },
+            "duration": {
+              "value": 56,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>south</b> on <b>Av. Cruzeiro do Sul</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6251028,
+              "lat": -23.5091919
+            },
+            "end_location": {
+              "lng": -46.6250154,
+              "lat": -23.5098871
+            },
+            "polyline": {
+              "points": "lsnnCzmq{Gb@@Z?N?x@@@S"
+            }
+          },
+          {
+            "distance": {
+              "value": 123,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 99,
+              "text": "2 mins"
+            },
+            "html_instructions": "Cross the road<div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6250154,
+              "lat": -23.5098871
+            },
+            "end_location": {
+              "lng": -46.6248702,
+              "lat": -23.509156
+            },
+            "polyline": {
+              "points": "xwnnCjmq{G?E?A?A@?@?@A@?B?BA@?@A?IK@yCE"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6251028,
+          "lat": -23.5091919
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6248702,
+          "lat": -23.509156
+        },
+        "start_address": "Av. Cruzeiro Do Sul, 2463 - Santana, S\u00e3o Paulo - SP, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "lsnnCzmq{GhCB@]RE?IK@yCE"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6251211,
+        "lat": -23.5099882
+      },
+      "northeast": {
+        "lng": -46.6248702,
+        "lat": -23.509156
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "dsnnCzlq{Gf`@^pNNzW\\nEFdBLp@J|@VlAp@dBxA|@jB`@x@Lb@x@vChAdDv@pArA~AfBhBzDdBbD|AdGdCzHpB`PtDfL`CmCrFxCoENWnBXnGp@nEA~CGjGKrBIpMe@`EoAXKlHk@`Ge@|CAnALbEDdABdCRv@TbAXrLxEtF~B^PbEbB|C~@fBf@xBdAzEzB`FlBtDfAhBXtL|AlLzAjKv@jAF~LB`B@tBPzHfA|B^|Ft@fB@~CLdAAvAMx@Sr@YlBeAhE}BjIqEAIL?PIVj@"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6408839,
+        "lat": -23.5815309
+      },
+      "northeast": {
+        "lng": -46.6249437,
+        "lat": -23.5091539
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 8885,
+          "text": "8.9 km"
+        },
+        "duration": {
+          "value": 1352,
+          "text": "23 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Terminal Metr\u00f4 Ana Rosa, 0 - Vila Mariana, S\u00e3o Paulo - SP, 04106-090, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 8885,
+              "text": "8.9 km"
+            },
+            "duration": {
+              "value": 1232,
+              "text": "21 mins"
+            },
+            "html_instructions": "Subway towards Jabaquara",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 11,
+              "headsign": "Jabaquara",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391206,
+                "text": "3:53pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.6386629,
+                  "lat": -23.5815309
+                },
+                "name": "Subway Ana Rosa"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556392438,
+                "text": "4:13pm"
+              },
+              "line": {
+                "color": "#0455a1",
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "short_name": "METR\u00d4 L1",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                  "name": "Subway",
+                  "type": "SUBWAY"
+                },
+                "text_color": "#ffffff",
+                "name": "Tucuruvi - Jabaquara"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.6249437,
+                  "lat": -23.5091539
+                },
+                "name": "Carandiru"
+              },
+              "headway": 120
+            },
+            "start_location": {
+              "lng": -46.6249437,
+              "lat": -23.5091539
+            },
+            "end_location": {
+              "lng": -46.6386629,
+              "lat": -23.5815309
+            },
+            "polyline": {
+              "points": "dsnnCzlq{GR@pIF~@BpA?`GFl@?~FHlB@vEDbA@fBDbGFhEF|DFnCDnEFdBLp@J|@VlAp@dBxAd@|@Vl@`@x@Lb@n@zBHZhAdDv@pA@BpAzA~@`Af@f@^PzCrAt@ZlB`AbBp@`DrAnG`Bj@NvHfBhFlAfE|@~EbAmCrFxCoENWnBXjANbE`@nEA~CGjGKrBIbIYlCK`AY~Bu@XKlHk@`Ge@|CAnALbEDX@j@@dCRv@Tz@VF@lFvBdE`BfBr@lCjA\\N@@bEbB|C~@fBf@xBdAzEzB`FlBzC|@XHH@~AVfANlBV~Ft@lLzAjKv@|@DL@x@?`C?~A@bD@P?nA@P?bBPjDd@nC`@`ANz@NlBXnCZL?xA@d@@pAFB?b@Bv@?LAh@El@Gx@Sr@Y\\SnAq@`Ai@`@Uv@a@l@[d@ULId@WfAo@b@UxAy@\\QLGAIL?FCHEVj@"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391086,
+          "text": "3:51pm"
+        },
+        "start_location": {
+          "lng": -46.6249437,
+          "lat": -23.5091539
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556392438,
+          "text": "4:13pm"
+        },
+        "end_location": {
+          "lng": -46.6386629,
+          "lat": -23.5815309
+        },
+        "start_address": "Carandiru - Santana, S\u00e3o Paulo - SP, 02030-000, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "Largo Don\u00e1 Ana Rosa",
+    "legs": [
+      {
+        "distance": {
+          "value": 0,
+          "text": "1 m"
+        },
+        "duration": {
+          "value": 0,
+          "text": "1 min"
+        },
+        "end_address": "Terminal Metr\u00f4 Ana Rosa, 0 - Vila Mariana, S\u00e3o Paulo - SP, 04106-090, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 0,
+              "text": "1 m"
+            },
+            "duration": {
+              "value": 0,
+              "text": "1 min"
+            },
+            "html_instructions": "Head on <b>Largo Don\u00e1 Ana Rosa</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6386836,
+              "lat": -23.5814984
+            },
+            "end_location": {
+              "lng": -46.6386836,
+              "lat": -23.5814984
+            },
+            "polyline": {
+              "points": "jw|nCvbt{G"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6386836,
+          "lat": -23.5814984
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6386836,
+          "lat": -23.5814984
+        },
+        "start_address": "Terminal Metr\u00f4 Ana Rosa, 0 - Vila Mariana, S\u00e3o Paulo - SP, 04106-090, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "jw|nCvbt{G"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6386836,
+        "lat": -23.5814984
+      },
+      "northeast": {
+        "lng": -46.6386836,
+        "lat": -23.5814984
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "pw|nCrbt{G]{@DAb@U~BmAtGqD|NcIfB}@j@UbBi@bC]hCWvBYf@Y~@_A|@aAr@kAbAmBb@m@z@mAf@e@zEsEjAyAlAaBbCyBrAqA^_@l@sA|@uE`@kDj@yDRyAIiAYoA_@oAOkAFsCVsB\\yAfAuCXs@~@kC|@wB`@o@~CeFj@_AjBaBxAoAhB_BXiAt@e@pBu@bA{@p@i@hByC|CcHh@_OEkFWsDq@cLs@}Gq@kCI{@zIcA"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6386629,
+        "lat": -23.6032013
+      },
+      "northeast": {
+        "lng": -46.6030896,
+        "lat": -23.5813786
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 4945,
+          "text": "4.9 km"
+        },
+        "duration": {
+          "value": 720,
+          "text": "12 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Esta\u00e7\u00e3o Sacom\u00e3 - Ipiranga, S\u00e3o Paulo - SP, 04203-053, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 4945,
+              "text": "4.9 km"
+            },
+            "duration": {
+              "value": 600,
+              "text": "10 mins"
+            },
+            "html_instructions": "Subway towards Vila Prudente",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 4,
+              "headsign": "Vila Prudente",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391206,
+                "text": "3:53pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.6030896,
+                  "lat": -23.6032013
+                },
+                "name": "Esta\u00e7\u00e3o Sacom\u00e3"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391806,
+                "text": "4:03pm"
+              },
+              "line": {
+                "color": "#007e5e",
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "short_name": "METR\u00d4 L2",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                  "name": "Subway",
+                  "type": "SUBWAY"
+                },
+                "text_color": "#ffffff",
+                "name": "Vila Madalena - Vila Prudente"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.6386629,
+                  "lat": -23.5815309
+                },
+                "name": "Subway Ana Rosa"
+              },
+              "headway": 120
+            },
+            "start_location": {
+              "lng": -46.6386629,
+              "lat": -23.5815309
+            },
+            "end_location": {
+              "lng": -46.6030896,
+              "lat": -23.6032013
+            },
+            "polyline": {
+              "points": "pw|nCrbt{G]{@DAJGVM`@URK`Ag@FCBA`Ai@BCj@[x@e@b@UNIp@_@dAk@lAq@r@_@p@a@lAo@hAo@p@_@x@c@JGn@]NGZONGHEJCDChA]XKpASp@Ir@Gd@EJAb@GlAMh@K^QFG`@a@\\]|@aAr@kAbAmBb@m@z@mAf@e@jAgAnCkCr@}@V[h@u@b@k@`A{@`A}@p@o@`@a@^_@l@sA\\eB^oB`@kDj@yDRyAIiAYoA_@oAOkAFsCLaAHq@\\yAfAuCHSN_@n@gBNc@|@wB`@o@dAcBxAaCj@_AjBaBv@q@`@]zAsALKXiAt@e@pBu@bA{@p@i@hByCf@gAtB{E@I@SHmCZsIEkFWsDQ_D_@cGGw@k@eFm@}BCMI{@zIcA"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391086,
+          "text": "3:51pm"
+        },
+        "start_location": {
+          "lng": -46.6386629,
+          "lat": -23.5815309
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391806,
+          "text": "4:03pm"
+        },
+        "end_location": {
+          "lng": -46.6030896,
+          "lat": -23.6032013
+        },
+        "start_address": "Terminal Metr\u00f4 Ana Rosa, 0 - Vila Mariana, S\u00e3o Paulo - SP, 04106-090, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "",
+    "legs": [
+      {
+        "distance": {
+          "value": 29,
+          "text": "29 m"
+        },
+        "duration": {
+          "value": 20,
+          "text": "1 min"
+        },
+        "end_address": "Terminal Sacom\u00e3 - Plataforma 1 - Ipiranga, S\u00e3o Paulo - SP, 04280-010, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 29,
+              "text": "29 m"
+            },
+            "duration": {
+              "value": 20,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>northwest</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.603004,
+              "lat": -23.6030955
+            },
+            "end_location": {
+              "lng": -46.6030052,
+              "lat": -23.6028742
+            },
+            "polyline": {
+              "points": "j~`oCvcm{GGFCBC@A?C?CAE?GEEC"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.603004,
+          "lat": -23.6030955
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6030052,
+          "lat": -23.6028742
+        },
+        "start_address": "Esta\u00e7\u00e3o Sacom\u00e3 - Ipiranga, S\u00e3o Paulo - SP, 04203-053, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "j~`oCvcm{GQLUGEC"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.60306869999999,
+        "lat": -23.6030955
+      },
+      "northeast": {
+        "lng": -46.603004,
+        "lat": -23.6028742
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "~|`oCvcm{GABIGcAu@KH@R\\^z@d@pAp@^FXE`@s@P_Aj@yBDaA?a@Ms@cAiDFo@HUTQfBw@XOVWr@u@z@w@b@]hAg@fA[~Aa@EORG^GTI^_@JMx@sA`@q@LOnAo@fEqB`DaBz@i@~BmAlB}@zBy@vDyArA]nEaAhNsClK{B`Ey@pB_@r@MbDk@`AIbAGf@Eh@OfBw@pAi@v@IdDQz@A~@FlGj@zAL`@@XEh@Oz@e@bBiAj@c@x@w@X[Te@nAiCLw@DwBDi@PsAPuATcA^aAjAaBjA_BhA}ApAqBf@}@Rk@He@T{AJqAL}B@U@KNU`@cAf@gAd@o@tCmD^a@p@_A`BwBpAqBBEBONUfB_CpBcC`A}@dBwAv@aAf@o@LIPQb@i@f@i@h@Yb@KvAUxD_@nBSlBOtAO~@UzEu@RCZ@f@JbBh@|@Vb@PzD`AfEbAnBl@XJ`@j@F`@@l@I\\I\\JNHJHDNHVF^e@~@gAZWlAs@nAm@XYhEcDn@m@f@y@Vw@Ps@@W?u@Ea@M_@IMgCeCYQm@yASeACu@DcApC_PToAHm@}BsAuBgAmAk@E\\EXc@?oEAeIDaD?yG?mFAWEUKSWGWE_@?_CAOG_@IQIGUM?AAAAACAIBA@EBG@IHI?wA?gAAwB?mAC?OIsBAm@COGCeC?DbDmC@?M"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.9,
+      "text": "R$4.90"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6035,
+        "lat": -23.6504307
+      },
+      "northeast": {
+        "lng": -46.5639806,
+        "lat": -23.60242
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 9598,
+          "text": "9.6 km"
+        },
+        "duration": {
+          "value": 1503,
+          "text": "25 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Rua Visconde de Inha\u00fama, 1065 - Boa Vista, S\u00e3o Caetano do Sul - SP, 09572-250, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 9598,
+              "text": "9.6 km"
+            },
+            "duration": {
+              "value": 1503,
+              "text": "25 mins"
+            },
+            "html_instructions": "Bus towards S\u00e3o Caetano do Sul (Terminal Rodovi\u00e1rio Nicolau Delic) / S\u00e3o Paulo (Metr\u00f4 Alto do Ipiranga)",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 28,
+              "headsign": "S\u00e3o Caetano do Sul (Terminal Rodovi\u00e1rio Nicolau Delic) / S\u00e3o Paulo (Metr\u00f4 Alto do Ipiranga)",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556392278,
+                "text": "4:11pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.5647407,
+                  "lat": -23.6379182
+                },
+                "name": "Rua Visconde de Inha\u00fama, 1065"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556393781,
+                "text": "4:36pm"
+              },
+              "line": {
+                "short_name": "494",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "agencies": [
+                  {
+                    "url": "http://www.emtu.sp.gov.br/",
+                    "phone": "011 55 800 724 0555",
+                    "name": "Empresa Metropolitana de Transportes Urbanos de S\u00e3o Paulo S.A."
+                  }
+                ]
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.6030017,
+                  "lat": -23.6028769
+                },
+                "name": "Terminal Sacom\u00e3 - Plataforma 1"
+              }
+            },
+            "start_location": {
+              "lng": -46.6030017,
+              "lat": -23.6028769
+            },
+            "end_location": {
+              "lng": -46.5647407,
+              "lat": -23.6379182
+            },
+            "polyline": {
+              "points": "~|`oCvcm{GABIGcAu@KH@R\\^h@ZPHlAn@B@^FXE`@s@P_Aj@yBDaA?a@Ms@c@sA_@uAFo@HUTQfBw@XOVWRS^a@^]ZYb@]hAg@~@WFCx@Wd@IEORGRCJCJAHGFGVWJMx@sAR[LUDGFGDEhAi@xAs@n@Yb@SXOjAi@tAw@h@]PKZObB}@nAm@\\O^MJEJEbA_@vAm@bA]FARK@?RGf@OTE\\IzBi@ZGXEVIzCk@BAp@OxCm@VGd@If@KZI^Gl@MXGp@MNEdAU`Ci@REZGt@MzA]XIPE`@Gb@GDADA^GFATEz@Qp@K^GLALCXCJ?JARA^CB?XADAB?BAFAHCFANG\\QTKb@QNGNITK\\MLEJAPCDARAh@CPAnAGXCb@AF?FAF@D?J?N@\\Dr@Fh@F^DX@H@rALJ@J@F@V@`@DXBH@H?F?D?F?PETERITMBAXOFEHGNKbAs@DADEd@]ZW\\_@@AVYP_@BEJWl@gAJSHU@GJo@DwBDi@BMLeAJ{@DYH_@@KBIDMFSVm@Zc@n@}@DIJMf@o@PWLQNSRWV_@DGZg@\\g@PYFKHKFMLWHSHWBKDYF_@@EFa@BSBYBQ@U@OFiAB_@@K?G@I?K@KNU\\_ABCBGb@_APWRW\\c@vBiC^a@p@_Ax@cAf@s@t@eAZk@BEBOJOBETYh@s@NSV]BCRY|@eAZ_@`@a@^[p@k@r@k@ZYZg@f@o@LI@ANOV]JKBERSFGFGNKXMRGNCNEfAO~@IxBU~@Kn@GjAM`@At@I^Eb@IZKpAQjAUh@IRCHAHAH?P@PBTFjA^VH^J\\JTJLDRDJDf@LrBf@zA^TF`ATRDPFPFb@Jf@PJBLF`@j@F`@@l@I\\I\\JNDFBBBBD@BBJDVF^e@l@u@PQFGROFGRMNI`@SdAg@HEJKLMpCwBLIb@]DCHGNMNODGFGHMLSFOBGFQDMDO@KNg@?G@O?O?M?O?G?GAIAGAGCGAGCGCGEECGoBoBWUGEEEGEC?]w@Oa@Mi@E[Ca@?S?c@D_@TuAd@uCdAwFN{@Hc@Jk@Hm@}BsA{Ay@YMmAk@E\\EXc@?sCC{@@yFDkA?]@cCAe@?yD@s@AE?{@?W?cBAu@?E?EAEAEAEAECEACCEECCCEEGAGCEAG?AAEAGAG?I?m@?Y?q@?E?E?CAC?AAKAIAEACCIEGCCECECEAIG?A?AA??AA?A?A??AA??@A?A?A??@A?A@?@E@C?C@IHI?W?_A?aAAE?g@@oAAmAC?O?OIcB?UAW?E?CAAACAAA?CAU?oB?@rABnAkC@A??M"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556392278,
+          "text": "4:11pm"
+        },
+        "start_location": {
+          "lng": -46.6030017,
+          "lat": -23.6028769
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556393781,
+          "text": "4:36pm"
+        },
+        "end_location": {
+          "lng": -46.5647407,
+          "lat": -23.6379182
+        },
+        "start_address": "Terminal Sacom\u00e3 - Plataforma 1 - Ipiranga, S\u00e3o Paulo - SP, 04280-010, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "R. Silvia",
+    "legs": [
+      {
+        "distance": {
+          "value": 612,
+          "text": "0.6 km"
+        },
+        "duration": {
+          "value": 417,
+          "text": "7 mins"
+        },
+        "end_address": "R. Silvia, 948 - Osvaldo Cruz, S\u00e3o Caetano do Sul - SP, 09571-300, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 149,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 106,
+              "text": "2 mins"
+            },
+            "html_instructions": "Head <b>north</b> on <b>R. Visc. de Inha\u00fama</b> toward <b>R. Lourdes</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.564814,
+              "lat": -23.6379289
+            },
+            "end_location": {
+              "lng": -46.5646028,
+              "lat": -23.6366171
+            },
+            "polyline": {
+              "points": "`xgoC`ue{Gi@@o@?O?MAOAG?GAGAECGAGCoAY"
+            }
+          },
+          {
+            "distance": {
+              "value": 463,
+              "text": "0.5 km"
+            },
+            "duration": {
+              "value": 311,
+              "text": "5 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Silvia</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.5646028,
+              "lat": -23.6366171
+            },
+            "end_location": {
+              "lng": -46.5600602,
+              "lat": -23.6365395
+            },
+            "polyline": {
+              "points": "zogoCvse{GAkD@{B?E?EAkCAQAqA?MAk@?eB?MAa@Ac@?c@Ao@A_@"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.564814,
+          "lat": -23.6379289
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.5600602,
+          "lat": -23.6365395
+        },
+        "start_address": "Rua Visconde de Inha\u00fama, 1065 - Boa Vista, S\u00e3o Caetano do Sul - SP, 09572-250, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "`xgoC`ue{GwB?g@EeBc@?sHI_MEwC"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.564814,
+        "lat": -23.6379289
+      },
+      "northeast": {
+        "lng": -46.5600602,
+        "lat": -23.6365395
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+]

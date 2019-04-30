@@ -1,0 +1,1018 @@
+[
+  {
+    "summary": "Via Elevado Pres. Jo\u00e3o Goulart",
+    "legs": [
+      {
+        "distance": {
+          "value": 9133,
+          "text": "9.1 km"
+        },
+        "duration": {
+          "value": 1090,
+          "text": "18 mins"
+        },
+        "end_address": "R. Marc Chagall, 330 - Jardim das Perdizes, S\u00e3o Paulo - SP, 05036-040, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 1038,
+              "text": "1.0 km"
+            },
+            "duration": {
+              "value": 80,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>southwest</b> on <b>Complexo Vi\u00e1rio Evaristo Comolatti</b>/<b>Av. Radial Leste</b>/<b>Viaduto Leste-Oeste</b><div style=\"font-size:0.9em\">Continue to follow Complexo Vi\u00e1rio Evaristo Comolatti/Av. Radial Leste</div>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.6270072,
+              "lat": -23.5542167
+            },
+            "end_location": {
+              "lng": -46.6360575,
+              "lat": -23.5563425
+            },
+            "polyline": {
+              "points": "zlwnCxyq{GVLHB^NPHJDfAd@f@RXLNHJFLJHHJHFHHJJNDHFLDJDJDLDLBLBR@LBP@ZBj@Bv@DlA@L@d@DnA@RFzAF~ADzA?J@NFdB@R@f@BdBBlC@nBAbAGfAI`AC`@E`@"
+            }
+          },
+          {
+            "distance": {
+              "value": 335,
+              "text": "0.3 km"
+            },
+            "duration": {
+              "value": 27,
+              "text": "1 min"
+            },
+            "html_instructions": "Keep <b>left</b> to continue on <b>Viaduto Jaceguai</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "keep-left",
+            "start_location": {
+              "lng": -46.6360575,
+              "lat": -23.5563425
+            },
+            "end_location": {
+              "lng": -46.6392918,
+              "lat": -23.5557939
+            },
+            "polyline": {
+              "points": "bzwnCjrs{GUfCUpBKlAO|AWhCMtA"
+            }
+          },
+          {
+            "distance": {
+              "value": 1070,
+              "text": "1.1 km"
+            },
+            "duration": {
+              "value": 88,
+              "text": "1 min"
+            },
+            "html_instructions": "Continue onto <b>Viaduto J\u00falio de Mesquita Filho</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.6392918,
+              "lat": -23.5557939
+            },
+            "end_location": {
+              "lng": -46.6464822,
+              "lat": -23.5502849
+            },
+            "polyline": {
+              "points": "tvwnCpft{GC\\A^MxAMzAGh@It@G~@IfAGd@CP?@C\\CJAJERCFAHCFAHCFAHCFCFCHAFADADADADEPSt@]hAi@pBGTKVQ\\OT[`@_@\\]TSLOFu@VA?{A`@uDdAoBh@i@Ng@Na@J_@J_@HWFYDM@"
+            }
+          },
+          {
+            "distance": {
+              "value": 254,
+              "text": "0.3 km"
+            },
+            "duration": {
+              "value": 15,
+              "text": "1 min"
+            },
+            "html_instructions": "Continue onto <b>Via Elevado Pres. Jo\u00e3o Goulart</b><div style=\"font-size:0.9em\">May be closed at certain times or days</div>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.6464822,
+              "lat": -23.5502849
+            },
+            "end_location": {
+              "lng": -46.6471314,
+              "lat": -23.5480762
+            },
+            "polyline": {
+              "points": "ftvnCnsu{Gc@Hy@PQFSDm@Hm@JkBb@kB\\"
+            }
+          },
+          {
+            "distance": {
+              "value": 2885,
+              "text": "2.9 km"
+            },
+            "duration": {
+              "value": 273,
+              "text": "5 mins"
+            },
+            "html_instructions": "Keep <b>right</b> to stay on <b>Via Elevado Pres. Jo\u00e3o Goulart</b><div style=\"font-size:0.9em\">May be closed at certain times or days</div>",
+            "travel_mode": "DRIVING",
+            "maneuver": "keep-right",
+            "start_location": {
+              "lng": -46.6471314,
+              "lat": -23.5480762
+            },
+            "end_location": {
+              "lng": -46.66363519999999,
+              "lat": -23.5318529
+            },
+            "polyline": {
+              "points": "nfvnCpwu{GYFYDKBc@LMDaAVcCp@a@LMBM@I@WDUAS?{@AUAU?_BCW?W?_AA{@A]AQ?uAAq@A[?a@Am@Ay@?w@A_@Ak@CUAa@C]A]AO?O@I@OBMBOFQDMFMDODm@Ru@VyBt@mBp@e@NkBn@WHMFQHEBEBIFKHGFCDIHEDCDCDEFEHWf@]t@_@v@eA|Bg@fAOZOZWl@[p@a@x@KVUd@aGjMa@x@GNwCpGu@~AABi@fAIRCHWf@e@bAUd@GNA@INAHADADADCHAFAJIpAEl@AXARAX?J?L@RH|C@P?T@`@@LBp@B`@BRL~@@N@N?N?N?@KrBEp@EPCJIPGJABEF"
+            }
+          },
+          {
+            "distance": {
+              "value": 1947,
+              "text": "1.9 km"
+            },
+            "duration": {
+              "value": 366,
+              "text": "6 mins"
+            },
+            "html_instructions": "Continue onto <b>Av. Francisco Matarazzo</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.66363519999999,
+              "lat": -23.5318529
+            },
+            "end_location": {
+              "lng": -46.6809928,
+              "lat": -23.5255048
+            },
+            "polyline": {
+              "points": "`asnCv~x{GKVIPiAhC[p@Ob@EJGRSf@sAxCSb@IRaBnDIROVi@fA_@bAIPmBdECFoC`Ge@bAIRiAdC]r@w@dBMVm@rAYp@S`@O\\IREJCJCFCFCJEPCPCLCNALCPARA\\AVEpAA~@?x@A`@Ab@Ah@Ch@Ej@C`@IvAQnBSdCKnAAD?@?JAHATALC^ABE^Gr@Cj@?LAXCh@?F?\\@P?R"
+            }
+          },
+          {
+            "distance": {
+              "value": 623,
+              "text": "0.6 km"
+            },
+            "duration": {
+              "value": 69,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Av. Pomp\u00e9ia</b> (signs for <b>Lim\u00e1o</b>/<b>V. N.Cachoeirinha</b>/<b>Itaberaba</b>/<b>SP-330</b>/<b>Anhanguera</b>/<b>SP-280</b>/<b>C. Branco</b>)",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6809928,
+              "lat": -23.5255048
+            },
+            "end_location": {
+              "lng": -46.6791828,
+              "lat": -23.5207102
+            },
+            "polyline": {
+              "points": "jyqnCdk|{GA@ABA@ABA@?F?FAJENEJA@CBC@C?E@MKi@_@o@c@{@m@q@g@ECa@[o@e@YSYS_@W]Ue@UYOYISIc@OSEUGKAa@I[CWCc@CI?yACkAC"
+            }
+          },
+          {
+            "distance": {
+              "value": 199,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 28,
+              "text": "1 min"
+            },
+            "html_instructions": "Continue onto <b>Av. Nicolas Boer</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.6791828,
+              "lat": -23.5207102
+            },
+            "end_location": {
+              "lng": -46.6790163,
+              "lat": -23.5189343
+            },
+            "polyline": {
+              "points": "l{pnCz_|{GC?WAu@CQAuDEI?QCE?IA]K"
+            }
+          },
+          {
+            "distance": {
+              "value": 134,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 30,
+              "text": "1 min"
+            },
+            "html_instructions": "Continue straight onto <b>Av. Nicolas Boer</b>/<b>Pra\u00e7a Jos\u00e9 Vi\u00eaira de Carvalho Mesquita</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "straight",
+            "start_location": {
+              "lng": -46.6790163,
+              "lat": -23.5189343
+            },
+            "end_location": {
+              "lng": -46.6787831,
+              "lat": -23.5177938
+            },
+            "polyline": {
+              "points": "hppnCz~{{GMIIESKMKQEKCMCKAOAMAE@K?K?S@a@F"
+            }
+          },
+          {
+            "distance": {
+              "value": 67,
+              "text": "67 m"
+            },
+            "duration": {
+              "value": 16,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Av. Marqu\u00eas de S\u00e3o Vicente</b>/<b>Pra\u00e7a Jos\u00e9 Vi\u00eaira de Carvalho Mesquita</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6787831,
+              "lat": -23.5177938
+            },
+            "end_location": {
+              "lng": -46.6794271,
+              "lat": -23.5176778
+            },
+            "polyline": {
+              "points": "dipnCj}{{GEXERALAL?@ARC`@"
+            }
+          },
+          {
+            "distance": {
+              "value": 233,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 38,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Av. Nicolas Boer</b>/<b>Pra\u00e7a Jos\u00e9 Vi\u00eaira de Carvalho Mesquita</b><div style=\"font-size:0.9em\">Continue to follow Av. Nicolas Boer</div>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6794271,
+              "lat": -23.5176778
+            },
+            "end_location": {
+              "lng": -46.6792941,
+              "lat": -23.5197391
+            },
+            "polyline": {
+              "points": "nhpnCla|{GNBPDJ@P@J@@?N?RCXCLCt@O^INCLCJ?T?d@@J?^?X?"
+            }
+          },
+          {
+            "distance": {
+              "value": 90,
+              "text": "90 m"
+            },
+            "duration": {
+              "value": 11,
+              "text": "1 min"
+            },
+            "html_instructions": "Slight <b>right</b> toward <b>R. Joseph Nigri</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-slight-right",
+            "start_location": {
+              "lng": -46.6792941,
+              "lat": -23.5197391
+            },
+            "end_location": {
+              "lng": -46.6797586,
+              "lat": -23.5204271
+            },
+            "polyline": {
+              "points": "jupnCp`|{Gf@VVL^Vf@\\@@"
+            }
+          },
+          {
+            "distance": {
+              "value": 132,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 22,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Joseph Nigri</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6797586,
+              "lat": -23.5204271
+            },
+            "end_location": {
+              "lng": -46.6803313,
+              "lat": -23.5194635
+            },
+            "polyline": {
+              "points": "typnCnc|{G@JAJAFABIHsDbA"
+            }
+          },
+          {
+            "distance": {
+              "value": 20,
+              "text": "20 m"
+            },
+            "duration": {
+              "value": 3,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Arnaldo Jos\u00e9 Pac\u00edfico</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6803313,
+              "lat": -23.5194635
+            },
+            "end_location": {
+              "lng": -46.6805167,
+              "lat": -23.5195093
+            },
+            "polyline": {
+              "points": "rspnC`g|{G@BF`@"
+            }
+          },
+          {
+            "distance": {
+              "value": 106,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 24,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6805167,
+              "lat": -23.5195093
+            },
+            "end_location": {
+              "lng": -46.6807975,
+              "lat": -23.5201072
+            },
+            "polyline": {
+              "points": "|spnCfh|{G^KZMHAJCH?F@HDBFBT?R@\\"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "duration_in_traffic": {
+          "value": 1406,
+          "text": "23 mins"
+        },
+        "start_location": {
+          "lng": -46.6270072,
+          "lat": -23.5542167
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6807975,
+          "lat": -23.5201072
+        },
+        "start_address": "Viaduto Trinta e Um de Mar\u00e7o, 5107 - Liberdade, S\u00e3o Paulo - SP, 01517-100, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "zlwnCxyq{GhFxBr@f@h@n@Xn@R|@JfBLxDf@|NJnH?rDQhCu@|HaAjKa@rFc@fFOvAOr@YfAaApDq@fC]t@k@v@}@r@c@Tw@VkL`DiCp@cBX_B^{ATwE`AcB^uF|A}@L{BEqIIeKKaCKm@AYB_ATyAf@cInCcDjAa@X[\\S\\{CrG_EvIoPf^mBfEIZSrCErALpEFvBVdC@p@QdDI\\Yh@{BdFq@jBsE`KYj@i@fA_@bAwBvEsChGwCpGmCbGs@~AOf@Q`AGr@KfEEhDWnEs@jIK~AMrACx@EhB@d@CDENARKZMFE@MKyAcAuCuBcCeBcAk@s@Yw@Yi@MaBSsEKcBG_EEWCg@MWOa@W]Iw@Iq@Ba@FEXG`@GdA~@Lp@A|Ba@\\G`@?jB@~@d@fAt@BLCRKLsDbA@BF`@^Kd@OTCPFF\\@p@"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6813919,
+        "lat": -23.5564789
+      },
+      "northeast": {
+        "lng": -46.6270072,
+        "lat": -23.5176778
+      }
+    },
+    "warnings": [],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "R. Adela\u00edde and R. Manoel Augusto Ferreirinha",
+    "legs": [
+      {
+        "distance": {
+          "value": 550,
+          "text": "0.6 km"
+        },
+        "duration": {
+          "value": 506,
+          "text": "8 mins"
+        },
+        "end_address": "R. Manoel Augusto Ferreirinha, 990 - Nova Gerti, S\u00e3o Caetano do Sul - SP, 09580-020, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 90,
+              "text": "90 m"
+            },
+            "duration": {
+              "value": 75,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>west</b> on <b>R. Silvia</b> toward <b>R. Adela\u00edde</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.5601136,
+              "lat": -23.6365413
+            },
+            "end_location": {
+              "lng": -46.5609922,
+              "lat": -23.636576
+            },
+            "polyline": {
+              "points": "jogoCtwd{G@T@n@?b@@b@@`@"
+            }
+          },
+          {
+            "distance": {
+              "value": 242,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 235,
+              "text": "4 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Adela\u00edde</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.5609922,
+              "lat": -23.636576
+            },
+            "end_location": {
+              "lng": -46.5614777,
+              "lat": -23.6385559
+            },
+            "polyline": {
+              "points": "rogoCd}d{GR?L?L@JBFD@DDHDLBF@FBDRNFD@@B??@B?@?@?B@@?v@@N?hBAD?B@D?F@FBD?f@A"
+            }
+          },
+          {
+            "distance": {
+              "value": 218,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 196,
+              "text": "3 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Manoel Augusto Ferreirinha</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.5614777,
+              "lat": -23.6385559
+            },
+            "end_location": {
+              "lng": -46.5636123,
+              "lat": -23.6386016
+            },
+            "polyline": {
+              "points": "~{goCf`e{G?RB`E@hA@fA?`A"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.5601136,
+          "lat": -23.6365413
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.5636123,
+          "lat": -23.6386016
+        },
+        "start_address": "R. Silvia, 956 - Osvaldo Cruz, S\u00e3o Caetano do Sul - SP, 09571-300, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "jogoCtwd{GDlC@`@R?Z@RHFNNb@`@VF@lABxB?NDl@AFfJ?`A"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.5636123,
+        "lat": -23.6386016
+      },
+      "northeast": {
+        "lng": -46.5601136,
+        "lat": -23.6365413
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "`|goCpme{GD??B@xCBnAkC@i@@}AC]E_Ba@aCs@i@GyAEiBCc@Bm@JmCr@eBb@gA\\OFkAt@mAv@oBhAiC|@yCjAgBn@c@LUBQCOIKCe@AsB@}ECiE?iEA_H@kFAgGAqC@uNByD@aBAIAAz@AjBA~@A~EG~LEhD[tAUx@U`@uA`BYp@Ij@C|FMbMKbJAxC@bBqFm@{BUYGQIq@k@e@WcBUy@I?n@ApBA|@E`@gCbJS|@e@pEwChYWtB]nAUh@[j@Y`@m@t@}BbDgCfDwCdEiAzAe@d@]Te@ToA`@aHlBgD~@aEjAgBf@mAd@o@d@MLiAlAIJ_@\\EROV]l@a@v@M`@W`AMdACl@?|DRpGPnFRnFtCQ@D"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.9,
+      "text": "R$4.90"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6028751,
+        "lat": -23.6386317
+      },
+      "northeast": {
+        "lng": -46.5636139,
+        "lat": -23.6000219
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 7558,
+          "text": "7.6 km"
+        },
+        "duration": {
+          "value": 2061,
+          "text": "34 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "R. Agostinho Gomes, 3426 - Ipiranga, S\u00e3o Paulo - SP, 04206-002, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 7558,
+              "text": "7.6 km"
+            },
+            "duration": {
+              "value": 2061,
+              "text": "34 mins"
+            },
+            "html_instructions": "Bus towards S\u00e3o Paulo (Terminal Sacom\u00e3)",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 24,
+              "headsign": "S\u00e3o Paulo (Terminal Sacom\u00e3)",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391564,
+                "text": "3:59pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.602821,
+                  "lat": -23.601066
+                },
+                "name": "R. Agostinho Gomes, 3426"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556393625,
+                "text": "4:33pm"
+              },
+              "line": {
+                "short_name": "008",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "agencies": [
+                  {
+                    "url": "http://www.emtu.sp.gov.br/",
+                    "phone": "011 55 800 724 0555",
+                    "name": "Empresa Metropolitana de Transportes Urbanos de S\u00e3o Paulo S.A."
+                  }
+                ]
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.5636141,
+                  "lat": -23.6385675
+                },
+                "name": "R. Manuel Augusto Ferreirinha, 943"
+              }
+            },
+            "start_location": {
+              "lng": -46.5636141,
+              "lat": -23.6385675
+            },
+            "end_location": {
+              "lng": -46.602821,
+              "lat": -23.601066
+            },
+            "polyline": {
+              "points": "`|goCpme{GD??B?dA@rABnAkC@A?g@@o@?O?MAOAG?GAGAEAGCGCmAWAAeA[e@OICKCIAIAIAKAE?g@Cg@AC?e@A[A]?I?K?A?I@K@K@IBK@KBID_@Hq@Pq@Po@NE@g@LGBQDQFQDQHC@KDo@^[Tg@ZKFQNGBA@IFSLSLSJOHC@SJSFWJ}@Z_@LgAb@SHa@P[J{@Zk@RQHQBE@E?E@C?E?C?CACACAAACCEAEAEAE?_@A[?wA@mBAoBAcB?]?U?q@?u@Au@?uA?G?cB@cB@aAAU?yAAI?K@{BAc@Ac@?O?oD?G?}@@Y?q@?Y?[?kB@S?kA@oA?oA?sA?sA?w@@a@?K?uAAK?IAAz@Az@?n@?FAv@?l@?tA?NAjAAlA?zAAj@?n@?PAPAjB?h@AlBAf@?JAFAHAHMf@IXGTGR?BEJCFCFGHEFKNEDm@r@UVILEJEJCJEJALAH?F?RAtAArCAPApCC|AE`E?z@?BG~FCb@?|AAz@@bBqFm@cAKw@ISCECEAAACAECGGi@c@YSKCEAIA[Gw@Iy@I?n@At@?z@?V?J?LAJANAF?DABCL_@lAIZK^K\\Kb@]lAWz@EPGVCFAJCJMdAGr@KjAUzBUrBQhBGh@ABm@rFAL_@~DCVIt@EXCLELEPK`@ELCHA@EJIPUb@EFILORKLKLKNIHm@~@oAbB{@jAkAzAo@~@KLOVkA~Am@v@KPIHEFGF]\\MJOHULOFQF}@XYHwDfAs@P[Hw@R]Ju@T[HUHQDMDMBID[HqA^E@IBQDWHs@Ra@LMFKDQHUNYTCDIFGFONQR_@`@EDCD_@\\ERGJGJU\\GNYf@GNCHIVIVGTADCLId@C^APAZ?r@?hCBnAN`E@f@DpABp@DbAHtBHxBzBOXA@D"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391564,
+          "text": "3:59pm"
+        },
+        "start_location": {
+          "lng": -46.5636141,
+          "lat": -23.6385675
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556393625,
+          "text": "4:33pm"
+        },
+        "end_location": {
+          "lng": -46.602821,
+          "lat": -23.601066
+        },
+        "start_address": "R. Manuel Augusto Ferreirinha, 943 - Boa Vista, S\u00e3o Caetano do Sul - SP, 09580-020, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "R. Agostinho Gomes and R. Bom Pastor",
+    "legs": [
+      {
+        "distance": {
+          "value": 179,
+          "text": "0.2 km"
+        },
+        "duration": {
+          "value": 136,
+          "text": "2 mins"
+        },
+        "end_address": "R. Bom Pastor, 3037 - Ipiranga, S\u00e3o Paulo - SP, 04203-053, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 131,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 93,
+              "text": "2 mins"
+            },
+            "html_instructions": "Head <b>south</b> on <b>R. Agostinho Gomes</b> toward <b>R. Greenfeld</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6028319,
+              "lat": -23.6010667
+            },
+            "end_location": {
+              "lng": -46.6027519,
+              "lat": -23.6021917
+            },
+            "polyline": {
+              "points": "tq`oCtbm{Gt@CNArBKJ?FB@BBBBBFM"
+            }
+          },
+          {
+            "distance": {
+              "value": 48,
+              "text": "48 m"
+            },
+            "duration": {
+              "value": 43,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Bom Pastor</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6027519,
+              "lat": -23.6021917
+            },
+            "end_location": {
+              "lng": -46.60240700000001,
+              "lat": -23.602411
+            },
+            "polyline": {
+              "points": "tx`oCdbm{GHONUP]"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6028319,
+          "lat": -23.6010667
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.60240700000001,
+          "lat": -23.602411
+        },
+        "start_address": "R. Agostinho Gomes, 3426 - Ipiranga, S\u00e3o Paulo - SP, 04206-002, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "tq`oCtbm{GdEQPNr@qA"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6028319,
+        "lat": -23.602411
+      },
+      "northeast": {
+        "lng": -46.60240700000001,
+        "lat": -23.6010667
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "ty`oCv_m{GPLQ\\_@n@_@j@}@bA{@x@u@l@SNw@\\{At@_Ad@qB|@m@R{C`AoCx@uGhB_Et@oCl@qAJkCJiI^{G\\gLf@sNn@oEP{CRiIb@cHTmDHUF{@`AMFq@FcCPqEPoAF?z@DnBBXKR?PDfAAJIJID_@AsAB}DRo@D@T}AFY@ASg@@gBHsDP}Pt@aJ`@W@i@C{@AcCJ}GZuBL_APODBLi@FiAXs@JGAQMa@u@]k@eGnCgHbDkBhAcAt@uAtA{ApB{@|Ag@hAs@zBe@tB}AbHy@tDiBdIoAtF_AnCs@~AqAvBcArAs@v@q@n@yAlAWPgAf@k@VcA\\}@Ta@Du@HMGK?]@q@IICIAy@W}@Ys@IiA@g@FaATiBj@m@RYP}AbA_A^u@NoAJw@BoAEwAEy@@UFaABSBgBB{BVaBRu@Zk@f@_@n@Qn@Ij@Cz@Dn@Nz@^nA^h@l@l@`FpE^hANXOLKZOh@Ev@Bh@DRJVNZd@Q`C{@fBq@pEgBlJuD\\Sl@m@xAyAvBsBb@c@k@gA|@g@RUDM|Aw@nB_A^OHILGRQl@s@~@eBb@g@rFwEDF"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 7,
+      "text": "R$7.00"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6322718,
+        "lat": -23.6024405
+      },
+      "northeast": {
+        "lng": -46.60236440000001,
+        "lat": -23.5430746
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 9784,
+          "text": "9.8 km"
+        },
+        "duration": {
+          "value": 1461,
+          "text": "24 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Av. Do Estado, 4502 - Cambuci, S\u00e3o Paulo - SP, 03216-050, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 9784,
+              "text": "9.8 km"
+            },
+            "duration": {
+              "value": 1461,
+              "text": "24 mins"
+            },
+            "html_instructions": "Bus towards Sao Paulo (Glicerio)",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 23,
+              "headsign": "Sao Paulo (Glicerio)",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556392213,
+                "text": "4:10pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.625046,
+                  "lat": -23.554495
+                },
+                "name": "Av. Do Estado, 4502"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556393674,
+                "text": "4:34pm"
+              },
+              "line": {
+                "short_name": "218EX2",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "agencies": [
+                  {
+                    "url": "http://www.emtu.sp.gov.br/",
+                    "phone": "011 55 800 724 0555",
+                    "name": "Empresa Metropolitana de Transportes Urbanos de S\u00e3o Paulo S.A."
+                  }
+                ],
+                "name": "Sao Bernardo do Campo (Terminal Metropolitano Ferrazopolis) / Sao Paulo (Glicerio)"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.60236440000001,
+                  "lat": -23.6023548
+                },
+                "name": "Rua Bom Pastor, 3037"
+              }
+            },
+            "start_location": {
+              "lng": -46.60236440000001,
+              "lat": -23.6023548
+            },
+            "end_location": {
+              "lng": -46.625046,
+              "lat": -23.554495
+            },
+            "polyline": {
+              "points": "ty`oCv_m{GPLQ\\OTOXQZMNk@l@QTQNQPWVWR]XSNw@\\iAj@QHSJk@XkAj@e@PC@i@Pm@Ri@Pc@L_@La@LcAZg@NA?eAZeCp@MD{@Tg@J_@Fw@P_ANQD}Bf@e@Dk@DM@M@U@yADa@Be@@oFVQ@_ADe@B{BNy@BmDLoCLYBoAFqCJmCLeCLmAFI?eEPS@gCPm@Bu@Fs@DqDP{AFW@sBH{@@yCFS@ODE@EBOP[`@IHKDA@QB_@Bc@B[DI@y@Dm@BcDLoAF?z@@NB~A@P@FGLCDAD@J@XB\\?H?DAJEDCDEBC@SAK?G?g@@S?O@kAFqBJo@D@T_@@}@DU@C?ASg@@[BkADu@Ds@Bu@DS@Q@{EReCJk@DaADq@BY@O@qERI?{BLI?O@G?K?]Cc@?WAY@iBHoCLu@Dk@Bk@Bk@Bq@DSBC?M@MBMBUFODBLU@SD_@LG@E@[Fg@HK@C?CAECAACCECMQSc@OYMQ}Ap@g@VeBv@YLg@TcDxAsAn@GBMH]P[Rc@XWPOJA@YTWTg@h@IFKLGHe@j@SXY`@S\\OXOXGJGJO\\KXCDSn@_@jASx@Qz@c@lBYlASz@Kj@GXMf@YtAI\\Kb@I\\Qz@Qp@UbAI`@GZGRYtAWjAQn@Kb@Qh@KZOd@Qb@ABWl@Q^GLU`@OV[d@OVMPMPSXSTUT]`@ST]XMNg@`@SNOJA?GDKFABOFWLOHOF_@LKHg@R[HIBMDUFOBMBS@u@HMGE?E?W@E?WCYEECC?E?CAE@s@Y[K[ME?KCg@Ec@?e@@A?e@Fa@H_@Jy@Ro@VYLSDCBC@EBKFe@ZYPMJOHOFWJMFIBODKBC@UBOBG?I@m@DU@G@G?Q?I?IAU?e@Cs@Cc@Ak@@M?EBA@C@I?K?W@G@U?E?MBg@A_AD]B}ARoANQBUHOFC@KFQLA@MJIJCBKNGLGLIVGVEPCXA\\?FATB^@NDZH^FTBLJZFNT\\HJLL^^hBbBvBlB^fA?@DLHJOLKZIVEPE\\?X?PBVBH@HDLDHNZd@QbA_@|@[xAi@LGtAg@p@[f@Q`@QLEPGbAc@BA`C}@l@WRI`Aa@PIJITUVWJMt@s@LMHIRQXWPQv@w@b@c@k@gAXOb@WLKDIDM|Aw@|As@PK^OHIFEDABCNMPQLM?ALQJQTc@JSP[FIHKFGHIPOXWh@c@\\[`@]d@a@RQb@]DF"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556392213,
+          "text": "4:10pm"
+        },
+        "start_location": {
+          "lng": -46.60236440000001,
+          "lat": -23.6023548
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556393674,
+          "text": "4:34pm"
+        },
+        "end_location": {
+          "lng": -46.625046,
+          "lat": -23.554495
+        },
+        "start_address": "Rua Bom Pastor, 3037 - Ipiranga, S\u00e3o Paulo - SP, 04280-010, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "R. Ant\u00f4nio de S\u00e1",
+    "legs": [
+      {
+        "distance": {
+          "value": 226,
+          "text": "0.2 km"
+        },
+        "duration": {
+          "value": 172,
+          "text": "3 mins"
+        },
+        "end_address": "Viaduto Trinta e Um de Mar\u00e7o, 5107 - Liberdade, S\u00e3o Paulo - SP, 01517-100, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 25,
+              "text": "25 m"
+            },
+            "duration": {
+              "value": 19,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>northwest</b> on <b>Av. do Estado</b> toward <b>R. Ant\u00f4nio de S\u00e1</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6250388,
+              "lat": -23.5544877
+            },
+            "end_location": {
+              "lng": -46.6251768,
+              "lat": -23.5543338
+            },
+            "polyline": {
+              "points": "pnwnCnmq{G_@Z"
+            }
+          },
+          {
+            "distance": {
+              "value": 173,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 129,
+              "text": "2 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Ant\u00f4nio de S\u00e1</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6251768,
+              "lat": -23.5543338
+            },
+            "end_location": {
+              "lng": -46.6268721,
+              "lat": -23.5544979
+            },
+            "polyline": {
+              "points": "pmwnCjnq{G@JBXF|@Bb@FjAFt@H|@IH"
+            }
+          },
+          {
+            "distance": {
+              "value": 11,
+              "text": "11 m"
+            },
+            "duration": {
+              "value": 10,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Av. Pref. Passos</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6268721,
+              "lat": -23.5544979
+            },
+            "end_location": {
+              "lng": -46.6268367,
+              "lat": -23.5543903
+            },
+            "polyline": {
+              "points": "rnwnC|xq{GGAMC"
+            }
+          },
+          {
+            "distance": {
+              "value": 17,
+              "text": "17 m"
+            },
+            "duration": {
+              "value": 14,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Viaduto Gov. Abreu Sodr\u00e9</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6268367,
+              "lat": -23.5543903
+            },
+            "end_location": {
+              "lng": -46.6269622,
+              "lat": -23.5543869
+            },
+            "polyline": {
+              "points": "|mwnCvxq{G?V"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6250388,
+          "lat": -23.5544877
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6269622,
+          "lat": -23.5543869
+        },
+        "start_address": "Av. Do Estado, 4502 - Cambuci, S\u00e3o Paulo - SP, 03216-050, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "pnwnCnmq{G_@Z@JJvA\\bFIHGAMC?V"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6269622,
+        "lat": -23.5545519
+      },
+      "northeast": {
+        "lng": -46.6250388,
+        "lat": -23.5543338
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+]

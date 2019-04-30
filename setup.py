@@ -11,7 +11,7 @@ config = {
     'url': '--',
     'download_url': '--',
     'author_email': '[diego, francessantos]@lrc.ic.unicamp.br',
-    'install_requires': ['pandas', 'haversine', 'numpy', 'scipy', 'matplotlib', 'sklearn', 'hdbscan', 'xmltodict', 'beautifulsoup4', 'googlemaps', 'gmplot', 'seaborn', 'json']
+    'install_requires': ['pandas', 'haversine', 'numpy', 'scipy', 'matplotlib', 'sklearn', 'hdbscan', 'xmltodict', 'beautifulsoup4', 'googlemaps', 'gmplot', 'seaborn', 'polyline']
 }
 
 setup(**config)

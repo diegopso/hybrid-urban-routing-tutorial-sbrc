@@ -1,0 +1,1122 @@
+[
+  {
+    "summary": "Av. do Estado",
+    "legs": [
+      {
+        "distance": {
+          "value": 14171,
+          "text": "14.2 km"
+        },
+        "duration": {
+          "value": 1786,
+          "text": "30 mins"
+        },
+        "end_address": "Av. do Estado, 4113 - Br\u00e1s, S\u00e3o Paulo - SP, 03007-010, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 128,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 39,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>east</b> on <b>R. Silvia</b> toward <b>R. Pelegrino Bernardo</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.5601138,
+              "lat": -23.6365413
+            },
+            "end_location": {
+              "lng": -46.5588541,
+              "lat": -23.6365328
+            },
+            "polyline": {
+              "points": "jogoCtwd{GA}@A_AB{@Aw@?I"
+            }
+          },
+          {
+            "distance": {
+              "value": 1949,
+              "text": "1.9 km"
+            },
+            "duration": {
+              "value": 282,
+              "text": "5 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Av. Pres. Kennedy</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.5588541,
+              "lat": -23.6365328
+            },
+            "end_location": {
+              "lng": -46.5560962,
+              "lat": -23.6199724
+            },
+            "polyline": {
+              "points": "hogoCxod{G?[MASCQAGA{@IcA[uAe@kAc@]MoAa@]Oe@Oo@UQEi@QeA_@}@[AACAGAQGMCy@Se@MCAe@OWISGOGGCGCGCGCIAEAIACAK?IAI?I?}@?m@?I?G?E?G@M?OBQ@G@E@{@HYFYBK@}@Jw@H[BaBTeBNw@Jw@Li@J{@JC?_AN_ANO@G?UAM?MAs@?WAI?A?o@As@C}CCGAG?GAE?AAGAGAGAAAGAGCCAEAGCGEMGWMGCAAEAEEGCEEGG]a@UW]YUS]U]SCC_@Oa@MOCICe@GG?OAMAGAG?E?G?O?E?O?E@K?K@I?K@K@I?K@YFO@k@H"
+            }
+          },
+          {
+            "distance": {
+              "value": 392,
+              "text": "0.4 km"
+            },
+            "duration": {
+              "value": 75,
+              "text": "1 min"
+            },
+            "html_instructions": "At the roundabout, take the <b>2nd</b> exit and stay on <b>Av. Pres. Kennedy</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "roundabout-right",
+            "start_location": {
+              "lng": -46.5560962,
+              "lat": -23.6199724
+            },
+            "end_location": {
+              "lng": -46.5558225,
+              "lat": -23.6164767
+            },
+            "polyline": {
+              "points": "xgdoCr~c{GAAA?C?I?Y@A@A?C@A?AACAA?AAC?AAC?A?mECG?iAAs@Ak@AG?I?GAG?I?GAGAKAgAMe@Iw@I"
+            }
+          },
+          {
+            "distance": {
+              "value": 892,
+              "text": "0.9 km"
+            },
+            "duration": {
+              "value": 136,
+              "text": "2 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Av. Goi\u00e1s</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.5558225,
+              "lat": -23.6164767
+            },
+            "end_location": {
+              "lng": -46.564576,
+              "lat": -23.6163598
+            },
+            "polyline": {
+              "points": "~qcoCz|c{G?jA?lA?P@@?~@ChEAzCCfD?X?jAAjA?J@`@AdA@f@Av@AzACrC?\\CbDCbD"
+            }
+          },
+          {
+            "distance": {
+              "value": 222,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 25,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Lu\u00eds Gama</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.564576,
+              "lat": -23.6163598
+            },
+            "end_location": {
+              "lng": -46.5646054,
+              "lat": -23.6143656
+            },
+            "polyline": {
+              "points": "fqcoCrse{GgA?eA?m@?Q?_B@_BB"
+            }
+          },
+          {
+            "distance": {
+              "value": 335,
+              "text": "0.3 km"
+            },
+            "duration": {
+              "value": 48,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Samuel Klein</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.5646054,
+              "lat": -23.6143656
+            },
+            "end_location": {
+              "lng": -46.5676768,
+              "lat": -23.6133019
+            },
+            "polyline": {
+              "points": "xdcoCxse{GMb@?B[lACJOv@Qn@aAbE[hAK`@[jA"
+            }
+          },
+          {
+            "distance": {
+              "value": 658,
+              "text": "0.7 km"
+            },
+            "duration": {
+              "value": 64,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Viaduto Independ\u00eancia</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.5676768,
+              "lat": -23.6133019
+            },
+            "end_location": {
+              "lng": -46.56672930000001,
+              "lat": -23.6077033
+            },
+            "polyline": {
+              "points": "b~boC~ff{GGDMLKLKLQNSBE?A?C?EAEAA?gHqBa@M_@KSGSEoC{@GCKEQGMEWCQCGAGAOAG?IAO?GAG?cB?e@?_B@K?A?K?[?"
+            }
+          },
+          {
+            "distance": {
+              "value": 80,
+              "text": "80 m"
+            },
+            "duration": {
+              "value": 12,
+              "text": "1 min"
+            },
+            "html_instructions": "Keep <b>left</b> to continue on <b>Pra\u00e7a It\u00e1lia</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "keep-left",
+            "start_location": {
+              "lng": -46.56672930000001,
+              "lat": -23.6077033
+            },
+            "end_location": {
+              "lng": -46.5670756,
+              "lat": -23.6070877
+            },
+            "polyline": {
+              "points": "b{aoC`af{GI@Q@M@KBKDMJIF_@`@"
+            }
+          },
+          {
+            "distance": {
+              "value": 361,
+              "text": "0.4 km"
+            },
+            "duration": {
+              "value": 70,
+              "text": "1 min"
+            },
+            "html_instructions": "Continue onto <b>R. Herculano de Freitas</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.5670756,
+              "lat": -23.6070877
+            },
+            "end_location": {
+              "lng": -46.5703112,
+              "lat": -23.6063307
+            },
+            "polyline": {
+              "points": "hwaoCfcf{GEFUVY\\sAnBOR?nB@nB?lB?tB"
+            }
+          },
+          {
+            "distance": {
+              "value": 290,
+              "text": "0.3 km"
+            },
+            "duration": {
+              "value": 92,
+              "text": "2 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Av. Conde Francisco Matarazzo</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.5703112,
+              "lat": -23.6063307
+            },
+            "end_location": {
+              "lng": -46.5701173,
+              "lat": -23.6037894
+            },
+            "polyline": {
+              "points": "praoClwf{GW?u@Bi@@sADQ?m@BsADe@G[E[E]S_@S"
+            }
+          },
+          {
+            "distance": {
+              "value": 2955,
+              "text": "3.0 km"
+            },
+            "duration": {
+              "value": 351,
+              "text": "6 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Av. Dr. Francisco Mesquita</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.5701173,
+              "lat": -23.6037894
+            },
+            "end_location": {
+              "lng": -46.5916083,
+              "lat": -23.5872435
+            },
+            "polyline": {
+              "points": "tbaoCfvf{GW`@EHYj@_@t@[j@kAvBKRIHm@hA{ArCIPo@nAuAhCkAtBQ^GJEJCLGPMf@Kh@?@EP?BCNCTEr@Ah@Gr@E`@C\\AFAFENELIVEJcAxBKVABm@vA]|@?@i@jAMXO\\U^KPKJEDEDKJIJKFIFKFKFKDKBKDs@RA?EBC@IBIBIDIBGDGBEBMHULEBEDKFu@j@MJMLuAfAiBvAcBpAUNOLGFEBWRSRo@f@s@h@yCbC{ApAYZMPIJMRUb@Yh@KZWp@GNIPGNILg@t@UV_@`@w@p@w@j@cCpBgA|@{@p@SNQJe@^URSRi@b@UPMJIF[V]XIHKHMJKFc@^a@ZMJa@j@KNGJKRQ\\OZGLIVGTEJCLCPCLAPAJAH?@AT?r@?h@"
+            }
+          },
+          {
+            "distance": {
+              "value": 448,
+              "text": "0.4 km"
+            },
+            "duration": {
+              "value": 41,
+              "text": "1 min"
+            },
+            "html_instructions": "Merge onto <b>Viaduto Grande S\u00e3o Paulo</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "merge",
+            "start_location": {
+              "lng": -46.5916083,
+              "lat": -23.5872435
+            },
+            "end_location": {
+              "lng": -46.5958557,
+              "lat": -23.5876323
+            },
+            "polyline": {
+              "points": "f{}nCp|j{GFh@Fj@JhAN~ADX@J@D@H@LBLF\\Lt@d@bC@L@D@D?F@D@D?D?F@D?L?J?L?D?FCV?D?DADAD?DMh@K\\Up@"
+            }
+          },
+          {
+            "distance": {
+              "value": 5325,
+              "text": "5.3 km"
+            },
+            "duration": {
+              "value": 513,
+              "text": "9 mins"
+            },
+            "html_instructions": "Keep <b>right</b> to continue on <b>Av. do Estado</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "keep-right",
+            "start_location": {
+              "lng": -46.5958557,
+              "lat": -23.5876323
+            },
+            "end_location": {
+              "lng": -46.6257555,
+              "lat": -23.5523275
+            },
+            "polyline": {
+              "points": "t}}nCbwk{Gk@xAs@tBIRGNOZOZIJGJGHCBEDSVOL[V_At@MLONOJQNYVm@b@IF[Rc@VSH_@PWHy@TG@UDWD_@DS@Q@m@@y@@_@Au@A_@AUCUAg@AOCQ?mACw@?_AAwBEc@?W?W@]B[DUDWFq@P_@Nw@Vy@X}@\\s@Zy@^}@`@yAr@iAl@o@`@[Ra@Xa@Xy@p@m@j@e@d@e@`@mAfA_@\\WTs@r@URMNOLQLSL?@OHGBWJODQDI@KBI@WDQ@_@B{AFg@@U@]BWBQBKBQBMDKBGBQHC@MDOHMHIFMJKJUTQRGHCDGJGJ[l@kA`C_@v@KRo@nAGLe@z@O^]t@[j@IRS^EHABYl@Ub@Q\\ILIJSTUTMHIH[NyAp@i@Vu@\\_Ab@yBbAyAr@uCpAWLWNURINOJGBqAp@QFMFoItD_@PcAb@_@Pg@Tu@^e@Vi@\\WRa@XIFKHKHKJIHIHIHEFQNKLIJOREDQTQTQZQXMTS^[p@ITGNSf@KZOh@ABKb@AB}AbH_@fBc@lBsAfGsAfGCJIXCNIXK\\K^M\\ELGNM\\GLGNOZMZILOXGJOXQXYb@SVQVSTILKJKJIJIJKJKJIHKHGFA@_@ZIHWRWPSNMJOJYRYPUNYP]Lk@Jq@Ju@FSD"
+            }
+          },
+          {
+            "distance": {
+              "value": 47,
+              "text": "47 m"
+            },
+            "duration": {
+              "value": 22,
+              "text": "1 min"
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>R. da Figueira</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-slight-right",
+            "start_location": {
+              "lng": -46.6257555,
+              "lat": -23.5523275
+            },
+            "end_location": {
+              "lng": -46.6257334,
+              "lat": -23.5519089
+            },
+            "polyline": {
+              "points": "`awnC~qq{GQCC?CAC?C?O@E@KAOA"
+            }
+          },
+          {
+            "distance": {
+              "value": 89,
+              "text": "89 m"
+            },
+            "duration": {
+              "value": 16,
+              "text": "1 min"
+            },
+            "html_instructions": "Slight <b>left</b> onto <b>Av. do Estado</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-slight-left",
+            "start_location": {
+              "lng": -46.6257334,
+              "lat": -23.5519089
+            },
+            "end_location": {
+              "lng": -46.62610480000001,
+              "lat": -23.5511856
+            },
+            "polyline": {
+              "points": "l~vnCxqq{Gq@VE@SJcAb@"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "duration_in_traffic": {
+          "value": 1771,
+          "text": "30 mins"
+        },
+        "start_location": {
+          "lng": -46.5601138,
+          "lat": -23.6365413
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.62610480000001,
+          "lat": -23.5511856
+        },
+        "start_address": "R. Silvia, 955 - Osvaldo Cruz, S\u00e3o Caetano do Sul - SP, 09571-300, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "jogoCtwd{GC}B@sB?e@a@EYC{@IcA[aDiAmBo@eC{@oDoAk@OiCs@eBk@_@E{AAeA?w@F_Gp@}BX}CZaDd@_C^W@eBCuHMq@MoAk@UMaAgAs@m@{@i@c@Sq@QgAMc@CuABm@DwAPi@@IBUGyKKa@CsAO}AS@lDIlQA|D?fEIpLCbDgA?sB?qB@_BBMb@[pASbA{B~I[jAGDYZ]\\YBQCkJkC_EmA]Me@Iq@Ii@CqF@Y?e@@_@BWHWRe@h@o@t@cBbC@~E?bFmAB}DJsADe@Gw@K}@g@]j@y@`BgBbDU\\iC|Ey@`BaD~Fc@dAa@dBMz@G|AMtAM|@Od@iAdCyApDgAdCa@p@QPg@d@m@\\mA\\aA`@o@^uAdAqH~Fs@h@oCxBuFtEg@l@W^o@lAu@nBQ\\}@lAwArA{D|CiDjCyBjBkCvB_BnAaAzAs@~AU`AIt@AtBv@tHfAlGD`AGjAMn@a@nA_BnEQb@q@nAe@j@eElDw@j@_Aj@s@ZqA^uARmCFkCI_BG}HKqBDq@JiAXoE~AeGpCyBnA}@l@{AjAsApAkD|CgBdBu@f@aAZw@LuDN}ALw@Pk@Tu@f@{@~@o@jAgD|G{A~C_AhBcArBSXi@j@WRuB`AyG|CoFdCo@\\URINWNaMvFkD|A{Av@aAp@cAt@wAzAy@dAeAjBaA~Bi@lByIr`@e@fBi@xAm@tAq@lAqAlBu@z@kAlAyAjAq@f@cBfAiAXgBRSDQCGA]B[Cw@XwAn@"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.62610480000001,
+        "lat": -23.6365413
+      },
+      "northeast": {
+        "lng": -46.5558225,
+        "lat": -23.5511856
+      }
+    },
+    "warnings": [],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "R. da Figueira",
+    "legs": [
+      {
+        "distance": {
+          "value": 364,
+          "text": "0.4 km"
+        },
+        "duration": {
+          "value": 265,
+          "text": "4 mins"
+        },
+        "end_address": "Pedro II - Br\u00e1s, S\u00e3o Paulo - SP, 03216-050, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 89,
+              "text": "89 m"
+            },
+            "duration": {
+              "value": 70,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>southeast</b> on <b>Av. do Estado</b> toward <b>R. da Figueira</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6260698,
+              "lat": -23.5511694
+            },
+            "end_location": {
+              "lng": -46.6257327,
+              "lat": -23.5518193
+            },
+            "polyline": {
+              "points": "xyvnC|sq{GbAe@TIDC`@O"
+            }
+          },
+          {
+            "distance": {
+              "value": 275,
+              "text": "0.3 km"
+            },
+            "duration": {
+              "value": 195,
+              "text": "3 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. da Figueira</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6257327,
+              "lat": -23.5518193
+            },
+            "end_location": {
+              "lng": -46.6255116,
+              "lat": -23.549581
+            },
+            "polyline": {
+              "points": "z}vnCxqq{G[MSGKIs@WYM[KE?KCe@Ec@Ae@Bg@F_@H_@Ho@P"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6260698,
+          "lat": -23.5511694
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6255116,
+          "lat": -23.549581
+        },
+        "start_address": "Av. do Estado, 4113 - Br\u00e1s, S\u00e3o Paulo - SP, 03007-010, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "xyvnC|sq{G`CcAo@U_Aa@u@YQCe@Ec@AmAJoBd@"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6260698,
+        "lat": -23.5518193
+      },
+      "northeast": {
+        "lng": -46.6252647,
+        "lat": -23.549581
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "tpvnC~rq{GC?r@vHRfB\\zAhAfEx@`DLdB@bAKnCOnBc@rBe@fBaGpP}BvGaBnEm@~A{DlF}@`A]ToA~@qHjFg@\\c@b@uJrKmAxAc@b@oAlAaApAwAvAkD`DgB|AmAvAyCrDcXjg@EJHXWCk@dAeHjNg@v@{IbFmF|CuC`BSTuCdDu@~BcCzHq@tCS`CI`@_@vB}@x@YzA"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.66742139999999,
+        "lat": -23.550935
+      },
+      "northeast": {
+        "lng": -46.6259157,
+        "lat": -23.5254628
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 5353,
+          "text": "5.4 km"
+        },
+        "duration": {
+          "value": 1320,
+          "text": "22 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Av. Auro Soares de Moura Andrade, 664 - Barra Funda, S\u00e3o Paulo - SP, 01156-001, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 5353,
+              "text": "5.4 km"
+            },
+            "duration": {
+              "value": 1140,
+              "text": "19 mins"
+            },
+            "html_instructions": "Subway towards Palmeiras - Barra Funda",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 6,
+              "headsign": "Palmeiras - Barra Funda",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391331,
+                "text": "3:55pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.66742139999999,
+                  "lat": -23.5254628
+                },
+                "name": "Palmeiras\u2013Barra Funda"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556392471,
+                "text": "4:14pm"
+              },
+              "line": {
+                "color": "#ee372f",
+                "short_name": "METR\u00d4 L3",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                  "name": "Subway",
+                  "type": "SUBWAY"
+                },
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "name": "Corinthians - Itaquera - Palmeiras - Barra Funda"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.6259157,
+                  "lat": -23.5497075
+                },
+                "name": "Pedro II"
+              },
+              "headway": 180
+            },
+            "start_location": {
+              "lng": -46.6259157,
+              "lat": -23.5497075
+            },
+            "end_location": {
+              "lng": -46.66742139999999,
+              "lat": -23.5254628
+            },
+            "polyline": {
+              "points": "tpvnC~rq{GC?ZpDVdCRfB\\zA`@zAf@jB^vAXhALtA?N@r@?NElAE`AOnBc@rBa@|ACHkDrJuA|DoAtDm@`Bi@tAOd@KV[z@MZ_@bAaB~ByAlB}@`A]T_Ar@OJcCdBw@j@_@XuA~@MJYPQNQR{CdDe@h@kApAgBpBmAxAc@b@oAlAaApA[Z{@z@mAjA}AtAcAz@c@`@OP}@dAm@t@g@n@[^g@l@m@jAuAhCwAjCqAdCkAxBwAnCs@pA}GfMEJHXWCk@dAiG~L[j@g@v@{IbFgBdAeCvAuC`BSTuCdDu@~BcCzHq@tCS`CI`@_@vB}@x@YzA"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391151,
+          "text": "3:52pm"
+        },
+        "start_location": {
+          "lng": -46.6259157,
+          "lat": -23.5497075
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556392471,
+          "text": "4:14pm"
+        },
+        "end_location": {
+          "lng": -46.66742139999999,
+          "lat": -23.5254628
+        },
+        "start_address": "Pedro II - Br\u00e1s, S\u00e3o Paulo - SP, 03216-050, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "",
+    "legs": [
+      {
+        "distance": {
+          "value": 245,
+          "text": "0.2 km"
+        },
+        "duration": {
+          "value": 181,
+          "text": "3 mins"
+        },
+        "end_address": "Av. Auro Soares de Moura Andrade, 664 - Barra Funda, S\u00e3o Paulo - SP, 01156-001, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 78,
+              "text": "78 m"
+            },
+            "duration": {
+              "value": 60,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>east</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6673804,
+              "lat": -23.5249867
+            },
+            "end_location": {
+              "lng": -46.6666223,
+              "lat": -23.525052
+            },
+            "polyline": {
+              "points": "dvqnCbvy{G@_@?ADkABi@"
+            }
+          },
+          {
+            "distance": {
+              "value": 61,
+              "text": "61 m"
+            },
+            "duration": {
+              "value": 46,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6666223,
+              "lat": -23.525052
+            },
+            "end_location": {
+              "lng": -46.666736,
+              "lat": -23.5251398
+            },
+            "polyline": {
+              "points": "pvqnCjqy{GJ?@??G@[?A@??A@??@@??@?@AX?NAN"
+            }
+          },
+          {
+            "distance": {
+              "value": 106,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 75,
+              "text": "1 min"
+            },
+            "html_instructions": "Take the pedestrian overpass<div style=\"font-size:0.9em\">Take the stairs</div>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.666736,
+              "lat": -23.5251398
+            },
+            "end_location": {
+              "lng": -46.6670468,
+              "lat": -23.5244553
+            },
+            "polyline": {
+              "points": "bwqnCbry{G[CG?SAYA]AA@A??@?@A@?@Ab@?@A@A?ANID"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6673804,
+          "lat": -23.5249867
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6670468,
+          "lat": -23.5244553
+        },
+        "start_address": "Av. Auro Soares de Moura Andrade, 664 - Barra Funda, S\u00e3o Paulo - SP, 01156-001, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "dvqnCbvy{GJwCL?@e@BAA~@qAG_@?A@Ch@CBANID"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6673804,
+        "lat": -23.5251491
+      },
+      "northeast": {
+        "lng": -46.6664247,
+        "lat": -23.5244553
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "xrqnC|sy{GPqF?WZ?Gr@FO`BdAOATyC@QCGLeA?G?KCKKSWCuKUq@CaEi@iApMKhAMVW\\E@G@WLQTKRCTAXBPJT@BAFCP@ZFh@?TIf@sAlHeBzJiBnJu@fEeC|MSv@Wh@cAbBQ`@Mn@Ip@GnABlA?~@Ed@g@rCCR@?"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.681301,
+        "lat": -23.5252632
+      },
+      "northeast": {
+        "lng": -46.664349,
+        "lat": -23.5174366
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "legs": [
+      {
+        "distance": {
+          "value": 2569,
+          "text": "2.6 km"
+        },
+        "duration": {
+          "value": 976,
+          "text": "16 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Cetet - B/C - \u00c1gua Branca, S\u00e3o Paulo - SP, 02675-031, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 191,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 134,
+              "text": "2 mins"
+            },
+            "steps": [
+              {
+                "distance": {
+                  "value": 136,
+                  "text": "0.1 km"
+                },
+                "duration": {
+                  "value": 91,
+                  "text": "2 mins"
+                },
+                "html_instructions": "Head <b>east</b> on <b>R. Jorn. Aloysio Biondi</b>",
+                "travel_mode": "WALKING",
+                "start_location": {
+                  "lng": -46.6670305,
+                  "lat": -23.5244482
+                },
+                "end_location": {
+                  "lng": -46.6656954,
+                  "lat": -23.5245449
+                },
+                "polyline": {
+                  "points": "xrqnC|sy{GDyAJwC?W"
+                }
+              },
+              {
+                "distance": {
+                  "value": 19,
+                  "text": "19 m"
+                },
+                "duration": {
+                  "value": 14,
+                  "text": "1 min"
+                },
+                "html_instructions": "Turn <b>right</b>",
+                "travel_mode": "WALKING",
+                "maneuver": "turn-right",
+                "start_location": {
+                  "lng": -46.6656954,
+                  "lat": -23.5245449
+                },
+                "end_location": {
+                  "lng": -46.6656991,
+                  "lat": -23.5246808
+                },
+                "polyline": {
+                  "points": "jsqnCrky{GZ?"
+                }
+              },
+              {
+                "distance": {
+                  "value": 27,
+                  "text": "27 m"
+                },
+                "duration": {
+                  "value": 22,
+                  "text": "1 min"
+                },
+                "html_instructions": "Turn <b>right</b>",
+                "travel_mode": "WALKING",
+                "maneuver": "turn-right",
+                "start_location": {
+                  "lng": -46.6656991,
+                  "lat": -23.5246808
+                },
+                "end_location": {
+                  "lng": -46.6659581,
+                  "lat": -23.5246355
+                },
+                "polyline": {
+                  "points": "ftqnCrky{GGr@"
+                }
+              },
+              {
+                "distance": {
+                  "value": 9,
+                  "text": "9 m"
+                },
+                "duration": {
+                  "value": 7,
+                  "text": "1 min"
+                },
+                "html_instructions": "Sharp <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                "travel_mode": "WALKING",
+                "maneuver": "turn-sharp-left",
+                "start_location": {
+                  "lng": -46.6659581,
+                  "lat": -23.5246355
+                },
+                "end_location": {
+                  "lng": -46.6658842,
+                  "lat": -23.5246796
+                },
+                "polyline": {
+                  "points": "~sqnCfmy{GFO"
+                }
+              }
+            ],
+            "html_instructions": "Walk to Terminal Barra Funda Lado Norte Plat. A",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6670305,
+              "lat": -23.5244482
+            },
+            "end_location": {
+              "lng": -46.6658842,
+              "lat": -23.5246796
+            },
+            "polyline": {
+              "points": "xrqnC|sy{GDyAJwC?WZ?Gr@FO"
+            }
+          },
+          {
+            "distance": {
+              "value": 2378,
+              "text": "2.4 km"
+            },
+            "duration": {
+              "value": 470,
+              "text": "8 mins"
+            },
+            "html_instructions": "Bus towards Term. Pirituba",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 5,
+              "headsign": "Term. Pirituba",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391657,
+                "text": "4:00pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.681301,
+                  "lat": -23.517453
+                },
+                "name": "Cetet - B/C"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556392127,
+                "text": "4:08pm"
+              },
+              "line": {
+                "color": "#509e2f",
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "short_name": "8500-10",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "text_color": "#ffffff",
+                "name": "Term. Pirituba - Metr\u00f4 Barra Funda"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.6662293,
+                  "lat": -23.5251654
+                },
+                "name": "Terminal Barra Funda Lado Norte Plat. A"
+              },
+              "headway": 360
+            },
+            "start_location": {
+              "lng": -46.6662293,
+              "lat": -23.5251654
+            },
+            "end_location": {
+              "lng": -46.681301,
+              "lat": -23.517453
+            },
+            "polyline": {
+              "points": "hwqnC|ny{GOABi@PoB@K?ECGLeA?C?C?A?C?A?C?AAC?AAC?AACAAAA?AACAAAAAAUAmACgIQQA_@AaDc@_@EEZi@jGEj@S|BGv@CPELGHU\\A?C?A@A?A?A@A?A@MDCBC@EDCBCDCDCBCDADABADAD?B?DAF?D?F?B@D?B?B@B@B@B@B@@?@@@?@@@?@@@@@CDAB?BAD?B?D?B?F@HBL@H@H?F@B?DAD?DADAHAHCLG^Mp@SbAi@vCG\\s@`EEVc@bC]bBUhAWpA]nBQfACHAF]lB_@lB_@lBETADY|AEVSlAI`@ERELADENCHCDADMRA@c@r@GHUb@KTEJGTEXERALAL?@ARC`@AJ?L@`@@j@?p@?LAL?@CN?DAHERG\\G\\?BERI`@CR@?"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391151,
+          "text": "3:52pm"
+        },
+        "start_location": {
+          "lng": -46.6670305,
+          "lat": -23.5244482
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556392127,
+          "text": "4:08pm"
+        },
+        "end_location": {
+          "lng": -46.681301,
+          "lat": -23.517453
+        },
+        "start_address": "Av. Auro Soares de Moura Andrade, 664 - Barra Funda, S\u00e3o Paulo - SP, 01156-001, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "R. Joseph Nigri",
+    "legs": [
+      {
+        "distance": {
+          "value": 359,
+          "text": "0.4 km"
+        },
+        "duration": {
+          "value": 266,
+          "text": "4 mins"
+        },
+        "end_address": "R. Marc Chagall, 339 - Jardim das Perdizes, S\u00e3o Paulo - SP, 05036-170, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 236,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 172,
+              "text": "3 mins"
+            },
+            "html_instructions": "Head <b>south</b> on <b>R. Joseph Nigri</b> toward <b>R. Arnaldo Jos\u00e9 Pac\u00edfico</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.681335,
+              "lat": -23.5175732
+            },
+            "end_location": {
+              "lng": -46.6803563,
+              "lat": -23.5195069
+            },
+            "polyline": {
+              "points": "xgpnCjm|{GVIJE@AHCTODETOt@i@DCTMXOVKZOv@Uj@OPGDADN"
+            }
+          },
+          {
+            "distance": {
+              "value": 20,
+              "text": "20 m"
+            },
+            "duration": {
+              "value": 17,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Arnaldo Jos\u00e9 Pac\u00edfico</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6803563,
+              "lat": -23.5195069
+            },
+            "end_location": {
+              "lng": -46.68054290000001,
+              "lat": -23.519553
+            },
+            "polyline": {
+              "points": "|spnCfg|{GBTBL"
+            }
+          },
+          {
+            "distance": {
+              "value": 103,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 77,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.68054290000001,
+              "lat": -23.519553
+            },
+            "end_location": {
+              "lng": -46.6807986,
+              "lat": -23.5200713
+            },
+            "polyline": {
+              "points": "dtpnCjh|{GXGZMHCHAH?D@DB@BBR@R?\\"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.681335,
+          "lat": -23.5175732
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6807986,
+          "lat": -23.5200713
+        },
+        "start_address": "Cetet - B/C - \u00c1gua Branca, S\u00e3o Paulo - SP, 02675-031, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "xgpnCjm|{Gn@UfBoAlAm@rAe@|@WDADNFb@hA[N@FFDdA"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.681335,
+        "lat": -23.5200713
+      },
+      "northeast": {
+        "lng": -46.6802822,
+        "lat": -23.5175732
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+]

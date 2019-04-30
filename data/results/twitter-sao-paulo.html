@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>SMAFramework - Google Flow</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #floating-panel {
+        position: absolute;
+        top: 10px;
+        left: 25%;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+        text-align: center;
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        padding-left: 10px;
+      }
+      .hide {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="floating-panel">
+      <button id="btn-style" onclick="changeStyle()">Change style</button>
+      <button onclick="hide()">Hide Options</button>
+    </div>
+    <div id="map"></div>
+    <script>
+      var map, infowindow;
+
+      function initMap() {
+        infowindow = new google.maps.InfoWindow();
+        
+        // Define the LatLng coordinates for the polygon's path.
+        var flows = [{"origin_centroid": {"lat": -23.451382932919255, "lng": -46.64251048142858}, "weight": 65, "link": [{"lat": -23.451382932919255, "lng": -46.64251048142858}, {"lat": -23.636979688152174, "lng": -46.56004212951087}], "destination_region_id": 314, "destination_region": [{"lat": -23.63697595, "teta": -100.0, "lng": -46.56005859}, {"lat": -23.63597367, "teta": 30.0, "lng": -46.55895104}, {"lat": -23.637821, "teta": 155.0, "lng": -46.559098}], "origin_region": [{"lat": -23.457138, "teta": -135.0, "lng": -46.64876115}, {"lat": -23.45127825, "teta": 45.0, "lng": -46.64245605}, {"lat": -23.45677535, "teta": 145.0, "lng": -46.64368523}], "origin_region_id": 249, "destination_centroid": {"lat": -23.636979688152174, "lng": -46.56004212951087}}, {"origin_centroid": {"lat": -23.451382932919255, "lng": -46.64251048142858}, "weight": 54, "link": [{"lat": -23.451382932919255, "lng": -46.64251048142858}, {"lat": -23.51988101282052, "lng": -46.6808026971795}], "destination_region_id": 639, "destination_region": [{"lat": -23.5202503, "teta": -180.0, "lng": -46.6791496}, {"lat": -23.51992251, "teta": -130.0, "lng": -46.68090820000001}, {"lat": -23.51996267, "teta": -115.0, "lng": -46.68221756}, {"lat": -23.51657304, "teta": 50.0, "lng": -46.67674178}, {"lat": -23.51771, "teta": 75.0, "lng": -46.67603}, {"lat": -23.51914302, "teta": 105.0, "lng": -46.67607677}, {"lat": -23.51890561, "teta": 110.0, "lng": -46.67777959}], "origin_region": [{"lat": -23.457138, "teta": -135.0, "lng": -46.64876115}, {"lat": -23.45127825, "teta": 45.0, "lng": -46.64245605}, {"lat": -23.45677535, "teta": 145.0, "lng": -46.64368523}], "origin_region_id": 249, "destination_centroid": {"lat": -23.51988101282052, "lng": -46.6808026971795}}, {"origin_centroid": {"lat": -23.636991508232033, "lng": -46.560095243756905}, "weight": 76, "link": [{"lat": -23.636991508232033, "lng": -46.560095243756905}, {"lat": -23.45142335881081, "lng": -46.64249563648649}], "destination_region_id": 168, "destination_region": [{"lat": -23.45509713, "teta": -105.0, "lng": -46.64642036}, {"lat": -23.45127825, "teta": 30.0, "lng": -46.64245605}, {"lat": -23.4578132, "teta": 145.0, "lng": -46.6421277}, {"lat": -23.45677535, "teta": 165.0, "lng": -46.64368523}], "origin_region": [{"lat": -23.63892779, "teta": -110.0, "lng": -46.56482310000001}, {"lat": -23.6369951, "teta": -45.0, "lng": -46.562889}, {"lat": -23.63697595, "teta": 65.0, "lng": -46.56005859}, {"lat": -23.637821, "teta": 85.0, "lng": -46.559098}], "origin_region_id": 287, "destination_centroid": {"lat": -23.45142335881081, "lng": -46.64249563648649}}, {"origin_centroid": {"lat": -23.636991508232033, "lng": -46.560095243756905}, "weight": 32, "link": [{"lat": -23.636991508232033, "lng": -46.560095243756905}, {"lat": -23.56500988, "lng": -46.626663209999975}], "destination_region_id": 372, "destination_region": [{"lat": -23.56500988, "teta": 0.0, "lng": -46.62666321}], "origin_region": [{"lat": -23.63892779, "teta": -110.0, "lng": -46.56482310000001}, {"lat": -23.6369951, "teta": -45.0, "lng": -46.562889}, {"lat": -23.63697595, "teta": 65.0, "lng": -46.56005859}, {"lat": -23.637821, "teta": 85.0, "lng": -46.559098}], "origin_region_id": 287, "destination_centroid": {"lat": -23.56500988, "lng": -46.626663209999975}}, {"origin_centroid": {"lat": -23.636991508232033, "lng": -46.560095243756905}, "weight": 60, "link": [{"lat": -23.636991508232033, "lng": -46.560095243756905}, {"lat": -23.51988101282052, "lng": -46.6808026971795}], "destination_region_id": 639, "destination_region": [{"lat": -23.5202503, "teta": -180.0, "lng": -46.6791496}, {"lat": -23.51992251, "teta": -130.0, "lng": -46.68090820000001}, {"lat": -23.51996267, "teta": -115.0, "lng": -46.68221756}, {"lat": -23.51657304, "teta": 50.0, "lng": -46.67674178}, {"lat": -23.51771, "teta": 75.0, "lng": -46.67603}, {"lat": -23.51914302, "teta": 105.0, "lng": -46.67607677}, {"lat": -23.51890561, "teta": 110.0, "lng": -46.67777959}], "origin_region": [{"lat": -23.63892779, "teta": -110.0, "lng": -46.56482310000001}, {"lat": -23.6369951, "teta": -45.0, "lng": -46.562889}, {"lat": -23.63697595, "teta": 65.0, "lng": -46.56005859}, {"lat": -23.637821, "teta": 85.0, "lng": -46.559098}], "origin_region_id": 287, "destination_centroid": {"lat": -23.51988101282052, "lng": -46.6808026971795}}, {"origin_centroid": {"lat": -23.62797454923729, "lng": -46.55516570567797}, "weight": 44, "link": [{"lat": -23.62797454923729, "lng": -46.55516570567797}, {"lat": -23.55815449185185, "lng": -46.608288526790126}], "destination_region_id": 401, "destination_region": [{"lat": -23.5580373, "teta": -5.0, "lng": -46.60830081}, {"lat": -23.56278357, "teta": 175.0, "lng": -46.60780334}], "origin_region": [{"lat": -23.62894, "teta": -75.0, "lng": -46.56146}, {"lat": -23.62790239, "teta": 60.0, "lng": -46.55506036}, {"lat": -23.62960746, "teta": 75.0, "lng": -46.55696097}, {"lat": -23.63196943, "teta": 155.0, "lng": -46.55729029}], "origin_region_id": 288, "destination_centroid": {"lat": -23.55815449185185, "lng": -46.608288526790126}}, {"origin_centroid": {"lat": -23.51986506053192, "lng": -46.68079261553193}, "weight": 63, "link": [{"lat": -23.51986506053192, "lng": -46.68079261553193}, {"lat": -23.45142335881081, "lng": -46.64249563648649}], "destination_region_id": 168, "destination_region": [{"lat": -23.45509713, "teta": -105.0, "lng": -46.64642036}, {"lat": -23.45127825, "teta": 30.0, "lng": -46.64245605}, {"lat": -23.4578132, "teta": 145.0, "lng": -46.6421277}, {"lat": -23.45677535, "teta": 165.0, "lng": -46.64368523}], "origin_region": [{"lat": -23.51992251, "teta": -120.0, "lng": -46.68090820000001}, {"lat": -23.51996267, "teta": -115.0, "lng": -46.68221756}, {"lat": -23.51662737, "teta": 40.0, "lng": -46.67670877}, {"lat": -23.51755315, "teta": 80.0, "lng": -46.6742184}, {"lat": -23.51914302, "teta": 110.0, "lng": -46.67607677}, {"lat": -23.51882098, "teta": 140.0, "lng": -46.67778905}], "origin_region_id": 506, "destination_centroid": {"lat": -23.45142335881081, "lng": -46.64249563648649}}, {"origin_centroid": {"lat": -23.51986506053192, "lng": -46.68079261553193}, "weight": 61, "link": [{"lat": -23.51986506053192, "lng": -46.68079261553193}, {"lat": -23.636979688152174, "lng": -46.56004212951087}], "destination_region_id": 314, "destination_region": [{"lat": -23.63697595, "teta": -100.0, "lng": -46.56005859}, {"lat": -23.63597367, "teta": 30.0, "lng": -46.55895104}, {"lat": -23.637821, "teta": 155.0, "lng": -46.559098}], "origin_region": [{"lat": -23.51992251, "teta": -120.0, "lng": -46.68090820000001}, {"lat": -23.51996267, "teta": -115.0, "lng": -46.68221756}, {"lat": -23.51662737, "teta": 40.0, "lng": -46.67670877}, {"lat": -23.51755315, "teta": 80.0, "lng": -46.6742184}, {"lat": -23.51914302, "teta": 110.0, "lng": -46.67607677}, {"lat": -23.51882098, "teta": 140.0, "lng": -46.67778905}], "origin_region_id": 506, "destination_centroid": {"lat": -23.636979688152174, "lng": -46.56004212951087}}, {"origin_centroid": {"lat": -23.51986506053192, "lng": -46.68079261553193}, "weight": 52, "link": [{"lat": -23.51986506053192, "lng": -46.68079261553193}, {"lat": -23.56500988, "lng": -46.626663209999975}], "destination_region_id": 372, "destination_region": [{"lat": -23.56500988, "teta": 0.0, "lng": -46.62666321}], "origin_region": [{"lat": -23.51992251, "teta": -120.0, "lng": -46.68090820000001}, {"lat": -23.51996267, "teta": -115.0, "lng": -46.68221756}, {"lat": -23.51662737, "teta": 40.0, "lng": -46.67670877}, {"lat": -23.51755315, "teta": 80.0, "lng": -46.6742184}, {"lat": -23.51914302, "teta": 110.0, "lng": -46.67607677}, {"lat": -23.51882098, "teta": 140.0, "lng": -46.67778905}], "origin_region_id": 506, "destination_centroid": {"lat": -23.56500988, "lng": -46.626663209999975}}, {"origin_centroid": {"lat": -23.565065106291385, "lng": -46.6265711881457}, "weight": 47, "link": [{"lat": -23.565065106291385, "lng": -46.6265711881457}, {"lat": -23.636979688152174, "lng": -46.56004212951087}], "destination_region_id": 314, "destination_region": [{"lat": -23.63697595, "teta": -100.0, "lng": -46.56005859}, {"lat": -23.63597367, "teta": 30.0, "lng": -46.55895104}, {"lat": -23.637821, "teta": 155.0, "lng": -46.559098}], "origin_region": [{"lat": -23.56500988, "teta": -45.0, "lng": -46.62666321}, {"lat": -23.565455, "teta": -15.0, "lng": -46.624878}, {"lat": -23.5652367, "teta": 5.0, "lng": -46.62398567}, {"lat": -23.56758699, "teta": 90.0, "lng": -46.62179387}, {"lat": -23.5701, "teta": 140.0, "lng": -46.6221}], "origin_region_id": 516, "destination_centroid": {"lat": -23.636979688152174, "lng": -46.56004212951087}}, {"origin_centroid": {"lat": -23.565065106291385, "lng": -46.6265711881457}, "weight": 72, "link": [{"lat": -23.565065106291385, "lng": -46.6265711881457}, {"lat": -23.51988101282052, "lng": -46.6808026971795}], "destination_region_id": 639, "destination_region": [{"lat": -23.5202503, "teta": -180.0, "lng": -46.6791496}, {"lat": -23.51992251, "teta": -130.0, "lng": -46.68090820000001}, {"lat": -23.51996267, "teta": -115.0, "lng": -46.68221756}, {"lat": -23.51657304, "teta": 50.0, "lng": -46.67674178}, {"lat": -23.51771, "teta": 75.0, "lng": -46.67603}, {"lat": -23.51914302, "teta": 105.0, "lng": -46.67607677}, {"lat": -23.51890561, "teta": 110.0, "lng": -46.67777959}], "origin_region": [{"lat": -23.56500988, "teta": -45.0, "lng": -46.62666321}, {"lat": -23.565455, "teta": -15.0, "lng": -46.624878}, {"lat": -23.5652367, "teta": 5.0, "lng": -46.62398567}, {"lat": -23.56758699, "teta": 90.0, "lng": -46.62179387}, {"lat": -23.5701, "teta": 140.0, "lng": -46.6221}], "origin_region_id": 516, "destination_centroid": {"lat": -23.51988101282052, "lng": -46.6808026971795}}, {"origin_centroid": {"lat": -23.5316665096, "lng": -46.68568980560001}, "weight": 28, "link": [{"lat": -23.5316665096, "lng": -46.68568980560001}, {"lat": -23.54155476482143, "lng": -46.68336688196429}], "destination_region_id": 562, "destination_region": [{"lat": -23.54160823, "teta": -145.0, "lng": -46.68342969}, {"lat": -23.54246382, "teta": -135.0, "lng": -46.68452296}, {"lat": -23.53976, "teta": -15.0, "lng": -46.68335}, {"lat": -23.53950962, "teta": 45.0, "lng": -46.68148652}, {"lat": -23.54041873, "teta": 55.0, "lng": -46.68223539}, {"lat": -23.54199445, "teta": 135.0, "lng": -46.68206663}], "origin_region": [{"lat": -23.53184043, "teta": -95.0, "lng": -46.68608516}, {"lat": -23.53165668, "teta": 40.0, "lng": -46.68568424}, {"lat": -23.53196441, "teta": 120.0, "lng": -46.68556160000001}], "origin_region_id": 660, "destination_centroid": {"lat": -23.54155476482143, "lng": -46.68336688196429}}];
+
+        var lat = 0;
+        var lng = 0;
+        for (var i = flows.length - 1; i >= 0; i--) {
+          lat += flows[i].origin_centroid.lat;
+          lng += flows[i].origin_centroid.lng;
+        }
+
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: {lat: lat / flows.length, lng: lng / flows.length},
+          mapTypeId: 'satellite'
+        });
+
+        var max_wheight = 0;
+        for (var i = flows.length - 1; i >= 0; i--) {
+          if (flows[i].weight > max_wheight) {
+            max_wheight = flows[i].weight;
+          }
+        }
+
+        var drawn_origins = []
+        var drawn_destinations = []
+
+        function flowMaker(flow) {
+          var thershold = 0.7;
+          var weight = Math.log(flow.weight) / Math.log(max_wheight);
+          
+          if (weight < thershold) {
+            return false;
+          }
+
+          weight = (weight - thershold) / (1-thershold) * 0.75 + 0.25;
+
+          var polygon;
+
+          if (!drawn_origins.includes(flow.origin_region_id)) {
+            polygon = new google.maps.Polygon({
+              paths: flow.origin_region,
+              strokeColor: '#FF0000',
+              strokeOpacity: 0.8,
+              strokeWeight: 2,
+              fillColor: '#FF0000',
+              fillOpacity: 0.35
+            });
+
+            polygon.setMap(map);
+          }
+
+
+          if (!drawn_destinations.includes(flow.destination_region_id)) {
+            polygon = new google.maps.Polygon({
+              paths: flow.destination_region,
+              strokeColor: '#8CAAE6',
+              strokeOpacity: 0.8,
+              strokeWeight: 2,
+              fillColor: '#8CAAE6',
+              fillOpacity: 0.35
+            });
+
+            polygon.setMap(map);
+          }
+
+          var trace = new google.maps.Polyline({
+            path: flow.link,
+            icons: [{
+              icon: {path: google.maps.SymbolPath.FORWARD_CLOSED_ARROW},
+              offset: '100%'
+            }],
+            geodesic: true,
+            strokeColor: '#7D3C98',
+            strokeOpacity: weight,
+            strokeWeight: 3
+          });
+
+          trace.setMap(map);
+
+          var marker;
+
+          if (!drawn_origins.includes(flow.origin_region_id)) {
+            marker = new google.maps.Marker({
+              position: flow.origin_centroid,
+              map: map,
+              icon: {
+                path: google.maps.SymbolPath.CIRCLE,
+                scale: 1
+              },
+            });
+            drawn_origins.push(flow.origin_region_id)
+          }
+
+          if (!drawn_destinations.includes(flow.destination_region_id)) {
+            marker = new google.maps.Marker({
+              position: flow.destination_centroid,
+              map: map,
+              icon: {
+                path: google.maps.SymbolPath.CIRCLE,
+                scale: 1
+              },
+            });
+            drawn_destinations.push(flow.destination_region_id)
+          }
+        }
+
+        for (var i = flows.length - 1; i >= 0; i--) {
+          flowMaker(flows[i]);
+        }
+
+        changeStyle();
+        hide();
+      }
+
+      function hide() {
+        document.getElementById('floating-panel').className += ' hide';
+      }
+
+      function changeStyle() {
+        /* Styles */
+        var styledMapType = new google.maps.StyledMapType([{"elementType":"geometry","stylers":[{"color":"#f5f5f5"}]},{"elementType":"labels","stylers":[{"visibility":"off"}]},{"elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"elementType":"labels.text.fill","stylers":[{"color":"#616161"}]},{"elementType":"labels.text.stroke","stylers":[{"color":"#f5f5f5"}]},{"featureType":"administrative.land_parcel","stylers":[{"visibility":"off"}]},{"featureType":"administrative.land_parcel","elementType":"labels.text.fill","stylers":[{"color":"#bdbdbd"}]},{"featureType":"administrative.neighborhood","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#eeeeee"}]},{"featureType":"poi","elementType":"labels.text","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels.text.fill","stylers":[{"color":"#757575"}]},{"featureType":"poi.business","stylers":[{"visibility":"off"}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#e5e5e5"}]},{"featureType":"poi.park","elementType":"labels.text.fill","stylers":[{"color":"#9e9e9e"}]},{"featureType":"road","elementType":"geometry","stylers":[{"color":"#ffffff"}]},{"featureType":"road","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"road.arterial","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road.arterial","elementType":"labels.text.fill","stylers":[{"color":"#757575"}]},{"featureType":"road.highway","elementType":"geometry","stylers":[{"color":"#dadada"}]},{"featureType":"road.highway","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road.highway","elementType":"labels.text.fill","stylers":[{"color":"#616161"}]},{"featureType":"road.local","stylers":[{"visibility":"off"}]},{"featureType":"road.local","elementType":"labels.text.fill","stylers":[{"color":"#9e9e9e"}]},{"featureType":"transit","stylers":[{"visibility":"off"}]},{"featureType":"transit.line","elementType":"geometry","stylers":[{"color":"#e5e5e5"}]},{"featureType":"transit.station","elementType":"geometry","stylers":[{"color":"#eeeeee"}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#c9c9c9"}]},{"featureType":"water","elementType":"geometry.fill","stylers":[{"color":"#c8d7d4"}]},{"featureType":"water","elementType":"labels.text.fill","stylers":[{"color":"#9e9e9e"}]}], {name: 'Styled Map'});
+
+        map.mapTypes.set('styled_map', styledMapType);
+        map.setMapTypeId('styled_map');
+        document.getElementById('btn-style').className += ' hide';
+      }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBunkToa10RDvNt13pJ6bMA-p_WX0dP_Gk&callback=initMap">
+    </script>
+  </body>
+</html>

@@ -1,0 +1,193 @@
+[
+  {
+    "summary": "Rua Desembargador do Vale and Rua Aimber\u00ea",
+    "legs": [
+      {
+        "distance": {
+          "value": 1629,
+          "text": "1.6 km"
+        },
+        "duration": {
+          "value": 400,
+          "text": "7 mins"
+        },
+        "end_address": "R. Capital Federal, 260 - Sumar\u00e9, S\u00e3o Paulo - SP, 01259-010, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 30,
+              "text": "30 m"
+            },
+            "duration": {
+              "value": 5,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>northeast</b> on <b>Av. Pomp\u00e9ia</b> toward <b>Rua Desembargador do Vale</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.6858758,
+              "lat": -23.531551
+            },
+            "end_location": {
+              "lng": -46.6857232,
+              "lat": -23.5313233
+            },
+            "polyline": {
+              "points": "d_snCvi}{Gm@_@"
+            }
+          },
+          {
+            "distance": {
+              "value": 499,
+              "text": "0.5 km"
+            },
+            "duration": {
+              "value": 135,
+              "text": "2 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rua Desembargador do Vale</b> (signs for <b>Lapa</b>/<b>Vila Romana</b>)",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6857232,
+              "lat": -23.5313233
+            },
+            "end_location": {
+              "lng": -46.68167589999999,
+              "lat": -23.5338424
+            },
+            "polyline": {
+              "points": "v}rnCvh}{Gz@_B^s@Vi@hAyBf@cAvAqCHMP]b@w@`@q@NWR]@?R_@\\k@?A"
+            }
+          },
+          {
+            "distance": {
+              "value": 231,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 57,
+              "text": "1 min"
+            },
+            "html_instructions": "Continue onto <b>Rua Caiub\u00cd</b>",
+            "travel_mode": "DRIVING",
+            "start_location": {
+              "lng": -46.68167589999999,
+              "lat": -23.5338424
+            },
+            "end_location": {
+              "lng": -46.6798406,
+              "lat": -23.5350592
+            },
+            "polyline": {
+              "points": "nmsnCno|{G`@q@Xg@Zk@`@s@x@uA~@_B"
+            }
+          },
+          {
+            "distance": {
+              "value": 604,
+              "text": "0.6 km"
+            },
+            "duration": {
+              "value": 129,
+              "text": "2 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Rua Aimber\u00ea</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6798406,
+              "lat": -23.5350592
+            },
+            "end_location": {
+              "lng": -46.6830797,
+              "lat": -23.5396079
+            },
+            "polyline": {
+              "points": "busnC~c|{G~AbAv@d@JF`An@TNxA~@z@j@x@f@h@\\vBtAB@v@h@dAp@|CnB"
+            }
+          },
+          {
+            "distance": {
+              "value": 132,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 47,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b> at the 3rd cross street onto <b>Av. Prof. Alfonso Bovero</b>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6830797,
+              "lat": -23.5396079
+            },
+            "end_location": {
+              "lng": -46.682511,
+              "lat": -23.5406428
+            },
+            "polyline": {
+              "points": "pqtnCfx|{GLSBEBCBC@A@A@A@ABC@AB?BC@?@AFCJCLEp@Sp@SRE"
+            }
+          },
+          {
+            "distance": {
+              "value": 133,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 27,
+              "text": "1 min"
+            },
+            "html_instructions": "Slight <b>right</b> onto <b>Rua Apinaj\u00e9s</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "DRIVING",
+            "maneuver": "turn-slight-right",
+            "start_location": {
+              "lng": -46.682511,
+              "lat": -23.5406428
+            },
+            "end_location": {
+              "lng": -46.6831931,
+              "lat": -23.5416574
+            },
+            "polyline": {
+              "points": "~wtnCtt|{Gf@TxBtAh@Z"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "duration_in_traffic": {
+          "value": 403,
+          "text": "7 mins"
+        },
+        "start_location": {
+          "lng": -46.6858758,
+          "lat": -23.531551
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6831931,
+          "lat": -23.5416574
+        },
+        "start_address": "Av. Pomp\u00e9ia, 807 - Vila Pompeia, S\u00e3o Paulo - SP, 05022-010, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "d_snCvi}{Gm@_@z@_Bv@}ArE}InDiGvAgCzAiC~@_B~AbAbAl@vA~@xFpDxFrD|CnBLSFIHIJGlC{@REf@TbDpB"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6858758,
+        "lat": -23.5416574
+      },
+      "northeast": {
+        "lng": -46.6798406,
+        "lat": -23.5313233
+      }
+    },
+    "warnings": [],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+]

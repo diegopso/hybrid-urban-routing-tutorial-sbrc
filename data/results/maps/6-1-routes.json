@@ -1,0 +1,641 @@
+[
+  {
+    "summary": "R. Joseph Nigri",
+    "legs": [
+      {
+        "distance": {
+          "value": 348,
+          "text": "0.3 km"
+        },
+        "duration": {
+          "value": 254,
+          "text": "4 mins"
+        },
+        "end_address": "R. Cinco, 12475 - \u00c1gua Branca, S\u00e3o Paulo - SP, 05036-040, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 102,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 72,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>east</b> toward <b>R. Arnaldo Jos\u00e9 Pac\u00edfico</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6807883,
+              "lat": -23.5200711
+            },
+            "end_location": {
+              "lng": -46.680467,
+              "lat": -23.5195343
+            },
+            "polyline": {
+              "points": "lwpnC|i|{G?[ASCSACECEAI?I@IB[LYFCM"
+            }
+          },
+          {
+            "distance": {
+              "value": 20,
+              "text": "20 m"
+            },
+            "duration": {
+              "value": 15,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Arnaldo Jos\u00e9 Pac\u00edfico</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.680467,
+              "lat": -23.5195343
+            },
+            "end_location": {
+              "lng": -46.6802942,
+              "lat": -23.5194517
+            },
+            "polyline": {
+              "points": "`tpnC|g|{GCUEOE@"
+            }
+          },
+          {
+            "distance": {
+              "value": 226,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 167,
+              "text": "3 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Joseph Nigri</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6802942,
+              "lat": -23.5194517
+            },
+            "end_location": {
+              "lng": -46.6813034,
+              "lat": -23.5176518
+            },
+            "polyline": {
+              "points": "pspnCxf|{GQFk@Nw@T[NWJYNULEBu@h@UNEDUNIBA@KDG@"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6807883,
+          "lat": -23.5200711
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6813034,
+          "lat": -23.5176518
+        },
+        "start_address": "R. Marc Chagall, 339 - Jardim das Perdizes, S\u00e3o Paulo - SP, 05036-170, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "lwpnC|i|{GAo@EWKES@e@PYFCMIe@WHcBd@s@ZkBjA[T_@RUH"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6813034,
+        "lat": -23.5200711
+      },
+      "northeast": {
+        "lng": -46.6802822,
+        "lat": -23.5176518
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "`gpnCbm|{GA?GZSdAmCzNgAdGYhByBhLk@bDEPCpCAh@a@h@KXmALqATkA@{Eq@wB[MEaC[cEg@aBQgASmIkA_BW{ASqDm@aBYwBa@q@W{Ao@oAs@c@Q{J{D}B{@eEeBcAi@q@]o@e@}AaAuBoAYMaAa@uAa@k@IcAKsACiBH_D`@}Dh@kCZyBX}AV{@FkA@uAEq@MqCm@m@Uw@a@aAm@g@_@{ByByCoCiBcBcEuDqHaHoDcDaAiA_@s@sAaDiEkLc@kAeAwC[i@_@a@eAcAw@c@}Aa@@K"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.69068,
+        "lat": -23.517453
+      },
+      "northeast": {
+        "lng": -46.6733251,
+        "lat": -23.4800387
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 5551,
+          "text": "5.6 km"
+        },
+        "duration": {
+          "value": 1646,
+          "text": "27 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Parada Maternidade C/B - Parque Itaberaba, S\u00e3o Paulo - SP, 02763-120, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 5551,
+              "text": "5.6 km"
+            },
+            "duration": {
+              "value": 1166,
+              "text": "19 mins"
+            },
+            "html_instructions": "Bus towards Term. Cachoeirinha",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 11,
+              "headsign": "Term. Cachoeirinha",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391642,
+                "text": "4:00pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.6733251,
+                  "lat": -23.4800525
+                },
+                "name": "Parada Maternidade C/B"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556392808,
+                "text": "4:20pm"
+              },
+              "line": {
+                "color": "#509e2f",
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "short_name": "978A-10",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "text_color": "#ffffff",
+                "name": "Term. Cachoeirinha - Metr\u00f4 Barra Funda"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.681301,
+                  "lat": -23.517453
+                },
+                "name": "Cetet - B/C"
+              },
+              "headway": 480
+            },
+            "start_location": {
+              "lng": -46.681301,
+              "lat": -23.517453
+            },
+            "end_location": {
+              "lng": -46.6733251,
+              "lat": -23.4800525
+            },
+            "polyline": {
+              "points": "`gpnCbm|{GA?GZSdA[`BOv@qAfHOx@w@hEOz@@@[fBGX{AhIAJSx@c@hCGXEPCpCAh@a@h@KXmALaALOFu@BUA_AMk@Ki@GeAOiAQYEIAIA?CMAe@G{ASg@Ii@GqAO_@Eq@Io@GSEs@MUC_BWqC_@eAOm@IUGMCMAUC[Ei@ISGG?}@OwAUKCa@IIAi@I[ESEg@K_@IEAEAOGUK{Ao@oAs@YMICmCgAeAa@_Bo@gAa@KESIw@Ye@QwB}@o@WKEQIKG[QKEOIUM[OSO[UOI[SWQYQuA{@_@SMGKECCUIOGWKo@Se@M[EOC[Eg@E_@As@AC?c@@k@DU@I@WBsAPi@HmANq@Ho@JMBa@F_@DiALm@HkANi@Hs@LKBK?O@S@A?M?g@@S?o@Ae@C_@GQEc@Km@Mm@MQEGCCA[KEC]QYOe@Y[S]WIGc@a@wAwAoAiACEEC_A{@m@k@USSSQOGG[[QO_@][W[[MMg@a@[Yu@s@[YyAuAe@c@IGq@o@GGq@o@GE{@y@EEAACCECg@c@e@i@[_@Q]MUQ[Oa@M[c@gAM]}@{BIYe@oAACCKk@_B[w@Sg@GQCGCIQc@IYM][{@QYIOQQMOUWo@k@YQ]QiA[SE@K"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391162,
+          "text": "3:52pm"
+        },
+        "start_location": {
+          "lng": -46.681301,
+          "lat": -23.517453
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556392808,
+          "text": "4:20pm"
+        },
+        "end_location": {
+          "lng": -46.6733251,
+          "lat": -23.4800525
+        },
+        "start_address": "Cetet - B/C - \u00c1gua Branca, S\u00e3o Paulo - SP, 02675-031, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "Av. Dep. Em\u00edlio Carlos",
+    "legs": [
+      {
+        "distance": {
+          "value": 192,
+          "text": "0.2 km"
+        },
+        "duration": {
+          "value": 157,
+          "text": "3 mins"
+        },
+        "end_address": "Av. Dep. Em\u00edlio Carlos, 3025 - Vila Espanhola, S\u00e3o Paulo - SP, 02721-200, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 28,
+              "text": "28 m"
+            },
+            "duration": {
+              "value": 21,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>north</b> toward <b>R. Brg. Vil\u00e9la J\u00fanior</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6732988,
+              "lat": -23.4800556
+            },
+            "end_location": {
+              "lng": -46.6732612,
+              "lat": -23.4798453
+            },
+            "polyline": {
+              "points": "j}hnCb{z{GKAIAGAKA"
+            }
+          },
+          {
+            "distance": {
+              "value": 15,
+              "text": "15 m"
+            },
+            "duration": {
+              "value": 12,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Brg. Vil\u00e9la J\u00fanior</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6732612,
+              "lat": -23.4798453
+            },
+            "end_location": {
+              "lng": -46.6731074,
+              "lat": -23.4799178
+            },
+            "polyline": {
+              "points": "`|hnCzzz{GHOBM"
+            }
+          },
+          {
+            "distance": {
+              "value": 149,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 124,
+              "text": "2 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Av. Dep. Em\u00edlio Carlos</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6731074,
+              "lat": -23.4799178
+            },
+            "end_location": {
+              "lng": -46.67310519999999,
+              "lat": -23.4812212
+            },
+            "polyline": {
+              "points": "n|hnC|yz{Gd@HR?VANA@?N?J?JAN?JAh@AN?`@?"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6732988,
+          "lat": -23.4800556
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.67310519999999,
+          "lat": -23.4812212
+        },
+        "start_address": "Parada Maternidade C/B - Parque Itaberaba, S\u00e3o Paulo - SP, 02763-120, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "j}hnCb{z{Gi@GHOBMx@Hx@Cr@CzAA"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6732988,
+        "lat": -23.4812212
+      },
+      "northeast": {
+        "lng": -46.67310519999999,
+        "lat": -23.4798453
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "rdinCxyz{G?Hg@@gABw@@w@Bi@KEUKQ{@q@}EaDoIuE]YYc@eGsJgCeEKKa@UsA[uCk@]MsBaA}IwEmC_BcAcAk@y@g@aBO_AGsAF{@LaAhAsEj@kCLyAB_AGqCEgAM_Ai@}CEw@B_ATgDd@yB^eFPgAn@sBN{@@_@BWVw@h@u@ZYLQPYTy@XiBGaAUqAW}@q@iBYk@k@{AULeAd@yF|ByDxAmEfByD|A}@\\iDjAcCz@Df@Hf@|@dCnAvCDd@AHMRIHCJWWUUeBuCyD}GgD}F{EuIe@s@_@]a@Ww@Y{DY{@Cm@Yi@\\e@Tm@RmARg@?WAWK_@MCECAGAMDEL@NDD@@B?YB?G?o@FCV{BLB"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.67319860000001,
+        "lat": -23.4812201
+      },
+      "northeast": {
+        "lng": -46.6479426,
+        "lat": -23.4568071
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 5675,
+          "text": "5.7 km"
+        },
+        "duration": {
+          "value": 2918,
+          "text": "49 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Av. Jos\u00e9 Da Rocha Viana, 517 - Vila Pedra Branca, S\u00e3o Paulo - SP, 02635-090, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 5675,
+              "text": "5.7 km"
+            },
+            "duration": {
+              "value": 2198,
+              "text": "37 mins"
+            },
+            "html_instructions": "Bus towards Pedra Branca",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 20,
+              "headsign": "Pedra Branca",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391882,
+                "text": "4:04pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.647959,
+                  "lat": -23.457041
+                },
+                "name": "Av. Jos\u00e9 Da Rocha Viana, 517"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556394080,
+                "text": "4:41pm"
+              },
+              "line": {
+                "color": "#509e2f",
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "short_name": "9653-10",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "text_color": "#ffffff",
+                "name": "Pedra Branca - P\u00e7a. Do Correio"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.673089,
+                  "lat": -23.48122
+                },
+                "name": "Av. Dep. Em\u00edlio Carlos, 3025"
+              },
+              "headway": 720
+            },
+            "start_location": {
+              "lng": -46.673089,
+              "lat": -23.48122
+            },
+            "end_location": {
+              "lng": -46.647959,
+              "lat": -23.457041
+            },
+            "polyline": {
+              "points": "rdinCxyz{G?Hg@@s@@S@A?Q@U?M?a@BU?i@KEUCIGGe@_@UQeAq@AAuBuA_@WcAi@cAk@_B}@gBaASOIIKKMWiBsCMSsAwBy@sAiAiB]k@Wc@GKEEEEMGSMe@MEASESEcCe@QEOGMEOGOGs@_@_@QsBgAiAm@}Aw@aAi@mAq@MKSM]SIGOMSSUYQUAAMOIQIUGSOe@EQGUCUAMAEAWC]?SAI?IFq@Dg@FYH_@~@sDZoAN{@@IBUB[B]?A@G@_@?U?MAi@Co@Ai@C[Ak@EWGg@Mu@Ic@Ke@E]CYA]?YBe@Dw@?EHgADa@F[F]Lc@F[@K@OXeE@CD_@@MDMBKJYJ[Lc@HYH]D]@Q?M?KBKBKRk@FKFKFIPSNKJMJK@EFIHOJWHa@Lo@Fa@@M@I?GAMCYAQCUQ{@GWOe@M]GUM]MWIQGIEGAGEKSi@GSIQMHGBEB_A`@uAj@kAb@}@`@YJYLUHsBt@UJyClASHQFMFqDxAGBc@NYLUJ[JuAd@a@Lg@PIBOFaA\\@VBNBPDTH\\r@fBnArC?B?B?DBT@DAB?DEJGFGDABCJWWKKII_@k@eAiB]k@kBeDe@{@IOMSCEGIe@}@S]CES]{@yAyByDOYcAkBMUGKIMSYOOOMMISMOGKGKCOEa@Eu@EGA{AKe@AG?GAE?CAICECYOIFEBKFMHOJUH[LQDSDOBOBYDK?K?G?G?WAWKGCWIACAAA??AA?A??AA?A?A?A?A?A@A?A??@A?A@A@A@?@A@?@?@?@A@?@@??@?@?@?@@??@?@@??@@@@@@??@@?@?WDAAA??C?A@A?A?]AG@GDC@?J{@J_ALB"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391162,
+          "text": "3:52pm"
+        },
+        "start_location": {
+          "lng": -46.673089,
+          "lat": -23.48122
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556394080,
+          "text": "4:41pm"
+        },
+        "end_location": {
+          "lng": -46.647959,
+          "lat": -23.457041
+        },
+        "start_address": "Av. Dep. Em\u00edlio Carlos, 3025 - Vila Espanhola, S\u00e3o Paulo - SP, 02721-200, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "R. Itabira and R. Maestro Otto Wey",
+    "legs": [
+      {
+        "distance": {
+          "value": 1475,
+          "text": "1.5 km"
+        },
+        "duration": {
+          "value": 1159,
+          "text": "19 mins"
+        },
+        "end_address": "R. Maestro Otto Wey, 109 - Jardim Itatinga, S\u00e3o Paulo - SP, 02636-100, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 91,
+              "text": "91 m"
+            },
+            "duration": {
+              "value": 57,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>east</b> on <b>Av. Jos\u00e9 da Rocha Viana</b> toward <b>Rua Dr. Jo\u00e3o Batista Pinto</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.64795429999999,
+              "lat": -23.4570098
+            },
+            "end_location": {
+              "lng": -46.64710789999999,
+              "lat": -23.4571462
+            },
+            "polyline": {
+              "points": "hmdnCt|u{G@INcATqA@CMC"
+            }
+          },
+          {
+            "distance": {
+              "value": 836,
+              "text": "0.8 km"
+            },
+            "duration": {
+              "value": 673,
+              "text": "11 mins"
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>R. Itabira</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.64710789999999,
+              "lat": -23.4571462
+            },
+            "end_location": {
+              "lng": -46.645066,
+              "lat": -23.4516007
+            },
+            "polyline": {
+              "points": "dndnClwu{GICEACCECCCAAAACECCACCEACAEAE?CAC?AAE?E?C?E?C?C@E?E@I?M?I?Q?QAOAMCICICEACCCEECCECIECCC?CAIAQEQCYCOCGAQCm@IqBY]EOC_C_@UESCMEKCKEECECGECCACGEEECEAECEEGEKEKCKEOCSAKAKAKACCECCGEIEGCEAKCKCMCIAGAO?O?KBC@KBC@C@EBGDWNSLOJKFMJQL[TIFIDCBCBCBABA@GJEHGLCHEF"
+            }
+          },
+          {
+            "distance": {
+              "value": 428,
+              "text": "0.4 km"
+            },
+            "duration": {
+              "value": 339,
+              "text": "6 mins"
+            },
+            "html_instructions": "Continue onto <b>R. Maestro Otto Wey</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.645066,
+              "lat": -23.4516007
+            },
+            "end_location": {
+              "lng": -46.6415808,
+              "lat": -23.4517988
+            },
+            "polyline": {
+              "points": "nkcnCtju{GEDA@E@C@C@C@E?C?E?CAGCIGCCAECGAICGAKAG?I?G?K@O@OBMBM@OBMBKb@y@BGJWFODM@GDK@KDMFe@Ha@Lo@XuADWBGDQ?C?A@C?A?A?CAC?C?AAEAA?AAA?AAA?AAAACAAAAA??AAAGECAECCECACECC"
+            }
+          },
+          {
+            "distance": {
+              "value": 120,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 90,
+              "text": "2 mins"
+            },
+            "html_instructions": "Turn <b>left</b> at <b>R. Mileto</b><div style=\"font-size:0.9em\">Restricted usage road</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.6415808,
+              "lat": -23.4517988
+            },
+            "end_location": {
+              "lng": -46.6422484,
+              "lat": -23.451008
+            },
+            "polyline": {
+              "points": "vlcnCztt{GKBWFKDIBKFKFMJIHKJCBCBEFEFILIV"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.64795429999999,
+          "lat": -23.4570098
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6422484,
+          "lat": -23.451008
+        },
+        "start_address": "Av. Jos\u00e9 Da Rocha Viana, 517 - Vila Pedra Branca, S\u00e3o Paulo - SP, 02635-090, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "hmdnCt|u{Gh@cDa@MMKMSIe@Bu@A}@Mg@OQWMuB[mEm@wDo@c@QUSOWUk@Ic@CWCOGI_@Qo@MWA[BWHy@f@{@l@s@f@KLYl@SPQDUEMKEMIe@@m@J{@FYf@aAZ}@lAkGH_@@KGWKOc@_@y@To@d@YZYl@"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.64795429999999,
+        "lat": -23.4572158
+      },
+      "northeast": {
+        "lng": -46.6415808,
+        "lat": -23.451008
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+]

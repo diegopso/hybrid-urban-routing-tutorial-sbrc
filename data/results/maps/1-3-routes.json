@@ -1,0 +1,643 @@
+[
+  {
+    "summary": "R. Maestro Otto Wey and R. Itabira",
+    "legs": [
+      {
+        "distance": {
+          "value": 899,
+          "text": "0.9 km"
+        },
+        "duration": {
+          "value": 752,
+          "text": "13 mins"
+        },
+        "end_address": "R. Itabira, 461 - Vila Santos, S\u00e3o Paulo - SP, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 124,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 100,
+              "text": "2 mins"
+            },
+            "html_instructions": "Head <b>southeast</b> toward <b>R. Maestro Otto Wey</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6422776,
+              "lat": -23.4509935
+            },
+            "end_location": {
+              "lng": -46.6415808,
+              "lat": -23.4517988
+            },
+            "polyline": {
+              "points": "tgcnCfyt{GL]HMDGDGBCBCJKHILKJGJGHCJEVGJC"
+            }
+          },
+          {
+            "distance": {
+              "value": 428,
+              "text": "0.4 km"
+            },
+            "duration": {
+              "value": 345,
+              "text": "6 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Maestro Otto Wey</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6415808,
+              "lat": -23.4517988
+            },
+            "end_location": {
+              "lng": -46.645066,
+              "lat": -23.4516007
+            },
+            "polyline": {
+              "points": "vlcnCztt{GBBBDB@BDDBB@FD@@?@@?@@@@@B@@?@@@?@@@?@@@@D?@?B@B?B?@?@AB?@?BEPCFEVYtAMn@I`@Gd@ELAJEJAFELGNKVCFc@x@CJCLANCLCLANAN?J?F?H@F@JBF@HBF@DBBHFFBB@D?B?D?BABABADA@ADE"
+            }
+          },
+          {
+            "distance": {
+              "value": 347,
+              "text": "0.3 km"
+            },
+            "duration": {
+              "value": 307,
+              "text": "5 mins"
+            },
+            "html_instructions": "Continue onto <b>R. Itabira</b><div style=\"font-size:0.9em\">Partial restricted usage road</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.645066,
+              "lat": -23.4516007
+            },
+            "end_location": {
+              "lng": -46.64500169999999,
+              "lat": -23.453803
+            },
+            "polyline": {
+              "points": "nkcnCtju{GDGBIFMDIFK@A@CBCBCBCHEHGZUPMLKJGNKRMVOFEDCBABAJCBAJCN?N?F@H@LBJBJBD@FBHDFDBBBD@D@H@J@JBRDNBJDJDJDFBD@DBDDDDD"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6422776,
+          "lat": -23.4509935
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.64500169999999,
+          "lat": -23.453803
+        },
+        "start_address": "Unnamed Road - Vila Santos, S\u00e3o Paulo - SP, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "tgcnCfyt{Gb@{@\\]XSTKb@MJCBBFFHHLJJNFXQ~@y@lEOl@]|@g@dAE\\Kz@@d@Jd@DHPJR@PGPYVe@nAaA|@m@h@[^K^?PBj@L\\RDJBTD^HZTd@PV"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6451478,
+        "lat": -23.453803
+      },
+      "northeast": {
+        "lng": -46.6415808,
+        "lat": -23.4509935
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "fycnChju{GDEDB\\RbARlInAtBXXNPRNf@@v@Cz@D`@HPJJPHJBAJe@tCQtAIh@ELHR?@?@?FHLN@FCx@Cr@@dAMd@Kp@Wn@a@HGXNNFXB~DTp@JVJb@T\\Vb@h@PXpA`C~GvL|B~DrC`Fh@t@d@b@VZVQNILEFDXHYI[US[o@cBcBcEOs@Ga@Cy@@s@Hg@^iBf@yBJw@@_AAUEk@HAhAKjCUXGVKbDsAbBm@fAi@|F_C`E_Bz@tFTd@RZl@`Ah@xAl@pAl@pBPz@Df@Bx@In@WpAUf@UZ[XY\\OVSj@GV?XGn@Sv@o@rBGl@[hECZU~@Ox@I~@KfBC~@Dv@PbAd@xCFpBD|BKbBE^k@jC_ArDQx@MxA@RH|AP|@Vx@Rf@v@`Ab@`@z@h@vEhCtH|D|@\\pB`@AH"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.667339,
+        "lat": -23.4736142
+      },
+      "northeast": {
+        "lng": -46.6449754,
+        "lat": -23.453798
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [],
+    "legs": [
+      {
+        "distance": {
+          "value": 5556,
+          "text": "5.6 km"
+        },
+        "duration": {
+          "value": 2496,
+          "text": "42 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Av. Parada Pinto, 12 - Vila Nova Cachoeirinha, S\u00e3o Paulo - SP, 02611-002, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 5556,
+              "text": "5.6 km"
+            },
+            "duration": {
+              "value": 2016,
+              "text": "34 mins"
+            },
+            "html_instructions": "Bus towards Metr\u00f4 Barra Funda",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 21,
+              "headsign": "Metr\u00f4 Barra Funda",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391593,
+                "text": "3:59pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.667339,
+                  "lat": -23.473602
+                },
+                "name": "Av. Parada Pinto, 17"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556393609,
+                "text": "4:33pm"
+              },
+              "line": {
+                "color": "#002f6c",
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "short_name": "148P-10",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "text_color": "#ffffff",
+                "name": "Pedra Branca - Metr\u00f4 Barra Funda"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.64500899999999,
+                  "lat": -23.453798
+                },
+                "name": "R. Itabira, 461"
+              },
+              "headway": 480
+            },
+            "start_location": {
+              "lng": -46.64500899999999,
+              "lat": -23.453798
+            },
+            "end_location": {
+              "lng": -46.667339,
+              "lat": -23.473602
+            },
+            "polyline": {
+              "points": "fycnChju{GDG?@@@B@FFDBDBHBJDLBRBTDfCb@d@DpBXl@JH@N@LBXBRBPDH@B@B@D@HFDBDBDF@BBBBDBHBJBJ?@@P?P?P?JAJ?HAF?B?B?D?B?B?B@D?B?@@B?B@D@BBD@B@BBB@@@@BBDBB@B@B@JBAJUpAObAEVALEZCRAHG^ELHR?@?@A@?@@??@?@?@?@@??@?@@??@@@@@@??@@?@?@@@?@?@?@?@A@?@A@?@A`@?J?DADAV@F?F?J?J?XENCNCREPEZMTINKLIJGDCHGXNDBHBB@D?F@F?T@N?zAJ|@F`@DNDJBJFNFRLLHNLNNRXHLFJLTz@|AFLhCrEz@xAR\\BDR\\HNZl@FHBDVb@d@z@z@xAn@jAbBtC^j@HHBDXVFDLNHJFINGDCHELEFDXHYIGESOOSCGEOi@sAg@kA@?IOs@gBI]EUCQCOAW?KAM?G?M?G?K@QBQDUJo@Ry@H[H[DULk@BM@MBK@O@O?O?S?K?CAQEk@HAv@GPCTCtBQNCHCLEHELGdBs@^ONGNGrAe@@AdAg@BAxAm@hAe@tAi@|@]`Aa@ZKd@Sn@hE@H@D?@@D@D@H@B@B@D@BDF@D@@DF@BPVb@n@HPFRXt@@FDFFHHPLVL\\FTL\\Nd@FV@FNr@BT@PBX@L?FAHALG`@Mn@I`@KVININKJKLOJQRGHGJGJQf@ABCJCJ?J?LAPE\\I\\IXY~@KXCJELALE^ABYdEANAJGZMb@G\\GZE`@C\\En@Ev@Cd@?X@\\BXD\\Jd@Hb@Lt@Ff@DV@V?RBZ@h@Bn@@h@?L?TCf@?@C\\CZCTAHOz@[nAWbAg@nBI^GXEf@Gp@?H@H?RB\\B\\@L@D@NFTDPNd@FRHTHPLN@@PTTXRRNLHFp@`@LJlAp@`Ah@x@`@b@ThAl@rCxAr@^NFNFLDNFPD~AZAH"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391113,
+          "text": "3:51pm"
+        },
+        "start_location": {
+          "lng": -46.64500899999999,
+          "lat": -23.453798
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556393609,
+          "text": "4:33pm"
+        },
+        "end_location": {
+          "lng": -46.667339,
+          "lat": -23.473602
+        },
+        "start_address": "R. Itabira, 461 - Vila Santos, S\u00e3o Paulo - SP, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "Av. Parada Pinto and Av. Itaberaba",
+    "legs": [
+      {
+        "distance": {
+          "value": 231,
+          "text": "0.2 km"
+        },
+        "duration": {
+          "value": 158,
+          "text": "3 mins"
+        },
+        "end_address": "Av. Itaberaba, 5143 - Itaberaba, S\u00e3o Paulo - SP, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 82,
+              "text": "82 m"
+            },
+            "duration": {
+              "value": 61,
+              "text": "1 min"
+            },
+            "html_instructions": "Head <b>south</b> on <b>Av. Parada Pinto</b> toward <b>Largo do Japon\u00eas</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6673246,
+              "lat": -23.4736054
+            },
+            "end_location": {
+              "lng": -46.6676124,
+              "lat": -23.4743377
+            },
+            "polyline": {
+              "points": "`ugnCvuy{G`@HRDRFB?^JLFFDLF"
+            }
+          },
+          {
+            "distance": {
+              "value": 149,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 97,
+              "text": "2 mins"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Av. Itaberaba</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6676124,
+              "lat": -23.4743377
+            },
+            "end_location": {
+              "lng": -46.66900649999999,
+              "lat": -23.4742489
+            },
+            "polyline": {
+              "points": "rygnCpwy{GA^ATARKdE?F"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.6673246,
+          "lat": -23.4736054
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.66900649999999,
+          "lat": -23.4742489
+        },
+        "start_address": "Av. Parada Pinto, 17 - Jardim Centenario, S\u00e3o Paulo - SP, 02611-002, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "`ugnCvuy{GlAVl@RTLQnG?F"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.66900649999999,
+        "lat": -23.4743377
+      },
+      "northeast": {
+        "lng": -46.6673246,
+        "lat": -23.4736054
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+][
+  {
+    "summary": "",
+    "overview_polyline": {
+      "points": "v}gnCriz{GZXRVVh@pAa@@F[n@SVbApCt@jAFHjAn@xA\\~Cl@xGtA\\FAB~@HfANj@R`Af@r@n@p@xAf@xA|AxD~@fCnAjDXz@`BbEz@pAbAfAz@x@|AxAb@\\fB|AvAlAzAvAhCbCdMlL`@\\h@XpB`Ax@XpAZl@JzCF^?dAGnAMnMcBxDg@xAItABdAJhAVt@Vz@`@tCfBvBrAjEpBl@Vb@RzBz@hEbBdGfCfA^xC|@V@fEn@zB\\zARjBNzFt@tG~@jHhAvG`AxC`@p@HbAR~@Vz@LZCXIFEBODa@@c@Aw@QkAMkAAs@Hy@bAsFzDcTlDqR?C[I"
+    },
+    "fare": {
+      "currency": "BRL",
+      "value": 4.3,
+      "text": "R$4.30"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.6912191,
+        "lat": -23.5175923
+      },
+      "northeast": {
+        "lng": -46.6705049,
+        "lat": -23.4750044
+      }
+    },
+    "copyrights": "Map data \u00a92019 Google",
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "legs": [
+      {
+        "distance": {
+          "value": 6374,
+          "text": "6.4 km"
+        },
+        "duration": {
+          "value": 1870,
+          "text": "31 mins"
+        },
+        "via_waypoint": [],
+        "end_address": "Cetet - B/C - \u00c1gua Branca, S\u00e3o Paulo - SP, 02675-031, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 53,
+              "text": "53 m"
+            },
+            "duration": {
+              "value": 46,
+              "text": "1 min"
+            },
+            "steps": [
+              {
+                "distance": {
+                  "value": 53,
+                  "text": "53 m"
+                },
+                "duration": {
+                  "value": 46,
+                  "text": "1 min"
+                },
+                "html_instructions": "Head <b>southwest</b> on <b>Av. Inajar de Souza</b> toward <b>Rua Tomaz Paulino de Almeida</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                "travel_mode": "WALKING",
+                "start_location": {
+                  "lng": -46.6705049,
+                  "lat": -23.4750044
+                },
+                "end_location": {
+                  "lng": -46.67096249999999,
+                  "lat": -23.4753645
+                },
+                "polyline": {
+                  "points": "v}gnCriz{GJJNLJJFJFJDHBDDL"
+                }
+              }
+            ],
+            "html_instructions": "Walk to Terminal V. Nova Cachoeirinha",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.6705049,
+              "lat": -23.4750044
+            },
+            "end_location": {
+              "lng": -46.67096249999999,
+              "lat": -23.4753645
+            },
+            "polyline": {
+              "points": "v}gnCriz{GJJNLJJFJFJDHBDDL"
+            }
+          },
+          {
+            "distance": {
+              "value": 6321,
+              "text": "6.3 km"
+            },
+            "duration": {
+              "value": 1404,
+              "text": "23 mins"
+            },
+            "html_instructions": "Bus towards Metr\u00f4 Barra Funda",
+            "travel_mode": "TRANSIT",
+            "transit_details": {
+              "num_stops": 13,
+              "headsign": "Metr\u00f4 Barra Funda",
+              "departure_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556391708,
+                "text": "4:01pm"
+              },
+              "arrival_stop": {
+                "location": {
+                  "lng": -46.681301,
+                  "lat": -23.517453
+                },
+                "name": "Cetet - B/C"
+              },
+              "arrival_time": {
+                "time_zone": "America/Sao_Paulo",
+                "value": 1556393112,
+                "text": "4:25pm"
+              },
+              "line": {
+                "color": "#509e2f",
+                "agencies": [
+                  {
+                    "url": "http://www.sptrans.com.br/",
+                    "name": "S\u00e3o Paulo Transporte"
+                  }
+                ],
+                "short_name": "978A-10",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                  "name": "Bus",
+                  "type": "BUS"
+                },
+                "text_color": "#ffffff",
+                "name": "Term. Cachoeirinha - Metr\u00f4 Barra Funda"
+              },
+              "departure_stop": {
+                "location": {
+                  "lng": -46.670797,
+                  "lat": -23.475763
+                },
+                "name": "Terminal V. Nova Cachoeirinha"
+              },
+              "headway": 420
+            },
+            "start_location": {
+              "lng": -46.670797,
+              "lat": -23.475763
+            },
+            "end_location": {
+              "lng": -46.681301,
+              "lat": -23.517453
+            },
+            "polyline": {
+              "points": "nbhnCnkz{G@A@@?D?D[h@GHKLHXL^Zt@N`@NXd@p@FHjAn@r@Nd@LrAVjATt@N~AZtAZl@L\\FABp@HL?z@JJBXHPHRJ^RB@HDNLJJJHJJLTb@bATl@Pj@Nd@Vj@b@dAP`@Pb@BDh@zA?@@@DLL\\x@|BJZL^j@xAt@hBJPDH^h@HJTXf@f@BB@@NNTRTR?@d@b@v@t@RPNJPLNL\\\\f@b@LJhA`AFFrAnAXZr@n@^\\ZXr@n@XXDDRNzEnErAnAB@h@j@PNNLJF\\Pd@VTLNFd@R`@NVHb@Jl@Nl@JzCFR?J?D?~@Gj@Gb@EVC~B]fEg@nBYfAOl@Ih@IXCr@Gd@Al@@f@@l@FVBd@Jb@JZJXJd@RTLPJl@^^Tt@d@|@h@j@`@B@HDJFZN`@P^PLFl@XPHRHPFHDDBJDPHPHb@PvAh@ZLd@PbBp@b@P\\Lx@\\b@PhChALDd@PHBHBpA`@fAZJ?J@VBdARnAPXDLBlAPJ@RDh@Fp@JTBtAJVB\\BzAThBVdBVj@Hj@J\\BLBPBJBL@`ANVD`ANfAPB?f@JL@LBLBl@Hn@JH@z@JLBRDbANn@Hh@HJ@r@Jp@HbARz@VB?H@RDNBL@F?F?D?DCJCLEFEBO@OBQ@S?O?[A[Ii@Ga@?GGe@CMAOAS?_@@WFa@@IBMn@mDLm@ZeBtAwHDU?APy@\\qBBMNs@DUJm@p@qDF_@RiAj@{CX}AFW?C[I"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "departure_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556391242,
+          "text": "3:54pm"
+        },
+        "start_location": {
+          "lng": -46.6705049,
+          "lat": -23.4750044
+        },
+        "arrival_time": {
+          "time_zone": "America/Sao_Paulo",
+          "value": 1556393112,
+          "text": "4:25pm"
+        },
+        "end_location": {
+          "lng": -46.681301,
+          "lat": -23.517453
+        },
+        "start_address": "Terminal V.N. Cachoeirnha - Vila dos Andrades, S\u00e3o Paulo - SP, 02861-160, Brazil"
+      }
+    ]
+  }
+][
+  {
+    "summary": "R. Joseph Nigri",
+    "legs": [
+      {
+        "distance": {
+          "value": 359,
+          "text": "0.4 km"
+        },
+        "duration": {
+          "value": 266,
+          "text": "4 mins"
+        },
+        "end_address": "R. Marc Chagall, 339 - Jardim das Perdizes, S\u00e3o Paulo - SP, 05036-170, Brazil",
+        "steps": [
+          {
+            "distance": {
+              "value": 236,
+              "text": "0.2 km"
+            },
+            "duration": {
+              "value": 172,
+              "text": "3 mins"
+            },
+            "html_instructions": "Head <b>south</b> on <b>R. Joseph Nigri</b> toward <b>R. Arnaldo Jos\u00e9 Pac\u00edfico</b>",
+            "travel_mode": "WALKING",
+            "start_location": {
+              "lng": -46.681335,
+              "lat": -23.5175732
+            },
+            "end_location": {
+              "lng": -46.6803563,
+              "lat": -23.5195069
+            },
+            "polyline": {
+              "points": "xgpnCjm|{GVIJE@AHCTODETOt@i@DCTMXOVKZOv@Uj@OPGDADN"
+            }
+          },
+          {
+            "distance": {
+              "value": 20,
+              "text": "20 m"
+            },
+            "duration": {
+              "value": 17,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>R. Arnaldo Jos\u00e9 Pac\u00edfico</b>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-right",
+            "start_location": {
+              "lng": -46.6803563,
+              "lat": -23.5195069
+            },
+            "end_location": {
+              "lng": -46.68054290000001,
+              "lat": -23.519553
+            },
+            "polyline": {
+              "points": "|spnCfg|{GBTBL"
+            }
+          },
+          {
+            "distance": {
+              "value": 103,
+              "text": "0.1 km"
+            },
+            "duration": {
+              "value": 77,
+              "text": "1 min"
+            },
+            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+            "travel_mode": "WALKING",
+            "maneuver": "turn-left",
+            "start_location": {
+              "lng": -46.68054290000001,
+              "lat": -23.519553
+            },
+            "end_location": {
+              "lng": -46.6807986,
+              "lat": -23.5200713
+            },
+            "polyline": {
+              "points": "dtpnCjh|{GXGZMHCHAH?D@DB@BBR@R?\\"
+            }
+          }
+        ],
+        "traffic_speed_entry": [],
+        "start_location": {
+          "lng": -46.681335,
+          "lat": -23.5175732
+        },
+        "via_waypoint": [],
+        "end_location": {
+          "lng": -46.6807986,
+          "lat": -23.5200713
+        },
+        "start_address": "Cetet - B/C - \u00c1gua Branca, S\u00e3o Paulo - SP, 02675-031, Brazil"
+      }
+    ],
+    "overview_polyline": {
+      "points": "xgpnCjm|{Gn@UfBoAlAm@rAe@|@WDADNFb@hA[N@FFDdA"
+    },
+    "waypoint_order": [],
+    "bounds": {
+      "southwest": {
+        "lng": -46.681335,
+        "lat": -23.5200713
+      },
+      "northeast": {
+        "lng": -46.6802822,
+        "lat": -23.5175732
+      }
+    },
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "copyrights": "Map data \u00a92019 Google"
+  }
+]

@@ -1,0 +1,7440 @@
+[
+  {
+    "destination_region_id": 314, 
+    "destination_region": [
+      {
+        "teta": -100.0, 
+        "lat": -23.63697595, 
+        "lng": -46.56005859
+      }, 
+      {
+        "teta": 30.0, 
+        "lat": -23.63597367, 
+        "lng": -46.55895104
+      }, 
+      {
+        "teta": 155.0, 
+        "lat": -23.637821, 
+        "lng": -46.559098
+      }
+    ], 
+    "weight": 65, 
+    "origin_region": [
+      {
+        "teta": -135.0, 
+        "lat": -23.457138, 
+        "lng": -46.64876115
+      }, 
+      {
+        "teta": 45.0, 
+        "lat": -23.45127825, 
+        "lng": -46.64245605
+      }, 
+      {
+        "teta": 145.0, 
+        "lat": -23.45677535, 
+        "lng": -46.64368523
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.451382932919255, 
+      "lng": -46.64251048142858
+    }, 
+    "link": [
+      {
+        "lat": -23.451382932919255, 
+        "lng": -46.64251048142858
+      }, 
+      {
+        "lat": -23.636979688152174, 
+        "lng": -46.56004212951087
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.636979688152174, 
+      "lng": -46.56004212951087
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 6293, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 16, 
+          "destination": [
+            -23.48539, 
+            -46.62897
+          ], 
+          "phase": "headway", 
+          "duration": 1200, 
+          "wait": 300
+        }, 
+        {
+          "origin": [
+            -23.485295, 
+            -46.62914
+          ], 
+          "distance": 2900, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.509196, 
+            -46.6251537
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 879, 
+          "vehicle_type": "BUS", 
+          "wait": 568
+        }, 
+        {
+          "origin": [
+            -23.5091919, 
+            -46.6251028
+          ], 
+          "distance": 28, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5091539, 
+            -46.6249437
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 28, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5091539, 
+            -46.6249437
+          ], 
+          "distance": 8885, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1232, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 68, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 63, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "distance": 9578, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1501, 
+          "vehicle_type": "BUS", 
+          "wait": 410
+        }, 
+        {
+          "origin": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "distance": 611, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.4878, 
+            -46.62634
+          ], 
+          "distance": 23706, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 55, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 4500, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 1874, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4598671, 
+            -46.6446131
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1473, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.459888, 
+            -46.644623
+          ], 
+          "distance": 4534, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.48802, 
+            -46.626373
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1443, 
+          "vehicle_type": "BUS", 
+          "wait": 625
+        }, 
+        {
+          "origin": [
+            -23.4880243, 
+            -46.6264087
+          ], 
+          "distance": 75, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4878214, 
+            -46.62634370000001
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 69, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 11008, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 29, 
+          "destination": [
+            -23.52377, 
+            -46.62553
+          ], 
+          "phase": "headway", 
+          "duration": 2400, 
+          "wait": 300
+        }, 
+        {
+          "origin": [
+            -23.5237738, 
+            -46.6255441
+          ], 
+          "distance": 537, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.525473, 
+            -46.6293215
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 414, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.525473, 
+            -46.6293215
+          ], 
+          "distance": 6864, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1008, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 153
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 68, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 63, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "distance": 9578, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1501, 
+          "vehicle_type": "BUS", 
+          "wait": 151
+        }, 
+        {
+          "origin": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "distance": 611, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.5315, 
+            -46.62574
+          ], 
+          "distance": 17703, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 40, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2760, 
+          "wait": 180
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 1874, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4598671, 
+            -46.6446131
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1473, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.459888, 
+            -46.644623
+          ], 
+          "distance": 6235, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.499659, 
+            -46.62351899999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2090, 
+          "vehicle_type": "BUS", 
+          "wait": 745
+        }, 
+        {
+          "origin": [
+            -23.499659, 
+            -46.62351899999999
+          ], 
+          "distance": 3610, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5308398, 
+            -46.6258023
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 840, 
+          "vehicle_type": "BUS", 
+          "wait": 720
+        }, 
+        {
+          "origin": [
+            -23.5308354, 
+            -46.6257732
+          ], 
+          "distance": 78, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5315015, 
+            -46.6256967
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 65, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 16174, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 38, 
+          "destination": [
+            -23.5317, 
+            -46.62575
+          ], 
+          "phase": "headway", 
+          "duration": 3000, 
+          "wait": 300
+        }, 
+        {
+          "origin": [
+            -23.5316819, 
+            -46.6257267
+          ], 
+          "distance": 179, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5300638, 
+            -46.6257508
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 148, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5294282, 
+            -46.6257917
+          ], 
+          "distance": 9691, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6020948, 
+            -46.6073714
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2091, 
+          "vehicle_type": "BUS", 
+          "wait": 1116
+        }, 
+        {
+          "origin": [
+            -23.6020948, 
+            -46.6073714
+          ], 
+          "distance": 10297, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1613, 
+          "vehicle_type": "BUS", 
+          "wait": 534
+        }, 
+        {
+          "origin": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "distance": 611, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.53212, 
+            -46.626
+          ], 
+          "distance": 16931, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 38, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2760, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 1874, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4598671, 
+            -46.6446131
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1473, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.459888, 
+            -46.644623
+          ], 
+          "distance": 5917, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.499859, 
+            -46.625196
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1980, 
+          "vehicle_type": "BUS", 
+          "wait": 745
+        }, 
+        {
+          "origin": [
+            -23.4998917, 
+            -46.625197
+          ], 
+          "distance": 133, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4998516, 
+            -46.6240852
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 147, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.499846, 
+            -46.624085
+          ], 
+          "distance": 3803, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5330965, 
+            -46.6265035
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 840, 
+          "vehicle_type": "BUS", 
+          "wait": 686
+        }, 
+        {
+          "origin": [
+            -23.5331159, 
+            -46.6264479
+          ], 
+          "distance": 120, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5322121, 
+            -46.6260121
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 83, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 15595, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 36, 
+          "destination": [
+            -23.53212, 
+            -46.626
+          ], 
+          "phase": "headway", 
+          "duration": 2760, 
+          "wait": 300
+        }, 
+        {
+          "origin": [
+            -23.5322121, 
+            -46.6260121
+          ], 
+          "distance": 120, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5331159, 
+            -46.6264479
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 99, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5330965, 
+            -46.6265035
+          ], 
+          "distance": 9266, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6020948, 
+            -46.6073714
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1999, 
+          "vehicle_type": "BUS", 
+          "wait": 1250
+        }, 
+        {
+          "origin": [
+            -23.6020948, 
+            -46.6073714
+          ], 
+          "distance": 10297, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1613, 
+          "vehicle_type": "BUS", 
+          "wait": 534
+        }, 
+        {
+          "origin": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "distance": 611, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.54102, 
+            -46.62837
+          ], 
+          "distance": 15515, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 35, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2400, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 1874, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4598671, 
+            -46.6446131
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1473, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.459888, 
+            -46.644623
+          ], 
+          "distance": 6553, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.502101, 
+            -46.62417199999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2124, 
+          "vehicle_type": "BUS", 
+          "wait": 625
+        }, 
+        {
+          "origin": [
+            -23.5020757, 
+            -46.6241707
+          ], 
+          "distance": 132, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 102, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "distance": 4468, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5367192, 
+            -46.633595
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 560, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 137
+        }, 
+        {
+          "origin": [
+            -23.5367192, 
+            -46.633595
+          ], 
+          "distance": 891, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5410127, 
+            -46.6283896
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 626, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 6293, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 16, 
+          "destination": [
+            -23.48539, 
+            -46.62897
+          ], 
+          "phase": "headway", 
+          "duration": 1200, 
+          "wait": 300
+        }, 
+        {
+          "origin": [
+            -23.485295, 
+            -46.62914
+          ], 
+          "distance": 2595, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5026902, 
+            -46.6249517
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 820, 
+          "vehicle_type": "BUS", 
+          "wait": 46
+        }, 
+        {
+          "origin": [
+            -23.5026914, 
+            -46.6249409
+          ], 
+          "distance": 40, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 39, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "distance": 9619, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1344, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 121
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 68, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 63, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "distance": 8840, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6360203, 
+            -46.5557688
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1732, 
+          "vehicle_type": "BUS", 
+          "wait": 154
+        }, 
+        {
+          "origin": [
+            -23.636058, 
+            -46.5556636
+          ], 
+          "distance": 535, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.5315, 
+            -46.62574
+          ], 
+          "distance": 17703, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 40, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2760
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 1874, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4598671, 
+            -46.6446131
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1473, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.459888, 
+            -46.644623
+          ], 
+          "distance": 5917, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.499859, 
+            -46.625196
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1980, 
+          "vehicle_type": "BUS", 
+          "wait": 745
+        }, 
+        {
+          "origin": [
+            -23.4998917, 
+            -46.625197
+          ], 
+          "distance": 133, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4998516, 
+            -46.6240852
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 147, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.499846, 
+            -46.624085
+          ], 
+          "distance": 3529, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5308398, 
+            -46.6258023
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 756, 
+          "vehicle_type": "BUS", 
+          "wait": 686
+        }, 
+        {
+          "origin": [
+            -23.5308354, 
+            -46.6257732
+          ], 
+          "distance": 78, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5315015, 
+            -46.6256967
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 65, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 6293, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 16, 
+          "destination": [
+            -23.48539, 
+            -46.62897
+          ], 
+          "phase": "headway", 
+          "duration": 1200, 
+          "wait": 360
+        }, 
+        {
+          "origin": [
+            -23.485295, 
+            -46.62914
+          ], 
+          "distance": 2595, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5026902, 
+            -46.6249517
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 820, 
+          "vehicle_type": "BUS", 
+          "wait": 38
+        }, 
+        {
+          "origin": [
+            -23.5026914, 
+            -46.6249409
+          ], 
+          "distance": 40, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 39, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "distance": 9619, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1344, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 121
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 68, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 63, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "distance": 8840, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6360203, 
+            -46.5557688
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1732, 
+          "vehicle_type": "BUS", 
+          "wait": 154
+        }, 
+        {
+          "origin": [
+            -23.636058, 
+            -46.5556636
+          ], 
+          "distance": 535, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.53212, 
+            -46.626
+          ], 
+          "distance": 16931, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 38, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2760, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 1874, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4598671, 
+            -46.6446131
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1473, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.459888, 
+            -46.644623
+          ], 
+          "distance": 5917, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.499859, 
+            -46.625196
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1980, 
+          "vehicle_type": "BUS", 
+          "wait": 745
+        }, 
+        {
+          "origin": [
+            -23.4998917, 
+            -46.625197
+          ], 
+          "distance": 133, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4998516, 
+            -46.6240852
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 147, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.499846, 
+            -46.624085
+          ], 
+          "distance": 3803, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5330965, 
+            -46.6265035
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 840, 
+          "vehicle_type": "BUS", 
+          "wait": 686
+        }, 
+        {
+          "origin": [
+            -23.5331159, 
+            -46.6264479
+          ], 
+          "distance": 120, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5322121, 
+            -46.6260121
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 83, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 6293, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 16, 
+          "destination": [
+            -23.48539, 
+            -46.62897
+          ], 
+          "phase": "headway", 
+          "duration": 1200, 
+          "wait": 360
+        }, 
+        {
+          "origin": [
+            -23.485295, 
+            -46.62914
+          ], 
+          "distance": 2900, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.509196, 
+            -46.6251537
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 879, 
+          "vehicle_type": "BUS", 
+          "wait": 519
+        }, 
+        {
+          "origin": [
+            -23.5091919, 
+            -46.6251028
+          ], 
+          "distance": 28, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5091539, 
+            -46.6249437
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 28, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5091539, 
+            -46.6249437
+          ], 
+          "distance": 8885, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1232, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 68, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 63, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "distance": 9578, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1501, 
+          "vehicle_type": "BUS", 
+          "wait": 410
+        }, 
+        {
+          "origin": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "distance": 611, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.54102, 
+            -46.62837
+          ], 
+          "distance": 15515, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 35, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2400, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 1874, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4598671, 
+            -46.6446131
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1473, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.459888, 
+            -46.644623
+          ], 
+          "distance": 6553, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.502101, 
+            -46.62417199999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2124, 
+          "vehicle_type": "BUS", 
+          "wait": 625
+        }, 
+        {
+          "origin": [
+            -23.5020757, 
+            -46.6241707
+          ], 
+          "distance": 132, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 102, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "distance": 4468, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5367192, 
+            -46.633595
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 560, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 137
+        }, 
+        {
+          "origin": [
+            -23.5367192, 
+            -46.633595
+          ], 
+          "distance": 891, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5410127, 
+            -46.6283896
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 626, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 11008, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 29, 
+          "destination": [
+            -23.52377, 
+            -46.62553
+          ], 
+          "phase": "headway", 
+          "duration": 2400, 
+          "wait": 300
+        }, 
+        {
+          "origin": [
+            -23.5237738, 
+            -46.6255441
+          ], 
+          "distance": 537, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.525473, 
+            -46.6293215
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 414, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.525473, 
+            -46.6293215
+          ], 
+          "distance": 6864, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1008, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 149
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 68, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 63, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "distance": 8840, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6360203, 
+            -46.5557688
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1732, 
+          "vehicle_type": "BUS", 
+          "wait": 151
+        }, 
+        {
+          "origin": [
+            -23.636058, 
+            -46.5556636
+          ], 
+          "distance": 535, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.53212, 
+            -46.626
+          ], 
+          "distance": 16931, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 38, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2760, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 1874, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4598671, 
+            -46.6446131
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1473, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.459888, 
+            -46.644623
+          ], 
+          "distance": 5917, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.499859, 
+            -46.625196
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1980, 
+          "vehicle_type": "BUS", 
+          "wait": 745
+        }, 
+        {
+          "origin": [
+            -23.4998917, 
+            -46.625197
+          ], 
+          "distance": 133, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4998516, 
+            -46.6240852
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 147, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.499846, 
+            -46.624085
+          ], 
+          "distance": 3803, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5330965, 
+            -46.6265035
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 840, 
+          "vehicle_type": "BUS", 
+          "wait": 686
+        }, 
+        {
+          "origin": [
+            -23.5331159, 
+            -46.6264479
+          ], 
+          "distance": 120, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5322121, 
+            -46.6260121
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 83, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 11008, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 29, 
+          "destination": [
+            -23.52377, 
+            -46.62553
+          ], 
+          "phase": "headway", 
+          "duration": 2400, 
+          "wait": 300
+        }, 
+        {
+          "origin": [
+            -23.5237738, 
+            -46.6255441
+          ], 
+          "distance": 537, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.525473, 
+            -46.6293215
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 414, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.525473, 
+            -46.6293215
+          ], 
+          "distance": 6864, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1008, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 141
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 68, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 63, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "distance": 8840, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6360203, 
+            -46.5557688
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1732, 
+          "vehicle_type": "BUS", 
+          "wait": 151
+        }, 
+        {
+          "origin": [
+            -23.636058, 
+            -46.5556636
+          ], 
+          "distance": 535, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.54102, 
+            -46.62837
+          ], 
+          "distance": 15515, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 35, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2400, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 1874, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4598671, 
+            -46.6446131
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1473, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.459888, 
+            -46.644623
+          ], 
+          "distance": 6553, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.502101, 
+            -46.62417199999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2124, 
+          "vehicle_type": "BUS", 
+          "wait": 625
+        }, 
+        {
+          "origin": [
+            -23.5020757, 
+            -46.6241707
+          ], 
+          "distance": 132, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 102, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "distance": 4468, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5367192, 
+            -46.633595
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 560, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 137
+        }, 
+        {
+          "origin": [
+            -23.5367192, 
+            -46.633595
+          ], 
+          "distance": 891, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5410127, 
+            -46.6283896
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 626, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 16174, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 38, 
+          "destination": [
+            -23.5317, 
+            -46.62575
+          ], 
+          "phase": "headway", 
+          "duration": 3000, 
+          "wait": 300
+        }, 
+        {
+          "origin": [
+            -23.5316819, 
+            -46.6257267
+          ], 
+          "distance": 179, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5300638, 
+            -46.6257508
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 148, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5294282, 
+            -46.6257917
+          ], 
+          "distance": 9691, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6020948, 
+            -46.6073714
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2091, 
+          "vehicle_type": "BUS", 
+          "wait": 1064
+        }, 
+        {
+          "origin": [
+            -23.6020948, 
+            -46.6073714
+          ], 
+          "distance": 10297, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1613, 
+          "vehicle_type": "BUS", 
+          "wait": 534
+        }, 
+        {
+          "origin": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "distance": 611, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.54102, 
+            -46.62837
+          ], 
+          "distance": 15515, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 35, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2400, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 1874, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4598671, 
+            -46.6446131
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1473, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.459888, 
+            -46.644623
+          ], 
+          "distance": 6553, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.502101, 
+            -46.62417199999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2124, 
+          "vehicle_type": "BUS", 
+          "wait": 625
+        }, 
+        {
+          "origin": [
+            -23.5020757, 
+            -46.6241707
+          ], 
+          "distance": 132, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 102, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "distance": 4468, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5367192, 
+            -46.633595
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 560, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 137
+        }, 
+        {
+          "origin": [
+            -23.5367192, 
+            -46.633595
+          ], 
+          "distance": 891, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5410127, 
+            -46.6283896
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 626, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 30514, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 65, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 4500, 
+          "wait": 300
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 889, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4537938, 
+            -46.6450124
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 751, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.453798, 
+            -46.64500899999999
+          ], 
+          "distance": 9317, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.502227, 
+            -46.623988
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 3348, 
+          "vehicle_type": "BUS", 
+          "wait": 1256
+        }, 
+        {
+          "origin": [
+            -23.5026814, 
+            -46.6240974
+          ], 
+          "distance": 51, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 50, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "distance": 9619, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1344, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 157
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 68, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 63, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "distance": 9578, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1501, 
+          "vehicle_type": "BUS", 
+          "wait": 151
+        }, 
+        {
+          "origin": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "distance": 611, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 249
+  }, 
+  {
+    "destination_region_id": 639, 
+    "destination_region": [
+      {
+        "teta": -180.0, 
+        "lat": -23.5202503, 
+        "lng": -46.6791496
+      }, 
+      {
+        "teta": -130.0, 
+        "lat": -23.51992251, 
+        "lng": -46.68090820000001
+      }, 
+      {
+        "teta": -115.0, 
+        "lat": -23.51996267, 
+        "lng": -46.68221756
+      }, 
+      {
+        "teta": 50.0, 
+        "lat": -23.51657304, 
+        "lng": -46.67674178
+      }, 
+      {
+        "teta": 75.0, 
+        "lat": -23.51771, 
+        "lng": -46.67603
+      }, 
+      {
+        "teta": 105.0, 
+        "lat": -23.51914302, 
+        "lng": -46.67607677
+      }, 
+      {
+        "teta": 110.0, 
+        "lat": -23.51890561, 
+        "lng": -46.67777959
+      }
+    ], 
+    "weight": 54, 
+    "origin_region": [
+      {
+        "teta": -135.0, 
+        "lat": -23.457138, 
+        "lng": -46.64876115
+      }, 
+      {
+        "teta": 45.0, 
+        "lat": -23.45127825, 
+        "lng": -46.64245605
+      }, 
+      {
+        "teta": 145.0, 
+        "lat": -23.45677535, 
+        "lng": -46.64368523
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.451382932919255, 
+      "lng": -46.64251048142858
+    }, 
+    "link": [
+      {
+        "lat": -23.451382932919255, 
+        "lng": -46.64251048142858
+      }, 
+      {
+        "lat": -23.51988101282052, 
+        "lng": -46.6808026971795
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.51988101282052, 
+      "lng": -46.6808026971795
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 2286, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 8, 
+          "destination": [
+            -23.46204, 
+            -46.65099
+          ], 
+          "phase": "headway", 
+          "duration": 420, 
+          "wait": 300
+        }, 
+        {
+          "origin": [
+            -23.4620319, 
+            -46.6509744
+          ], 
+          "distance": 389, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4648483, 
+            -46.64959409999999
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 295, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.464855, 
+            -46.649623
+          ], 
+          "distance": 3011, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.473602, 
+            -46.667339
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 757, 
+          "vehicle_type": "BUS", 
+          "wait": 17
+        }, 
+        {
+          "origin": [
+            -23.4736054, 
+            -46.6673246
+          ], 
+          "distance": 231, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4742459, 
+            -46.6690063
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 159, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.4751862, 
+            -46.6702222
+          ], 
+          "distance": 6419, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1729, 
+          "vehicle_type": "BUS", 
+          "wait": 543
+        }, 
+        {
+          "origin": [
+            -23.5175732, 
+            -46.681335
+          ], 
+          "distance": 359, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5200713, 
+            -46.6807986
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 266, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.46452, 
+            -46.65459
+          ], 
+          "distance": 10139, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 25, 
+          "destination": [
+            -23.51988101282052, 
+            -46.6808026971795
+          ], 
+          "phase": "headway", 
+          "duration": 1800, 
+          "wait": 240
+        }, 
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 889, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4537938, 
+            -46.6450124
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 751, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.453798, 
+            -46.64500899999999
+          ], 
+          "distance": 1860, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.464366, 
+            -46.65455499999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 693, 
+          "vehicle_type": "BUS", 
+          "wait": 720
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.451382932919255, 
+            -46.64251048142858
+          ], 
+          "distance": 13776, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 32, 
+          "destination": [
+            -23.51988101282052, 
+            -46.6808026971795
+          ], 
+          "phase": "headway", 
+          "duration": 2220, 
+          "wait": 300
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.4510319, 
+            -46.6423003
+          ], 
+          "distance": 889, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4537938, 
+            -46.6450124
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 751, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.453798, 
+            -46.64500899999999
+          ], 
+          "distance": 5598, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.473602, 
+            -46.667339
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2079, 
+          "vehicle_type": "BUS", 
+          "wait": 720
+        }, 
+        {
+          "origin": [
+            -23.4736054, 
+            -46.6673246
+          ], 
+          "distance": 231, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4742459, 
+            -46.6690063
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 159, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.4751862, 
+            -46.6702222
+          ], 
+          "distance": 6419, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1729, 
+          "vehicle_type": "BUS", 
+          "wait": 543
+        }, 
+        {
+          "origin": [
+            -23.5175732, 
+            -46.681335
+          ], 
+          "distance": 359, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5200713, 
+            -46.6807986
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 266, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 249
+  }, 
+  {
+    "destination_region_id": 168, 
+    "destination_region": [
+      {
+        "teta": -105.0, 
+        "lat": -23.45509713, 
+        "lng": -46.64642036
+      }, 
+      {
+        "teta": 30.0, 
+        "lat": -23.45127825, 
+        "lng": -46.64245605
+      }, 
+      {
+        "teta": 145.0, 
+        "lat": -23.4578132, 
+        "lng": -46.6421277
+      }, 
+      {
+        "teta": 165.0, 
+        "lat": -23.45677535, 
+        "lng": -46.64368523
+      }
+    ], 
+    "weight": 76, 
+    "origin_region": [
+      {
+        "teta": -110.0, 
+        "lat": -23.63892779, 
+        "lng": -46.56482310000001
+      }, 
+      {
+        "teta": -45.0, 
+        "lat": -23.6369951, 
+        "lng": -46.562889
+      }, 
+      {
+        "teta": 65.0, 
+        "lat": -23.63697595, 
+        "lng": -46.56005859
+      }, 
+      {
+        "teta": 85.0, 
+        "lat": -23.637821, 
+        "lng": -46.559098
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.636991508232033, 
+      "lng": -46.560095243756905
+    }, 
+    "link": [
+      {
+        "lat": -23.636991508232033, 
+        "lng": -46.560095243756905
+      }, 
+      {
+        "lat": -23.45142335881081, 
+        "lng": -46.64249563648649
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.45142335881081, 
+      "lng": -46.64249563648649
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.636991508232033, 
+            -46.560095243756905
+          ], 
+          "distance": 15498, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 31, 
+          "destination": [
+            -23.54625, 
+            -46.62865
+          ], 
+          "phase": "headway", 
+          "duration": 2760, 
+          "wait": 180
+        }, 
+        {
+          "origin": [
+            -23.5462582, 
+            -46.6286829
+          ], 
+          "distance": 462, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5456329, 
+            -46.6263126
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 393, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5456256, 
+            -46.6262716
+          ], 
+          "distance": 4788, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5117, 
+            -46.623615
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1021, 
+          "vehicle_type": "BUS", 
+          "wait": 111
+        }, 
+        {
+          "origin": [
+            -23.5116686, 
+            -46.6236117
+          ], 
+          "distance": 230, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5113781, 
+            -46.6245422
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 202, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.511351, 
+            -46.624541
+          ], 
+          "distance": 9173, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.465103, 
+            -46.65586099999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 168, 
+          "vehicle_type": "BUS", 
+          "wait": 1137
+        }, 
+        {
+          "origin": [
+            -23.4651165, 
+            -46.6558591
+          ], 
+          "distance": 208, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4646352, 
+            -46.6542734
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 185, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.464668, 
+            -46.65428
+          ], 
+          "distance": 1634, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.456367, 
+            -46.645617
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 411, 
+          "vehicle_type": "BUS", 
+          "wait": 121
+        }, 
+        {
+          "origin": [
+            -23.4563699, 
+            -46.6456361
+          ], 
+          "distance": 1178, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4510466, 
+            -46.6422712
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 927, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.5399, 
+            -46.62741
+          ], 
+          "distance": 13744, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 34, 
+          "destination": [
+            -23.45142335881081, 
+            -46.64249563648649
+          ], 
+          "phase": "headway", 
+          "duration": 2760, 
+          "wait": 300
+        }, 
+        {
+          "origin": [
+            -23.6365413, 
+            -46.5601136
+          ], 
+          "distance": 554, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6386448, 
+            -46.5636121
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 511, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6385675, 
+            -46.5636141
+          ], 
+          "distance": 7568, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.601066, 
+            -46.602821
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2061, 
+          "vehicle_type": "BUS", 
+          "wait": 295
+        }, 
+        {
+          "origin": [
+            -23.6010667, 
+            -46.6028319
+          ], 
+          "distance": 179, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.602411, 
+            -46.60240700000001
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 136, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6023548, 
+            -46.60236440000001
+          ], 
+          "distance": 7891, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5422962, 
+            -46.6270258
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1494, 
+          "vehicle_type": "BUS", 
+          "wait": 318
+        }, 
+        {
+          "origin": [
+            -23.5423279, 
+            -46.6270381
+          ], 
+          "distance": 318, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5399194, 
+            -46.6273596
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 230, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.636991508232033, 
+            -46.560095243756905
+          ], 
+          "distance": 20745, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 42, 
+          "destination": [
+            -23.50318, 
+            -46.62239
+          ], 
+          "phase": "headway", 
+          "duration": 3900, 
+          "wait": 180
+        }, 
+        {
+          "origin": [
+            -23.503178, 
+            -46.6224078
+          ], 
+          "distance": 372, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5022817, 
+            -46.6245286
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 294, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5022847, 
+            -46.6244881
+          ], 
+          "distance": 8132, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.465103, 
+            -46.65586099999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 150, 
+          "vehicle_type": "BUS", 
+          "wait": 1472
+        }, 
+        {
+          "origin": [
+            -23.4651165, 
+            -46.6558591
+          ], 
+          "distance": 208, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4646352, 
+            -46.6542734
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 185, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.464668, 
+            -46.65428
+          ], 
+          "distance": 1634, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.456367, 
+            -46.645617
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 412, 
+          "vehicle_type": "BUS", 
+          "wait": -17
+        }, 
+        {
+          "origin": [
+            -23.4563699, 
+            -46.6456361
+          ], 
+          "distance": 1178, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4510466, 
+            -46.6422712
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 927, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.49919, 
+            -46.62231
+          ], 
+          "distance": 8820, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 21, 
+          "destination": [
+            -23.45142335881081, 
+            -46.64249563648649
+          ], 
+          "phase": "headway", 
+          "duration": 1380, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6365413, 
+            -46.5601136
+          ], 
+          "distance": 605, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 544, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "distance": 7610, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2068, 
+          "vehicle_type": "BUS", 
+          "wait": 311
+        }, 
+        {
+          "origin": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "distance": 68, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 62, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 151
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 9619, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1344, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "distance": 606, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.499217, 
+            -46.6222821
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 520, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.636991508232033, 
+            -46.560095243756905
+          ], 
+          "distance": 15498, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 31, 
+          "destination": [
+            -23.54625, 
+            -46.62865
+          ], 
+          "phase": "headway", 
+          "duration": 2760, 
+          "wait": 180
+        }, 
+        {
+          "origin": [
+            -23.5462582, 
+            -46.6286829
+          ], 
+          "distance": 462, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5456329, 
+            -46.6263126
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 393, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5456256, 
+            -46.6262716
+          ], 
+          "distance": 4788, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5117, 
+            -46.623615
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1021, 
+          "vehicle_type": "BUS", 
+          "wait": 97
+        }, 
+        {
+          "origin": [
+            -23.5116686, 
+            -46.6236117
+          ], 
+          "distance": 230, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5113781, 
+            -46.6245422
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 202, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.511351, 
+            -46.624541
+          ], 
+          "distance": 9173, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.465103, 
+            -46.65586099999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 168, 
+          "vehicle_type": "BUS", 
+          "wait": 1137
+        }, 
+        {
+          "origin": [
+            -23.4651165, 
+            -46.6558591
+          ], 
+          "distance": 208, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4646352, 
+            -46.6542734
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 185, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.464668, 
+            -46.65428
+          ], 
+          "distance": 1634, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.456367, 
+            -46.645617
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 413, 
+          "vehicle_type": "BUS", 
+          "wait": 117
+        }, 
+        {
+          "origin": [
+            -23.4563699, 
+            -46.6456361
+          ], 
+          "distance": 1178, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4510466, 
+            -46.6422712
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 927, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.49919, 
+            -46.62231
+          ], 
+          "distance": 8820, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 21, 
+          "destination": [
+            -23.45142335881081, 
+            -46.64249563648649
+          ], 
+          "phase": "headway", 
+          "duration": 1380, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6365413, 
+            -46.5601136
+          ], 
+          "distance": 605, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 544, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "distance": 7610, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2068, 
+          "vehicle_type": "BUS", 
+          "wait": 303
+        }, 
+        {
+          "origin": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "distance": 68, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 62, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 151
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 9619, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1344, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.502588, 
+            -46.6247465
+          ], 
+          "distance": 606, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.499217, 
+            -46.6222821
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 520, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.636991508232033, 
+            -46.560095243756905
+          ], 
+          "distance": 30047, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 56, 
+          "destination": [
+            -23.45142335881081, 
+            -46.64249563648649
+          ], 
+          "phase": "headway", 
+          "duration": 4500, 
+          "wait": 180
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.6365413, 
+            -46.5601136
+          ], 
+          "distance": 753, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6350791, 
+            -46.553638
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 638, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6351274, 
+            -46.5535788
+          ], 
+          "distance": 9578, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1779, 
+          "vehicle_type": "BUS", 
+          "wait": 488
+        }, 
+        {
+          "origin": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "distance": 68, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 62, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 4937, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 600, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 151
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 0, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 8885, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5091539, 
+            -46.6249437
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1232, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.5091539, 
+            -46.6249437
+          ], 
+          "distance": 77, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5096162, 
+            -46.624788
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 64, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5096216, 
+            -46.6247509
+          ], 
+          "distance": 10307, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.456123, 
+            -46.654854
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 186, 
+          "vehicle_type": "BUS", 
+          "wait": 1201
+        }, 
+        {
+          "origin": [
+            -23.4561165, 
+            -46.6548639
+          ], 
+          "distance": 2393, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4510466, 
+            -46.6422712
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 1952, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 287
+  }, 
+  {
+    "destination_region_id": 372, 
+    "destination_region": [
+      {
+        "teta": 0.0, 
+        "lat": -23.56500988, 
+        "lng": -46.62666321
+      }
+    ], 
+    "weight": 32, 
+    "origin_region": [
+      {
+        "teta": -110.0, 
+        "lat": -23.63892779, 
+        "lng": -46.56482310000001
+      }, 
+      {
+        "teta": -45.0, 
+        "lat": -23.6369951, 
+        "lng": -46.562889
+      }, 
+      {
+        "teta": 65.0, 
+        "lat": -23.63697595, 
+        "lng": -46.56005859
+      }, 
+      {
+        "teta": 85.0, 
+        "lat": -23.637821, 
+        "lng": -46.559098
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.636991508232033, 
+      "lng": -46.560095243756905
+    }, 
+    "link": [
+      {
+        "lat": -23.636991508232033, 
+        "lng": -46.560095243756905
+      }, 
+      {
+        "lat": -23.56500988, 
+        "lng": -46.626663209999975
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.56500988, 
+      "lng": -46.626663209999975
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.636991508232033, 
+            -46.560095243756905
+          ], 
+          "distance": 14951, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 30, 
+          "destination": [
+            -23.56500988, 
+            -46.626663209999975
+          ], 
+          "phase": "headway", 
+          "duration": 2760, 
+          "wait": 180
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.6365413, 
+            -46.5601136
+          ], 
+          "distance": 561, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6375257, 
+            -46.564818
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 508, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.637526, 
+            -46.564859
+          ], 
+          "distance": 11279, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6023788, 
+            -46.61237819999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1776, 
+          "vehicle_type": "BUS", 
+          "wait": 1337
+        }, 
+        {
+          "origin": [
+            -23.6023847, 
+            -46.61237759999999
+          ], 
+          "distance": 31, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6020094, 
+            -46.6124299
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 32, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6020094, 
+            -46.6124299
+          ], 
+          "distance": 3833, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 450, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 159
+        }, 
+        {
+          "origin": [
+            -23.5815309, 
+            -46.6386629
+          ], 
+          "distance": 60, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5817593, 
+            -46.6391183
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 50, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.581764, 
+            -46.6390999
+          ], 
+          "distance": 2785, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.564418, 
+            -46.62954
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 799, 
+          "vehicle_type": "BUS", 
+          "wait": 125
+        }, 
+        {
+          "origin": [
+            -23.5643994, 
+            -46.6295261
+          ], 
+          "distance": 307, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5651709, 
+            -46.6267276
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 219, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 287
+  }, 
+  {
+    "destination_region_id": 639, 
+    "destination_region": [
+      {
+        "teta": -180.0, 
+        "lat": -23.5202503, 
+        "lng": -46.6791496
+      }, 
+      {
+        "teta": -130.0, 
+        "lat": -23.51992251, 
+        "lng": -46.68090820000001
+      }, 
+      {
+        "teta": -115.0, 
+        "lat": -23.51996267, 
+        "lng": -46.68221756
+      }, 
+      {
+        "teta": 50.0, 
+        "lat": -23.51657304, 
+        "lng": -46.67674178
+      }, 
+      {
+        "teta": 75.0, 
+        "lat": -23.51771, 
+        "lng": -46.67603
+      }, 
+      {
+        "teta": 105.0, 
+        "lat": -23.51914302, 
+        "lng": -46.67607677
+      }, 
+      {
+        "teta": 110.0, 
+        "lat": -23.51890561, 
+        "lng": -46.67777959
+      }
+    ], 
+    "weight": 60, 
+    "origin_region": [
+      {
+        "teta": -110.0, 
+        "lat": -23.63892779, 
+        "lng": -46.56482310000001
+      }, 
+      {
+        "teta": -45.0, 
+        "lat": -23.6369951, 
+        "lng": -46.562889
+      }, 
+      {
+        "teta": 65.0, 
+        "lat": -23.63697595, 
+        "lng": -46.56005859
+      }, 
+      {
+        "teta": 85.0, 
+        "lat": -23.637821, 
+        "lng": -46.559098
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.636991508232033, 
+      "lng": -46.560095243756905
+    }, 
+    "link": [
+      {
+        "lat": -23.636991508232033, 
+        "lng": -46.560095243756905
+      }, 
+      {
+        "lat": -23.51988101282052, 
+        "lng": -46.6808026971795
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.51988101282052, 
+      "lng": -46.6808026971795
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.636991508232033, 
+            -46.560095243756905
+          ], 
+          "distance": 14871, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 28, 
+          "destination": [
+            -23.55118, 
+            -46.62612
+          ], 
+          "phase": "headway", 
+          "duration": 2400, 
+          "wait": 180
+        }, 
+        {
+          "origin": [
+            -23.551171, 
+            -46.6260689
+          ], 
+          "distance": 163, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5497075, 
+            -46.6259157
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 127, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5497075, 
+            -46.6259157
+          ], 
+          "distance": 5353, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5254628, 
+            -46.66742139999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1140, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 263
+        }, 
+        {
+          "origin": [
+            -23.5254628, 
+            -46.66742139999999
+          ], 
+          "distance": 128, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5244482, 
+            -46.6670305
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 123, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.524432, 
+            -46.667029
+          ], 
+          "distance": 2401, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 542, 
+          "vehicle_type": "BUS", 
+          "wait": 18
+        }, 
+        {
+          "origin": [
+            -23.5175732, 
+            -46.681335
+          ], 
+          "distance": 359, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5200713, 
+            -46.6807986
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 266, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.55422, 
+            -46.627
+          ], 
+          "distance": 9721, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 23, 
+          "destination": [
+            -23.51988101282052, 
+            -46.6808026971795
+          ], 
+          "phase": "headway", 
+          "duration": 1560, 
+          "wait": 360
+        }, 
+        {
+          "origin": [
+            -23.6365413, 
+            -46.5601136
+          ], 
+          "distance": 554, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6386448, 
+            -46.5636121
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 511, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6385675, 
+            -46.5636141
+          ], 
+          "distance": 7568, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.601066, 
+            -46.602821
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2061, 
+          "vehicle_type": "BUS", 
+          "wait": 263
+        }, 
+        {
+          "origin": [
+            -23.6010667, 
+            -46.6028319
+          ], 
+          "distance": 179, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.602411, 
+            -46.60240700000001
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 136, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6023548, 
+            -46.60236440000001
+          ], 
+          "distance": 9761, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.554495, 
+            -46.625046
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1461, 
+          "vehicle_type": "BUS", 
+          "wait": 552
+        }, 
+        {
+          "origin": [
+            -23.5544877, 
+            -46.6250388
+          ], 
+          "distance": 226, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5543869, 
+            -46.6269622
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 172, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.636991508232033, 
+            -46.560095243756905
+          ], 
+          "distance": 21710, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 41, 
+          "destination": [
+            -23.52782, 
+            -46.6711
+          ], 
+          "phase": "headway", 
+          "duration": 3360, 
+          "wait": 180
+        }, 
+        {
+          "origin": [
+            -23.52782, 
+            -46.6711
+          ], 
+          "distance": 6, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.527844, 
+            -46.6711547
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5276481, 
+            -46.6714819
+          ], 
+          "distance": 1227, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5248666, 
+            -46.6826428
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 284, 
+          "vehicle_type": "BUS", 
+          "wait": 43
+        }, 
+        {
+          "origin": [
+            -23.5248793, 
+            -46.6826534
+          ], 
+          "distance": 1167, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5200713, 
+            -46.6807986
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 838, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.52601, 
+            -46.67654
+          ], 
+          "distance": 2093, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 8, 
+          "destination": [
+            -23.51988101282052, 
+            -46.6808026971795
+          ], 
+          "phase": "headway", 
+          "duration": 480, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6365413, 
+            -46.5601136
+          ], 
+          "distance": 605, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 544, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "distance": 7610, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2068, 
+          "vehicle_type": "BUS", 
+          "wait": 279
+        }, 
+        {
+          "origin": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "distance": 68, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 62, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 10533, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5507519, 
+            -46.6779022
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1500, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 151
+        }, 
+        {
+          "origin": [
+            -23.5507519, 
+            -46.6779022
+          ], 
+          "distance": 402, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5528718, 
+            -46.6786566
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 295, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5529001, 
+            -46.6786235
+          ], 
+          "distance": 3625, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.525724, 
+            -46.671112
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 800, 
+          "vehicle_type": "BUS", 
+          "wait": 420
+        }, 
+        {
+          "origin": [
+            -23.5257446, 
+            -46.6711112
+          ], 
+          "distance": 615, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5259946, 
+            -46.6765386
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 499, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.636991508232033, 
+            -46.560095243756905
+          ], 
+          "distance": 14871, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 28, 
+          "destination": [
+            -23.55118, 
+            -46.62612
+          ], 
+          "phase": "headway", 
+          "duration": 2400, 
+          "wait": 180
+        }, 
+        {
+          "origin": [
+            -23.551171, 
+            -46.6260689
+          ], 
+          "distance": 163, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5497075, 
+            -46.6259157
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 127, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5497075, 
+            -46.6259157
+          ], 
+          "distance": 5353, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5254628, 
+            -46.66742139999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1140, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 248
+        }, 
+        {
+          "origin": [
+            -23.5254628, 
+            -46.66742139999999
+          ], 
+          "distance": 128, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5244482, 
+            -46.6670305
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 123, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.524432, 
+            -46.667029
+          ], 
+          "distance": 2401, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 542, 
+          "vehicle_type": "BUS", 
+          "wait": 18
+        }, 
+        {
+          "origin": [
+            -23.5175732, 
+            -46.681335
+          ], 
+          "distance": 359, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5200713, 
+            -46.6807986
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 266, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.52601, 
+            -46.67654
+          ], 
+          "distance": 2093, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 8, 
+          "destination": [
+            -23.51988101282052, 
+            -46.6808026971795
+          ], 
+          "phase": "headway", 
+          "duration": 480, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6365413, 
+            -46.5601136
+          ], 
+          "distance": 605, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 544, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "distance": 7610, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2068, 
+          "vehicle_type": "BUS", 
+          "wait": 271
+        }, 
+        {
+          "origin": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "distance": 68, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 62, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 10533, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5507519, 
+            -46.6779022
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1500, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 151
+        }, 
+        {
+          "origin": [
+            -23.5507519, 
+            -46.6779022
+          ], 
+          "distance": 402, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5528718, 
+            -46.6786566
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 295, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5529001, 
+            -46.6786235
+          ], 
+          "distance": 3625, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.525724, 
+            -46.671112
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 800, 
+          "vehicle_type": "BUS", 
+          "wait": 420
+        }, 
+        {
+          "origin": [
+            -23.5257446, 
+            -46.6711112
+          ], 
+          "distance": 615, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5259946, 
+            -46.6765386
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 499, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.636991508232033, 
+            -46.560095243756905
+          ], 
+          "distance": 24656, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 49, 
+          "destination": [
+            -23.51988101282052, 
+            -46.6808026971795
+          ], 
+          "phase": "headway", 
+          "duration": 4500, 
+          "wait": 180
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.6365413, 
+            -46.5601136
+          ], 
+          "distance": 605, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6379189, 
+            -46.5648141
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 544, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6379182, 
+            -46.5647407
+          ], 
+          "distance": 7610, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 2068, 
+          "vehicle_type": "BUS", 
+          "wait": 265
+        }, 
+        {
+          "origin": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "distance": 68, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 62, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 10533, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5507519, 
+            -46.6779022
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1500, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 151
+        }, 
+        {
+          "origin": [
+            -23.5507519, 
+            -46.6779022
+          ], 
+          "distance": 117, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5512166, 
+            -46.6770399
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 94, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.551191, 
+            -46.6770117
+          ], 
+          "distance": 4271, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5275432, 
+            -46.6807131
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1102, 
+          "vehicle_type": "BUS", 
+          "wait": 351
+        }, 
+        {
+          "origin": [
+            -23.5275657, 
+            -46.6807349
+          ], 
+          "distance": 1402, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5200713, 
+            -46.6807986
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 1058, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 287
+  }, 
+  {
+    "destination_region_id": 401, 
+    "destination_region": [
+      {
+        "teta": -5.0, 
+        "lat": -23.5580373, 
+        "lng": -46.60830081
+      }, 
+      {
+        "teta": 175.0, 
+        "lat": -23.56278357, 
+        "lng": -46.60780334
+      }
+    ], 
+    "weight": 44, 
+    "origin_region": [
+      {
+        "teta": -75.0, 
+        "lat": -23.62894, 
+        "lng": -46.56146
+      }, 
+      {
+        "teta": 60.0, 
+        "lat": -23.62790239, 
+        "lng": -46.55506036
+      }, 
+      {
+        "teta": 75.0, 
+        "lat": -23.62960746, 
+        "lng": -46.55696097
+      }, 
+      {
+        "teta": 155.0, 
+        "lat": -23.63196943, 
+        "lng": -46.55729029
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.62797454923729, 
+      "lng": -46.55516570567797
+    }, 
+    "link": [
+      {
+        "lat": -23.62797454923729, 
+        "lng": -46.55516570567797
+      }, 
+      {
+        "lat": -23.55815449185185, 
+        "lng": -46.608288526790126
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.55815449185185, 
+      "lng": -46.608288526790126
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.62797454923729, 
+            -46.55516570567797
+          ], 
+          "distance": 12489, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 24, 
+          "destination": [
+            -23.55815449185185, 
+            -46.608288526790126
+          ], 
+          "phase": "headway", 
+          "duration": 2040, 
+          "wait": 120
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.6279241, 
+            -46.5550656
+          ], 
+          "distance": 1444, 
+          "next_mode": "HEAVY_RAIL", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6254826, 
+            -46.5446624
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 1054, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6262315, 
+            -46.5441696
+          ], 
+          "distance": 10550, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5581221, 
+            -46.6084762
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1680, 
+          "vehicle_type": "HEAVY_RAIL", 
+          "wait": 481
+        }
+      ]
+    ], 
+    "origin_region_id": 288
+  }, 
+  {
+    "destination_region_id": 168, 
+    "destination_region": [
+      {
+        "teta": -105.0, 
+        "lat": -23.45509713, 
+        "lng": -46.64642036
+      }, 
+      {
+        "teta": 30.0, 
+        "lat": -23.45127825, 
+        "lng": -46.64245605
+      }, 
+      {
+        "teta": 145.0, 
+        "lat": -23.4578132, 
+        "lng": -46.6421277
+      }, 
+      {
+        "teta": 165.0, 
+        "lat": -23.45677535, 
+        "lng": -46.64368523
+      }
+    ], 
+    "weight": 63, 
+    "origin_region": [
+      {
+        "teta": -120.0, 
+        "lat": -23.51992251, 
+        "lng": -46.68090820000001
+      }, 
+      {
+        "teta": -115.0, 
+        "lat": -23.51996267, 
+        "lng": -46.68221756
+      }, 
+      {
+        "teta": 40.0, 
+        "lat": -23.51662737, 
+        "lng": -46.67670877
+      }, 
+      {
+        "teta": 80.0, 
+        "lat": -23.51755315, 
+        "lng": -46.6742184
+      }, 
+      {
+        "teta": 110.0, 
+        "lat": -23.51914302, 
+        "lng": -46.67607677
+      }, 
+      {
+        "teta": 140.0, 
+        "lat": -23.51882098, 
+        "lng": -46.67778905
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.51986506053192, 
+      "lng": -46.68079261553193
+    }, 
+    "link": [
+      {
+        "lat": -23.51986506053192, 
+        "lng": -46.68079261553193
+      }, 
+      {
+        "lat": -23.45142335881081, 
+        "lng": -46.64249563648649
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.45142335881081, 
+      "lng": -46.64249563648649
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.51986506053192, 
+            -46.68079261553193
+          ], 
+          "distance": 13567, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 32, 
+          "destination": [
+            -23.45142335881081, 
+            -46.64249563648649
+          ], 
+          "phase": "headway", 
+          "duration": 2220, 
+          "wait": 120
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.5200711, 
+            -46.6807883
+          ], 
+          "distance": 358, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5176518, 
+            -46.6813034
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 261, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "distance": 5551, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.4800525, 
+            -46.6733251
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 878, 
+          "vehicle_type": "BUS", 
+          "wait": 239
+        }, 
+        {
+          "origin": [
+            -23.4800548, 
+            -46.6733049
+          ], 
+          "distance": 200, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4812213, 
+            -46.6731255
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 163, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.48122, 
+            -46.673089
+          ], 
+          "distance": 5669, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.457041, 
+            -46.647959
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1448, 
+          "vehicle_type": "BUS", 
+          "wait": 184
+        }, 
+        {
+          "origin": [
+            -23.4570424, 
+            -46.64796150000001
+          ], 
+          "distance": 1469, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.4510466, 
+            -46.6422712
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 1155, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 506
+  }, 
+  {
+    "destination_region_id": 314, 
+    "destination_region": [
+      {
+        "teta": -100.0, 
+        "lat": -23.63697595, 
+        "lng": -46.56005859
+      }, 
+      {
+        "teta": 30.0, 
+        "lat": -23.63597367, 
+        "lng": -46.55895104
+      }, 
+      {
+        "teta": 155.0, 
+        "lat": -23.637821, 
+        "lng": -46.559098
+      }
+    ], 
+    "weight": 61, 
+    "origin_region": [
+      {
+        "teta": -120.0, 
+        "lat": -23.51992251, 
+        "lng": -46.68090820000001
+      }, 
+      {
+        "teta": -115.0, 
+        "lat": -23.51996267, 
+        "lng": -46.68221756
+      }, 
+      {
+        "teta": 40.0, 
+        "lat": -23.51662737, 
+        "lng": -46.67670877
+      }, 
+      {
+        "teta": 80.0, 
+        "lat": -23.51755315, 
+        "lng": -46.6742184
+      }, 
+      {
+        "teta": 110.0, 
+        "lat": -23.51914302, 
+        "lng": -46.67607677
+      }, 
+      {
+        "teta": 140.0, 
+        "lat": -23.51882098, 
+        "lng": -46.67778905
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.51986506053192, 
+      "lng": -46.68079261553193
+    }, 
+    "link": [
+      {
+        "lat": -23.51986506053192, 
+        "lng": -46.68079261553193
+      }, 
+      {
+        "lat": -23.636979688152174, 
+        "lng": -46.56004212951087
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.636979688152174, 
+      "lng": -46.56004212951087
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.51986506053192, 
+            -46.68079261553193
+          ], 
+          "distance": 4909, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 14, 
+          "destination": [
+            -23.53212, 
+            -46.66326
+          ], 
+          "phase": "headway", 
+          "duration": 960, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.5321836, 
+            -46.662942
+          ], 
+          "distance": 234, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5332455, 
+            -46.6648296
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 171, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5332319, 
+            -46.6648423
+          ], 
+          "distance": 3182, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5545709, 
+            -46.6700714
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 926, 
+          "vehicle_type": "BUS", 
+          "wait": 281
+        }, 
+        {
+          "origin": [
+            -23.5545109, 
+            -46.6700546
+          ], 
+          "distance": 107, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5541248, 
+            -46.6708162
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 99, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5541248, 
+            -46.6708162
+          ], 
+          "distance": 9714, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1350, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 121
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 68, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 63, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "distance": 8840, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6360203, 
+            -46.5557688
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1732, 
+          "vehicle_type": "BUS", 
+          "wait": 162
+        }, 
+        {
+          "origin": [
+            -23.636058, 
+            -46.5556636
+          ], 
+          "distance": 535, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.53547, 
+            -46.65264
+          ], 
+          "distance": 19136, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 42, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2760, 
+          "wait": 360
+        }, 
+        {
+          "origin": [
+            -23.5200711, 
+            -46.6807883
+          ], 
+          "distance": 358, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5176518, 
+            -46.6813034
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 261, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "distance": 2037, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.522273, 
+            -46.662614
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 367, 
+          "vehicle_type": "BUS", 
+          "wait": 145
+        }, 
+        {
+          "origin": [
+            -23.522273, 
+            -46.662614
+          ], 
+          "distance": 1988, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5345713, 
+            -46.654287
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 672, 
+          "vehicle_type": "BUS", 
+          "wait": 8
+        }, 
+        {
+          "origin": [
+            -23.5346329, 
+            -46.6542694
+          ], 
+          "distance": 197, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.53554, 
+            -46.6526836
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 136, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.51986506053192, 
+            -46.68079261553193
+          ], 
+          "distance": 25299, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 58, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 4500, 
+          "wait": 120
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.5200711, 
+            -46.6807883
+          ], 
+          "distance": 358, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5176518, 
+            -46.6813034
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 261, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "distance": 7143, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5527311, 
+            -46.6789736
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1681, 
+          "vehicle_type": "BUS", 
+          "wait": 57
+        }, 
+        {
+          "origin": [
+            -23.5526169, 
+            -46.6790417
+          ], 
+          "distance": 300, 
+          "next_mode": "SUBWAY", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5507519, 
+            -46.6779022
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 268, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5507519, 
+            -46.6779022
+          ], 
+          "distance": 10533, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1500, 
+          "vehicle_type": "SUBWAY", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.6032013, 
+            -46.6030896
+          ], 
+          "distance": 68, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6028742, 
+            -46.6030052
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 63, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.6028769, 
+            -46.6030017
+          ], 
+          "distance": 8840, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6360203, 
+            -46.5557688
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1732, 
+          "vehicle_type": "BUS", 
+          "wait": 234
+        }, 
+        {
+          "origin": [
+            -23.636058, 
+            -46.5556636
+          ], 
+          "distance": 535, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 416, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 506
+  }, 
+  {
+    "destination_region_id": 372, 
+    "destination_region": [
+      {
+        "teta": 0.0, 
+        "lat": -23.56500988, 
+        "lng": -46.62666321
+      }
+    ], 
+    "weight": 52, 
+    "origin_region": [
+      {
+        "teta": -120.0, 
+        "lat": -23.51992251, 
+        "lng": -46.68090820000001
+      }, 
+      {
+        "teta": -115.0, 
+        "lat": -23.51996267, 
+        "lng": -46.68221756
+      }, 
+      {
+        "teta": 40.0, 
+        "lat": -23.51662737, 
+        "lng": -46.67670877
+      }, 
+      {
+        "teta": 80.0, 
+        "lat": -23.51755315, 
+        "lng": -46.6742184
+      }, 
+      {
+        "teta": 110.0, 
+        "lat": -23.51914302, 
+        "lng": -46.67607677
+      }, 
+      {
+        "teta": 140.0, 
+        "lat": -23.51882098, 
+        "lng": -46.67778905
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.51986506053192, 
+      "lng": -46.68079261553193
+    }, 
+    "link": [
+      {
+        "lat": -23.51986506053192, 
+        "lng": -46.68079261553193
+      }, 
+      {
+        "lat": -23.56500988, 
+        "lng": -46.626663209999975
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.56500988, 
+      "lng": -46.626663209999975
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.51986506053192, 
+            -46.68079261553193
+          ], 
+          "distance": 2286, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 9, 
+          "destination": [
+            -23.52555, 
+            -46.68251
+          ], 
+          "phase": "headway", 
+          "duration": 600, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.5254851, 
+            -46.6825158
+          ], 
+          "distance": 108, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5251543, 
+            -46.6834268
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 89, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.525161, 
+            -46.68342879999999
+          ], 
+          "distance": 4836, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5424629, 
+            -46.6433008
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1229, 
+          "vehicle_type": "BUS", 
+          "wait": 33
+        }, 
+        {
+          "origin": [
+            -23.5424616, 
+            -46.64330169999999
+          ], 
+          "distance": 75, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5428926, 
+            -46.6434552
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 51, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5428709, 
+            -46.6434752
+          ], 
+          "distance": 3607, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.565701, 
+            -46.631767
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1070, 
+          "vehicle_type": "BUS", 
+          "wait": 339
+        }, 
+        {
+          "origin": [
+            -23.5656887, 
+            -46.6317777
+          ], 
+          "distance": 611, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5651709, 
+            -46.6267276
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 456, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.5256, 
+            -46.68181
+          ], 
+          "distance": 9431, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 23, 
+          "destination": [
+            -23.56500988, 
+            -46.626663209999975
+          ], 
+          "phase": "headway", 
+          "duration": 1800, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.5200711, 
+            -46.6807883
+          ], 
+          "distance": 1094, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5255701, 
+            -46.681787
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 832, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.51986506053192, 
+            -46.68079261553193
+          ], 
+          "distance": 4909, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 14, 
+          "destination": [
+            -23.53212, 
+            -46.66326
+          ], 
+          "phase": "headway", 
+          "duration": 960, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.5321223, 
+            -46.6632605
+          ], 
+          "distance": 246, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5320935, 
+            -46.6609547
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 180, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.532068, 
+            -46.660957
+          ], 
+          "distance": 2349, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5424629, 
+            -46.6433008
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 674, 
+          "vehicle_type": "BUS", 
+          "wait": 235
+        }, 
+        {
+          "origin": [
+            -23.5424616, 
+            -46.64330169999999
+          ], 
+          "distance": 75, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5428926, 
+            -46.6434552
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 51, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5428709, 
+            -46.6434752
+          ], 
+          "distance": 3607, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.565701, 
+            -46.631767
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1070, 
+          "vehicle_type": "BUS", 
+          "wait": 339
+        }, 
+        {
+          "origin": [
+            -23.5656887, 
+            -46.6317777
+          ], 
+          "distance": 611, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5651709, 
+            -46.6267276
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 456, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.53552, 
+            -46.65256
+          ], 
+          "distance": 5698, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 14, 
+          "destination": [
+            -23.56500988, 
+            -46.626663209999975
+          ], 
+          "phase": "headway", 
+          "duration": 720, 
+          "wait": 240
+        }, 
+        {
+          "origin": [
+            -23.5200711, 
+            -46.6807883
+          ], 
+          "distance": 358, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5176518, 
+            -46.6813034
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 261, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "distance": 2037, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.522273, 
+            -46.662614
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 367, 
+          "vehicle_type": "BUS", 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.522273, 
+            -46.662614
+          ], 
+          "distance": 1988, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5345713, 
+            -46.654287
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 675, 
+          "vehicle_type": "BUS", 
+          "wait": 11
+        }, 
+        {
+          "origin": [
+            -23.5346329, 
+            -46.6542694
+          ], 
+          "distance": 197, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.53554, 
+            -46.6526836
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 136, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.51986506053192, 
+            -46.68079261553193
+          ], 
+          "distance": 2286, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 9, 
+          "destination": [
+            -23.52555, 
+            -46.68251
+          ], 
+          "phase": "headway", 
+          "duration": 600, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.5254851, 
+            -46.6825158
+          ], 
+          "distance": 108, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5251543, 
+            -46.6834268
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 89, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.525161, 
+            -46.68342879999999
+          ], 
+          "distance": 4836, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5424629, 
+            -46.6433008
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1229, 
+          "vehicle_type": "BUS", 
+          "wait": 18
+        }, 
+        {
+          "origin": [
+            -23.5424616, 
+            -46.64330169999999
+          ], 
+          "distance": 75, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5428926, 
+            -46.6434552
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 51, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5428709, 
+            -46.6434752
+          ], 
+          "distance": 3607, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.565701, 
+            -46.631767
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1070, 
+          "vehicle_type": "BUS", 
+          "wait": 339
+        }, 
+        {
+          "origin": [
+            -23.5656887, 
+            -46.6317777
+          ], 
+          "distance": 611, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5651709, 
+            -46.6267276
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 456, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.53552, 
+            -46.65256
+          ], 
+          "distance": 5698, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 14, 
+          "destination": [
+            -23.56500988, 
+            -46.626663209999975
+          ], 
+          "phase": "headway", 
+          "duration": 720, 
+          "wait": 240
+        }, 
+        {
+          "origin": [
+            -23.5200711, 
+            -46.6807883
+          ], 
+          "distance": 358, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5176518, 
+            -46.6813034
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 261, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "distance": 2037, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.522273, 
+            -46.662614
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 367, 
+          "vehicle_type": "BUS", 
+          "wait": 113
+        }, 
+        {
+          "origin": [
+            -23.522273, 
+            -46.662614
+          ], 
+          "distance": 1988, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5345713, 
+            -46.654287
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 675, 
+          "vehicle_type": "BUS", 
+          "wait": 11
+        }, 
+        {
+          "origin": [
+            -23.5346329, 
+            -46.6542694
+          ], 
+          "distance": 197, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.53554, 
+            -46.6526836
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 136, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.51986506053192, 
+            -46.68079261553193
+          ], 
+          "distance": 11861, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 28, 
+          "destination": [
+            -23.56500988, 
+            -46.626663209999975
+          ], 
+          "phase": "headway", 
+          "duration": 2040, 
+          "wait": 120
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.5200711, 
+            -46.6807883
+          ], 
+          "distance": 358, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5176518, 
+            -46.6813034
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 261, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "distance": 5759, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5421286, 
+            -46.6382312
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1336, 
+          "vehicle_type": "BUS", 
+          "wait": 107
+        }, 
+        {
+          "origin": [
+            -23.5421932, 
+            -46.638328
+          ], 
+          "distance": 224, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5419916, 
+            -46.63970860000001
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 176, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5420091, 
+            -46.63969119999999
+          ], 
+          "distance": 4317, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.561773, 
+            -46.625147
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1509, 
+          "vehicle_type": "BUS", 
+          "wait": 233
+        }, 
+        {
+          "origin": [
+            -23.5617751, 
+            -46.6251476
+          ], 
+          "distance": 511, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5649138, 
+            -46.6268014
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 443, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 506
+  }, 
+  {
+    "destination_region_id": 314, 
+    "destination_region": [
+      {
+        "teta": -100.0, 
+        "lat": -23.63697595, 
+        "lng": -46.56005859
+      }, 
+      {
+        "teta": 30.0, 
+        "lat": -23.63597367, 
+        "lng": -46.55895104
+      }, 
+      {
+        "teta": 155.0, 
+        "lat": -23.637821, 
+        "lng": -46.559098
+      }
+    ], 
+    "weight": 47, 
+    "origin_region": [
+      {
+        "teta": -45.0, 
+        "lat": -23.56500988, 
+        "lng": -46.62666321
+      }, 
+      {
+        "teta": -15.0, 
+        "lat": -23.565455, 
+        "lng": -46.624878
+      }, 
+      {
+        "teta": 5.0, 
+        "lat": -23.5652367, 
+        "lng": -46.62398567
+      }, 
+      {
+        "teta": 90.0, 
+        "lat": -23.56758699, 
+        "lng": -46.62179387
+      }, 
+      {
+        "teta": 140.0, 
+        "lat": -23.5701, 
+        "lng": -46.6221
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.565065106291385, 
+      "lng": -46.6265711881457
+    }, 
+    "link": [
+      {
+        "lat": -23.565065106291385, 
+        "lng": -46.6265711881457
+      }, 
+      {
+        "lat": -23.636979688152174, 
+        "lng": -46.56004212951087
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.636979688152174, 
+      "lng": -46.56004212951087
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.565065106291385, 
+            -46.6265711881457
+          ], 
+          "distance": 14533, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 33, 
+          "destination": [
+            -23.636979688152174, 
+            -46.56004212951087
+          ], 
+          "phase": "headway", 
+          "duration": 2400, 
+          "wait": 120
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.5652042, 
+            -46.62662340000001
+          ], 
+          "distance": 583, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5617751, 
+            -46.6251476
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 412, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.561773, 
+            -46.625147
+          ], 
+          "distance": 6045, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.599774, 
+            -46.60052899999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1387, 
+          "vehicle_type": "BUS", 
+          "wait": 538
+        }, 
+        {
+          "origin": [
+            -23.599774, 
+            -46.60052899999999
+          ], 
+          "distance": 6456, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.6345911, 
+            -46.56432359999999
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1657, 
+          "vehicle_type": "BUS", 
+          "wait": 821
+        }, 
+        {
+          "origin": [
+            -23.6345819, 
+            -46.5642709
+          ], 
+          "distance": 655, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.6365395, 
+            -46.5600602
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 444, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 516
+  }, 
+  {
+    "destination_region_id": 639, 
+    "destination_region": [
+      {
+        "teta": -180.0, 
+        "lat": -23.5202503, 
+        "lng": -46.6791496
+      }, 
+      {
+        "teta": -130.0, 
+        "lat": -23.51992251, 
+        "lng": -46.68090820000001
+      }, 
+      {
+        "teta": -115.0, 
+        "lat": -23.51996267, 
+        "lng": -46.68221756
+      }, 
+      {
+        "teta": 50.0, 
+        "lat": -23.51657304, 
+        "lng": -46.67674178
+      }, 
+      {
+        "teta": 75.0, 
+        "lat": -23.51771, 
+        "lng": -46.67603
+      }, 
+      {
+        "teta": 105.0, 
+        "lat": -23.51914302, 
+        "lng": -46.67607677
+      }, 
+      {
+        "teta": 110.0, 
+        "lat": -23.51890561, 
+        "lng": -46.67777959
+      }
+    ], 
+    "weight": 72, 
+    "origin_region": [
+      {
+        "teta": -45.0, 
+        "lat": -23.56500988, 
+        "lng": -46.62666321
+      }, 
+      {
+        "teta": -15.0, 
+        "lat": -23.565455, 
+        "lng": -46.624878
+      }, 
+      {
+        "teta": 5.0, 
+        "lat": -23.5652367, 
+        "lng": -46.62398567
+      }, 
+      {
+        "teta": 90.0, 
+        "lat": -23.56758699, 
+        "lng": -46.62179387
+      }, 
+      {
+        "teta": 140.0, 
+        "lat": -23.5701, 
+        "lng": -46.6221
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.565065106291385, 
+      "lng": -46.6265711881457
+    }, 
+    "link": [
+      {
+        "lat": -23.565065106291385, 
+        "lng": -46.6265711881457
+      }, 
+      {
+        "lat": -23.51988101282052, 
+        "lng": -46.6808026971795
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.51988101282052, 
+      "lng": -46.6808026971795
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.565065106291385, 
+            -46.6265711881457
+          ], 
+          "distance": 8594, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 21, 
+          "destination": [
+            -23.52782, 
+            -46.6711
+          ], 
+          "phase": "headway", 
+          "duration": 1500, 
+          "wait": 120
+        }, 
+        {
+          "origin": [
+            -23.52782, 
+            -46.6711
+          ], 
+          "distance": 6, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.527844, 
+            -46.6711547
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 0, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5276481, 
+            -46.6714819
+          ], 
+          "distance": 1227, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5248666, 
+            -46.6826428
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 291, 
+          "vehicle_type": "BUS", 
+          "wait": 24
+        }, 
+        {
+          "origin": [
+            -23.5248793, 
+            -46.6826534
+          ], 
+          "distance": 1167, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5200713, 
+            -46.6807986
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 838, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.52601, 
+            -46.67654
+          ], 
+          "distance": 2093, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 8, 
+          "destination": [
+            -23.51988101282052, 
+            -46.6808026971795
+          ], 
+          "phase": "headway", 
+          "duration": 480, 
+          "wait": 180
+        }, 
+        {
+          "origin": [
+            -23.5652042, 
+            -46.62662340000001
+          ], 
+          "distance": 594, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5655641, 
+            -46.6312254
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 456, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.565543, 
+            -46.631195
+          ], 
+          "distance": 3550, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5455606, 
+            -46.6383052
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 963, 
+          "vehicle_type": "BUS", 
+          "wait": 360
+        }, 
+        {
+          "origin": [
+            -23.5455606, 
+            -46.6383052
+          ], 
+          "distance": 4512, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5262417, 
+            -46.6742234
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1410, 
+          "vehicle_type": "BUS", 
+          "wait": 420
+        }, 
+        {
+          "origin": [
+            -23.526237, 
+            -46.6742178
+          ], 
+          "distance": 309, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5259946, 
+            -46.6765386
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 273, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.565065106291385, 
+            -46.6265711881457
+          ], 
+          "distance": 11539, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 28, 
+          "destination": [
+            -23.51988101282052, 
+            -46.6808026971795
+          ], 
+          "phase": "headway", 
+          "duration": 2040, 
+          "wait": 120
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.5652042, 
+            -46.62662340000001
+          ], 
+          "distance": 594, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5655641, 
+            -46.6312254
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 456, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.565543, 
+            -46.631195
+          ], 
+          "distance": 3550, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.5455606, 
+            -46.6383052
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 963, 
+          "vehicle_type": "BUS", 
+          "wait": 360
+        }, 
+        {
+          "origin": [
+            -23.5455427, 
+            -46.6383523
+          ], 
+          "distance": 338, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5432442, 
+            -46.63855119999999
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 271, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5432401, 
+            -46.6384748
+          ], 
+          "distance": 5959, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.517453, 
+            -46.681301
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 1612, 
+          "vehicle_type": "BUS", 
+          "wait": 420
+        }, 
+        {
+          "origin": [
+            -23.5175732, 
+            -46.681335
+          ], 
+          "distance": 359, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5200713, 
+            -46.6807986
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 266, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 516
+  }, 
+  {
+    "destination_region_id": 562, 
+    "destination_region": [
+      {
+        "teta": -145.0, 
+        "lat": -23.54160823, 
+        "lng": -46.68342969
+      }, 
+      {
+        "teta": -135.0, 
+        "lat": -23.54246382, 
+        "lng": -46.68452296
+      }, 
+      {
+        "teta": -15.0, 
+        "lat": -23.53976, 
+        "lng": -46.68335
+      }, 
+      {
+        "teta": 45.0, 
+        "lat": -23.53950962, 
+        "lng": -46.68148652
+      }, 
+      {
+        "teta": 55.0, 
+        "lat": -23.54041873, 
+        "lng": -46.68223539
+      }, 
+      {
+        "teta": 135.0, 
+        "lat": -23.54199445, 
+        "lng": -46.68206663
+      }
+    ], 
+    "weight": 28, 
+    "origin_region": [
+      {
+        "teta": -95.0, 
+        "lat": -23.53184043, 
+        "lng": -46.68608516
+      }, 
+      {
+        "teta": 40.0, 
+        "lat": -23.53165668, 
+        "lng": -46.68568424
+      }, 
+      {
+        "teta": 120.0, 
+        "lat": -23.53196441, 
+        "lng": -46.68556160000001
+      }
+    ], 
+    "origin_centroid": {
+      "lat": -23.5316665096, 
+      "lng": -46.68568980560001
+    }, 
+    "link": [
+      {
+        "lat": -23.5316665096, 
+        "lng": -46.68568980560001
+      }, 
+      {
+        "lat": -23.54155476482143, 
+        "lng": -46.68336688196429
+      }
+    ], 
+    "destination_centroid": {
+      "lat": -23.54155476482143, 
+      "lng": -46.68336688196429
+    }, 
+    "options": [
+      [
+        {
+          "origin": [
+            -23.5316665096, 
+            -46.68568980560001
+          ], 
+          "distance": 1755, 
+          "travel_mode": "UberX", 
+          "currency": "BRL", 
+          "price": 8, 
+          "destination": [
+            -23.54155476482143, 
+            -46.68336688196429
+          ], 
+          "phase": "headway", 
+          "duration": 480, 
+          "wait": 240
+        }
+      ], 
+      [
+        {
+          "origin": [
+            -23.5315698, 
+            -46.6858424
+          ], 
+          "distance": 125, 
+          "next_mode": "BUS", 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5325132, 
+            -46.68651990000001
+          ], 
+          "address_keywords": [], 
+          "phase": "access", 
+          "duration": 112, 
+          "vehicle_type": null, 
+          "wait": 0
+        }, 
+        {
+          "origin": [
+            -23.5323088, 
+            -46.6866197
+          ], 
+          "distance": 1612, 
+          "travel_mode": "TRANSIT", 
+          "price": 0, 
+          "destination": [
+            -23.541408, 
+            -46.682312
+          ], 
+          "address_keywords": [], 
+          "phase": "headway", 
+          "duration": 653, 
+          "vehicle_type": "BUS", 
+          "wait": 508
+        }, 
+        {
+          "origin": [
+            -23.5413824, 
+            -46.6822369
+          ], 
+          "distance": 220, 
+          "travel_mode": "WALKING", 
+          "price": 0, 
+          "destination": [
+            -23.5416381, 
+            -46.6832262
+          ], 
+          "address_keywords": [], 
+          "phase": "egress", 
+          "duration": 161, 
+          "vehicle_type": null, 
+          "wait": 0
+        }
+      ]
+    ], 
+    "origin_region_id": 660
+  }
+]

@@ -24,7 +24,7 @@ Instal Jupyter with pip:
 
 Install dependencies (you may use `setup.py` alternativelly):
 
-    pip install pandas haversine numpy scipy matplotlib sklearn hdbscan xmltodict
+    pip install .
 
 Configure API Keys:
 

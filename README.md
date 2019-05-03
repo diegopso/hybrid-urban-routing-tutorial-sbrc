@@ -49,5 +49,3 @@ To create API Keys you have to visit every provider's website:
 Start the notebook in the tutorial directory:
 
 	jupyter notebook
-	
-
